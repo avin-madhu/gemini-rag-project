@@ -64,7 +64,7 @@ def main():
     st.header("IHRD BOT")
 
     # Load the data source from a text file
-    file_path = "data.txt"  # Specify your text file name here
+    file_path = "data.json"  # Specify your text file name here
     data_source = load_data_source(file_path)
 
     # Initialize the vector store on startup

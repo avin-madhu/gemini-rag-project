@@ -1,0 +1,34 @@
+{
+    "Engineering Colleges": 
+    {
+        "College of Engineering Chengannur":
+        {
+            "Principal": "Hari V S",
+            "Courses offered": 
+            {
+                "Computer Science":
+                {
+                    "HOD": "Gopakumar",
+                    "faculties": "Manju S Nair"
+                },
+                "Electrical Engineering": 
+                {
+                    "HOD": "Deepa Miss",
+                    "Faculties":
+                    {
+
+                    }
+                },
+                "Electronic and Communications Engineering": 
+                {
+                    "HOD": "",
+                    "faculties": 
+                    {
+
+                    }
+                }
+            },
+            "Location":"Chengannur"
+        }
+    }
+}
