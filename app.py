@@ -73,7 +73,7 @@ def main():
     st.markdown(hide_sl_style, unsafe_allow_html=True)
     st.markdown("""
         <style>
-        .css-15zrgzn {display: none}
+        a {display: none}
         </style>
         """, unsafe_allow_html=True)
 
