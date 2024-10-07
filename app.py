@@ -71,6 +71,11 @@ def main():
     </style>
 """
     st.markdown(hide_sl_style, unsafe_allow_html=True)
+    st.markdown("""
+        <style>
+        .css-15zrgzn {display: none}
+        </style>
+        """, unsafe_allow_html=True)
 
     # Load the data source from a text file
     file_path = "data.json"  # Specify your text file name here
