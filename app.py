@@ -83,7 +83,7 @@ def main():
 
     # Initialize the vector store on startup
     if not os.path.exists("faiss_index.index"):
-        st.info("Processing data source...")
+        st.info("Scraping data source...")
         text_chunks = get_text_chunks(data_source)
         get_vector_store(text_chunks)
         # st.success("Data source processed and vector store created.")
