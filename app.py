@@ -86,7 +86,7 @@ def main():
         st.info("Scraping data source...")
         text_chunks = get_text_chunks(data_source)
         get_vector_store(text_chunks)
-        # st.success("Data source processed and vector store created.")
+        st.success("Fetched from data source")
 
     user_question = st.text_input("Have a query on IHRD? ask")
 
