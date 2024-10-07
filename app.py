@@ -63,6 +63,15 @@ def main():
     st.set_page_config("Chat Data Source")
     st.header("IHRD BOT")
 
+    hide_sl_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+"""
+    st.markdown(hide_sl_style, unsafe_allow_html=True)
+
     # Load the data source from a text file
     file_path = "data.json"  # Specify your text file name here
     data_source = load_data_source(file_path)
