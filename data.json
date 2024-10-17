@@ -1,34 +1,290 @@
 {
-    "Engineering Colleges": 
-    {
-        "College of Engineering Chengannur":
-        {
-            "Principal": "Hari V S",
-            "Courses offered": 
-            {
-                "Computer Science":
-                {
-                    "HOD": "Gopakumar",
-                    "faculties": "Manju S Nair"
-                },
-                "Electrical Engineering": 
-                {
-                    "HOD": "Deepa Miss",
-                    "Faculties":
-                    {
-
-                    }
-                },
-                "Electronic and Communications Engineering": 
-                {
-                    "HOD": "",
-                    "faculties": 
-                    {
-
-                    }
-                }
-            },
-            "Location":"Chengannur"
+  "Engineering Colleges": {
+    "College of Engineering Chengannur": {
+      "Principal": "principal@ceconline.edu",
+      "Departments": {
+        "Computer Science Engineering": {
+          "Programs Offered": [
+            "B.Tech in Computer Science engineering - 4 year course",
+            "B.Tech in Artificial Intelligence and Machine Learning - 4 year course",
+            "Master of Computer Applications - 2 year course"
+          ],
+          "Number of Seats": {
+            "B.Tech in Computer Science engineering": 180,
+            "B.Tech in Artificial Intelligence and Machine Learning": 60
+          },
+          "Faculty": {
+            "HOD": "Sri Gopakumar G - Associate professor",
+            "Professors": [
+              "Dr. Shyama Das - Professor",
+              "Dr. Manju S Nair - Associate Professor"
+            ],
+            "Assistant Professors": [
+              "Smt. Jyothirmayi Devi C",
+              "Smt. Manjusha Nair S",
+              "Smt. Princy Sugathan",
+              "Sri. Ajoy Thomas",
+              "Smt. Geetha S",
+              "Smt. Shiny B",
+              "Smt. Betty James",
+              "Smt. Naseena N",
+              "Smt. Sreelekshmi K R",
+              "Smt. Arathy U P",
+              "Smt. Angel Thankam Thomas",
+              "Smt. Shereena Thampi",
+              "Smt. Ameena A",
+              "Smt. Rosy K Philip",
+              "Smt. Neethu Treesa Jacob",
+              "Sri. Vishnu S Kumar",
+              "Smt. Jithy John",
+              "Smt. Syeatha Merlin Thampy",
+              "Smt. Anjitha P",
+              "Dr. Sushitha Susan Joseph",
+              "Smt. Alka Vijay",
+              "Smt. Leya G",
+              "Smt. Chinchu M Pillai",
+              "Smt. Shabana Mol S",
+              "Smt. Sulaja Sanal",
+              "Smt. Reshma Raj K S",
+              "Smt. Reshma Ann Mathews",
+              "Smt. Premy P Jacob",
+              "Smt. Linnet Elsa John",
+              "Smt. Josmi Jose",
+              "Smt. Sruthy RS",
+              "Smt. Syama S",
+              "Smt. Neethu Verjisen"
+            ]
+          },
+          "Technical Staff": [
+            "Smt. Jalaja Kumari R - Trade Instructor",
+            "Smt. Manju J - Computer Programmer",
+            "Smt. Dhanya R - Computer Programmer",
+            "Sri. Akshay Das - Demonstrator",
+            "Smt. Santhi Krishna - Tradesman",
+            "Smt. Priya Nair S - Tradesman",
+            "Smt. Renju R - Tradesman"
+          ],
+          "Vision": "Emerge as a meritorious centre in computing to mould competent and socially committed professionals.",
+          "Mission": [
+            "Nurture a stimulating environment by means of quality education and state of the art facilities to groom young minds for their professional career, higher education and innovative research.",
+            "Foster managerial and entrepreneurial skills of students through co-curricular and extra-curricular activities.",
+            "Facilitate the students to address socially relevant problems with professional ethics and values."
+          ],
+          "HOD Email": "hod.cse@ceconline.edu"
+        },
+        "Electrical Engineering": {
+          "Number of Seats": {
+            "B.Tech in Electrical Engineering": 60
+          },
+          "Faculty": {
+            "HOD": "Dr. Rajeevan A K - Assistant Professor",
+            "Assistant Professors": [
+              "Dr. Raju M",
+              "Smt. Savith K P",
+              "Smt. Sherin Joseph",
+              "Sri. Bijukumar K",
+              "Smt. Geethu Zacharia",
+              "Smt. Veena Chandran S",
+              "Sri. Prasobh P",
+              "Smt. Soumya S",
+              "Smt. Hridya S G",
+              "Sri. Arun K Vijayan",
+              "Smt. Anaswara Mohan",
+              "Smt. Shanlu Priya S J",
+              "Sri. Anandu M A",
+              "Smt. Resmimol P R"
+            ]
+          },
+          "Technical Staff": [
+            "Sr. Benny Mathew V - Foreman",
+            "Sri. Suresh T K - Demonstrator",
+            "Sri. Rajeev Rajan - Demonstrator",
+            "Sri. Anil C D - Tradesman"
+          ],
+          "Vision": "Evolve into a department of excellence in Electrical Engineering to serve the emerging society by nurturing the innovative, ethical and creative talents of aspiring young professionals.",
+          "Mission": [
+            "Foster a quality oriented academic environment to provide a comprehensive understanding of Electrical and Electronics Engineering.",
+            "Mould technically accomplished Electrical Engineers and Entrepreneurs through institute-industry interactions.",
+            "Equip the students with technical know-how, professionalism and social values."
+          ]
+        },
+        "Electronics and Communication Engineering": {
+          "Number of Seats": {
+            "B.Tech in Electronics and Communication Engineering": 120
+          },
+          "Faculty": {
+            "HOD": "Dr. Laila D - Professor",
+            "Professors": [
+              "Dr. Deepa J",
+              "Dr. Shanavaz K T",
+              "Dr. Rajesh Mohan R",
+              "Dr. Sarah Jacob"
+            ],
+            "Associate Professors": [
+              "Sr. Shiji T P",
+              "Dr. Hari V S",
+              "Smt. Deepa V S",
+              "Smt. Sheeja P George"
+            ],
+            "Assistant Professors": [
+              "Smt. Raji A",
+              "Smt. Nisha Rajan S",
+              "Sri. Sam K Sumesh",
+              "Sr. Stylish S V",
+              "Sri. Saji Kumar T V",
+              "Dr. Jisha Raj R",
+              "Sri. Yasim Khan M",
+              "Smt. Deepa Susan Jacob",
+              "Smt. Anuja V Nair",
+              "Sri. Vibesh B Panicker",
+              "Smt. Dhivya Raj",
+              "Smt. Darsana S",
+              "Smt. Varsha P S",
+              "Smt. Anupama A",
+              "Smt. Neethu Verjisen",
+              "Smt. Sruthi B R",
+              "Smt. Rijimol Mathew",
+              "Smt. Anju V Sathyan",
+              "Smt. Sreechandanalal J",
+              "Smt. Neethu Anilkumar",
+              "Smt. Renjitha"
+            ]
+          },
+          "Technical Staff": [
+            "Smt. Bindhu V - Demonstrator/ Workshop Instructor",
+            "Smt. Mini S - Trade Instructor (Grade II)",
+            "Sri. Prem P - Trade Instructor (Grade II)",
+            "Sri. Binesh Joseph - Trade Instructor (Grade II)",
+            "Sri. M Suresh - Trade Instructor (Grade II)",
+            "Sri. Muhammed Mubarack P S - Demonstrator/ Workshop Instructor",
+            "Smt. Chandralekha C - Demonstrator/ Workshop Instructor",
+            "Sri. Chinthumon C G - Demonstrator/ Workshop Instructor"
+          ],
+          "Vision": "Evolve into a centre of learning in Electronics Engineering that transforms students into competent professionals with knowledge, skill and ethical values for the development of society.",
+          "Mission": [
+            "Impart excellent knowledge in Electronics Engineering to face challenges and apply new technologies for the betterment of the society.",
+            "Orient students towards research and entrepreneurship.",
+            "Include ethical and social values to students."
+          ],
+          "HOD Email": "hod.ece@ceconline.edu"
+        },
+        "General Engineering": {
+          "Faculty": {
+            "HOD": "Sri. Jayadeep Kumar J - Assistant Professor",
+            "Assistant Professors": [
+              "Sri. Sarath Kumar S",
+              "Smt. Athira Thulasidas",
+              "Sri. Jamshak S H",
+              "Smt. Amritha P Vijay"
+            ]
+          },
+          "Technical Staff": [
+            "Sri. Radhakrishnan N S - Foreman",
+            "Sri. Arun Kumar S - Tradesman (Mechanical)",
+            "Sri. Akhi - Tradesman (Mechanical)",
+            "Smt. Rakhy T R - Tradesman (Civil)"
+          ]
+        },
+        "Basic Science and Language": {
+          "Faculty": {
+            "HOD": "Smt. Pushpa L - Associate Professor in Chemistry",
+            "Email": "pushparajeshg@gmail.com",
+            "Professors": ["Dr. Madhusoodhanan Nair R - Professor in Physics"],
+            "Associate Professors": [
+              "Smt. Renu K K - Associate Professor in Mathematics"
+            ],
+            "Assistant Professors": [
+              "Smt. Jalaja M B - Mathematics",
+              "Sri. Amal Suresh - English",
+              "Smt. Jiji Anna Raju - English",
+              "Smt. Smitha K V - Economics",
+              "Smt. Lincy Thomas - Physics",
+              "Smt. Malavika M Kurup - Chemistry",
+              "Smt. Reji S - Mathematics",
+              "Jephzi Sara George - Mathematics"
+            ]
+          }
         }
+      },
+      "Number of Seats Available": {
+        "B.Tech in Computer Science and Engineering (AI and ML)": 60,
+        "B.Tech in Electrical Engineering": 60,
+        "B.Tech in Electronics and Communication Engineering": 120
+      },
+      "Fee Structure": {
+        "Merit Regulated Fee": {
+          "EEE": "Rs. 40,000/- per annum",
+          "CSE & ECE": "Rs. 45,000/- per annum"
+        },
+        "Merit Full Fee": {
+          "EEE": "Rs. 70,000/- per annum",
+          "CSE & ECE": "Rs. 75,000/- per annum"
+        }
+      },
+      "NRI Seats": {
+        "Allotment": "Managed by Institute of Human Resources Development (IHRD)",
+        "Seats": {
+          "CSE": 9,
+          "EEE": 3,
+          "ECE": 6
+        },
+        "Fees": {
+          "One-time Refundable Deposit": "Rs. 125,000/-",
+          "Annual Fee": "Rs. 110,000/- per annum"
+        }
+      },
+      "Training Placement Cell": {
+        "Mail ID": "tpc@ceconline.edu",
+        "Contact No": "0479-2451424"
+      },
+      "Organizations": {
+        "Technical Organizations": [
+          "IEEE",
+          "IEEE Computer Society",
+          "IEEE Robotics and Automation Society",
+          "IEEE Industry and Applications Society",
+          "IEEE Women In Engineering",
+          "IEEE Power and Energy Society",
+          "IEEE Sight",
+          "IEEE Signal Processing Society"
+        ],
+        "Non-Technical Organizations": [
+          "Naval NCC Unit",
+          "National Service Scheme"
+        ],
+        "Technical Details": {
+          "No. of IEEE Members": 447,
+          "No. of Events per Year": 120,
+          "Awards Won": 27
+        },
+        "FOCES": {
+          "Description": "Form for Computer Engineering Students",
+          "Website": "http://foces.org/"
+        },
+        "PRODDEC": "Product Design and Development Center",
+        "ExESS": "Electronics Students Society"
+      },
+      "Alumni": {
+        "Website": "http://cecians.in/",
+        "Contact Info": {
+          "Address": "College Of Engineering Chengannur, Chengannur P.O, Alapuzha District, Kerala",
+          "Pin Code": "689121",
+          "Phone Numbers": [
+            "+91-479-2455125 (Reception)",
+            "+91-479-2454125 (Office)",
+            "+91-479-2456046 (Principal)"
+          ],
+          "Email": "principal@ceconline.edu"
+        }
+      },
+      "Distances to Nearest Transit Points": {
+        "Bus Stand": "Chengannur (1/2 km)",
+        "Railway Station": "Chengannur – CNGR (1 km)",
+        "Airports": {
+          "Cochin International Airport": "110 km",
+          "Trivandrum International Airport": "120 km"
+        }
+      }
     }
+  }
 }
