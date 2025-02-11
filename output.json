@@ -1,0 +1,63 @@
+{
+    "principal_name": "Prof. (Dr.) Hari. V S",
+    "principal's-academic-qualifications": {
+      "Communication Systems": "PhD  from Cochin University of Science and Technology for thesis entitled “Design, Development and Realization of Quadratic Volterra Filters for Selected Applications” in 2013.",
+      "POSITIONS HANDLED": "MTech in",
+      "PUBLICATIONS": "from Indian Institute of Technology, Madras in 2006.",
+      "FIELDS OF EXPERTISE": "BTech in Electronics and Communication from TKM College of Engineering, Kollam in 1994.",
+      "RESEARCH": "Desiree Juby Vincent & Hari V S , ” Classification of Letter Image from Scanned Receipts using CNN” , October 23. DOI:",
+      "INDUSTRY INTERACTION": "Blessy Babu & Hari V S, “Automatic Detection of Modulation Schemes using Convolutional Neural Networks”, June 2023.DOI:",
+      "BOOKS PUBLISHED": "Varsha P S & Hari V S, ” Intelligent Deep Learning based Receivers”, August 2023,DOI:"
+    },
+    "principal's-contact": {
+      "address": "Principal , College of Engineering, Chengannur,Alappuzha (Dist.) – 689121",
+      "tel": "0479-2450435",
+      "email": "principal@ceconline.edu"
+    },
+    "principal's-positions": [
+      "Associate Professor, Dept. of Electronics Engg, CE, Chengannur",
+      "Associate Professor and Head, Department of EC,CE, Karunagappally",
+      "Principal in charge, CE, Karunagappally",
+      "Associate Professor and Head, Department of EC, CE Karunagappally",
+      "Lecturer (Selection Grade), Department of EC, CE Kottarakkara",
+      "Lecturer (Senior Grade), Department of EC, CE Karunagappally",
+      "Lecturer, Department of EC, CE, Chengannur",
+      "Electronics Laboratory Handbook with Simulations using Quite Universal Circuit Simulator (Qucs), Authors Press,New Delhi,ISBN-978-93-5529-048-9",
+      "Logic Circuit Design Laboratory practice with Qucs, ICs, Verilog and Mini FPGA, Authors Press, New Delhi, ISBN – 978-93-5529-175-2"
+    ],
+    "principal's-fields-of-expertise": [
+      "LATEX, PsTricks ,html, dia, Linux, xcircuit, LATEXDraw, C",
+      "python, QUCS, MATLAB, LabVIEW",
+      "Scipy, Numpy ,Keras, Tensorflow, Dash"
+    ],
+    "principal's-research": [
+      "Incorporated a company Rand Walk Research and Solutions Pvt. Ltd. on June 20,2020 under the Faculty startup scheme of the Govt.of Kerala. It is awarded the startup status by the Govt. of India. The company takes up projects in data analysis, machine learning and computer vision."
+    ],
+    "principal's-industry-interactions": [
+      "Minimization of atomic norm in vibration signals",
+      "Modeling the plasticity in friction stir ",
+      "welding",
+      "Sorting ",
+      "CrunchBase Data",
+      "Conversion of Telemetry data into Engineering ",
+      "units",
+      "Identification of Small Mechanical ",
+      "Parts",
+      "Implementation of Nomadic People Optimizer in ",
+      "Python",
+      "Identification of peaks in NMR ",
+      "data",
+      "Development of Recommender Systems for Automated Purchase",
+      "Identification of entities from images of receipts",
+      "Optimizationof Pune Mahanagar ",
+      "Parivahan ",
+      "Mahamandal Ltd. (PMPML) Bus ",
+      "Routes"
+    ],
+    "principal's-books-published": [
+      "Electronics Laboratory Handbook with Simulations using Quite Universal Circuit Simulator (Qucs), Authors Press,New Delhi,ISBN-978-93-5529-048-9",
+      "Logic Circuit Design Laboratory practice with Qucs, ICs, Verilog and Mini FPGA, Authors Press, New Delhi, ISBN – 978-93-5529-175-2"
+    ],
+    "files": []
+  }
+  
