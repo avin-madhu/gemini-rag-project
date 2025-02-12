@@ -1,12 +1,187 @@
 [
     {
-        "information about the principal": {
-            "Principal Name": "Dr.Deepa J",
-            "principal Desgination": "Principal",
-            "phone or contact number of the principal": "Phone : 04692677890",
-            "fax Number of the principal": "Fax : 04692678688",
-            "Mobile Number of the principal": "",
-            "Email ID of the principal": "principal@cek.ac.in"
+        "Admnistration staff Data": [
+            {
+                "Name": "Danley Mary Johnson",
+                "Designation": "Senior Superintendent",
+                "E-mail": "danleyjohnson@gmail.com",
+                "Phone Number": "9495052463"
+            },
+            {
+                "Name": "Anoop Raj T. V.",
+                "Designation": "Junior Superintendent",
+                "E-mail": "anoopraj@ceknpy.ac.in",
+                "Phone Number": "7561866090"
+            },
+            {
+                "Name": "Anusree S Vijayan",
+                "Designation": "DEO",
+                "E-mail": "8330877578",
+                "Phone Number": "anusreechippy@gmail.com"
+            },
+            {
+                "Name": "Manju. T",
+                "Designation": "DEO",
+                "E-mail": "9539852430",
+                "Phone Number": "Pramodmanju5000@gmail.com"
+            },
+            {
+                "Name": "Hamna. H",
+                "Designation": "Office Assistant",
+                "E-mail": "hamnanizar1981@gmail.com",
+                "Phone Number": "9400862026"
+            },
+            {
+                "Name": "Leena Jijo",
+                "Designation": "Office Assistant",
+                "E-mail": "974458353",
+                "Phone Number": "leenajeejo@gmail.com"
+            },
+            {
+                "Name": "Rajeev R",
+                "Designation": "Office Assistant",
+                "E-mail": "7561875472",
+                "Phone Number": "r.rajeev256@gmail.com"
+            },
+            {
+                "Name": "Ajayakumar V.",
+                "Designation": "LGS",
+                "E-mail": "ajayan@ceknpy.ac.in",
+                "Phone Number": "9496208790"
+            },
+            {
+                "Name": "LGS",
+                "Designation": "lijup@ceknpy.ac.in",
+                "E-mail": "9846226022",
+                "Phone Number": "Gardner"
+            },
+            {
+                "Name": "nufile@ceknpy.ac.in",
+                "Designation": "9995848308",
+                "E-mail": "Shihabudeen A.",
+                "Phone Number": "Sweeper cum Peon"
+            }
+        ]
+    },
+    {
+        "Data about Management of CEK": "Institute of Human Resources Development is an autonomous educational institution established by the Government of Kerala in 1987. The institute is registered under The Travancore \u2013 Cochin Literary, Scientific and Charitable societies registrations Act 12 of 1955. The Institute's Memorandum of Association and its rules and regulations have been judiciously framed with built-in growth provisions. The management of the institute is vested with a Governing Body composed of\u00a0 ex-officio members only with the Hon\u2019ble Minister of\u00a0 Education, Kerala State, as\u00a0 the Chairman and Principal Secretary, Higher Education Department, Government of Kerala as the Vice-Chairman. Institute of Human Resources Development is dedicated to the scientific advancement, technological progress and economic growth of the country through human resources development. Based on the principle, \" Think Globaly and Act Locally\" it endeavours to bring about the welfare of the nation. It endeavours to provide education and training of consistently high stands through innovative and versatile programmes suitable for\u00a0 the current and emerging needs of the community.\u00a0 Institute of Human Resources Development \u00a0"
+    },
+    {
+        "About the Library of CEK": [
+            {
+                "About the Library": "College has a well furnished library and information center which stacks with a lot of books of interest including technical text books in various subjects, various journals, magazines and news papers of national and international standards. The library has a collection over 17500 volumes of books. The carpet area of the library is 1000 sqm.",
+                "Library Timing": "The library is open from 8.15am to 6pm on all working days.",
+                "Library Collection": "There are Three types of Book Collection in the Library. TEQIP(Purchase under TEQIP Fund) , General Collection (Purchased under IHRD Fund) and Book Bank ( Sponsored by SC/ST Welfare Department.",
+                "Journals and Magazines at the Library": "42 National journals and 5 magazines are being regularly subscribed in print form. 5 Popular News papers are also available in the Library.",
+                "Membership of Library": "Library membership is free to all students, teaching and non-teaching staff."
+            }
+        ]
+    },
+    {
+        "Contact information of CEK": [
+            {
+                "Way to reach College of Engineering Karungappally": {
+                    "By Bus": "Closest to the college the Karunagappally bus stand where in buses to Engineering college via Veluthamanal and Driver junction are avilable during most of the hours. From Bus stand only 4km to the college.\r\n",
+                    "By Train": "The college is located 1.5 km away from the railway station and can be reached very easily. Most of the major trains stop at karunagappally else where kollam and kayamkulam are the next major stations\r\n",
+                    "By Air": "The nearest airport is the Thiruvananthapuram central airport which is 90 km away from karunagappally.The next nearest airport is the Nedumbassery airport which is 140 km away from the college."
+                }
+            },
+            {
+                "Contact number of CEK": [
+                    "0476- 2666160(P)",
+                    "8547005036",
+                    "0476- 2665935(O)"
+                ]
+            }
+        ]
+    },
+    {
+        "About the Infrastructure at CEK": {
+            "Data about building and Labs": "The college has well designed buildings and separate labs for each department. There are three academic blocks and six laboratory workshop block.",
+            "Information about the roads to the college (CEK)": "All building in the campus are well connected by minimized roads with proper sign boards posted at every junction.",
+            "About the placement activities": "The college has an excellent campus placement record. To enhance this, regular courses on Communication English different institutions are take classes on the campus. Personality development program is arranged by Training and Placement Unit (TPC). Institution focuses the next generation technology and help the students to build their carrier that fulfills their destiny. ",
+            "PTA (parent teacher association) at CEK": "The college maintains very close relation with the parents of the students through a Parent-Teacher Association. There is a P.T.A Executive Committee which conducts meetings in every three months and suggests various improvements if any, needed for the smooth functioning of the college. All parents assemble in the college once in a year for the P.T.A general body meeting.\r\n",
+            "Transportation details at CEK": "Though the college is well connected to major towns via public transport system during peak hours and the college has its own transportation facilities. The college provides two bus services that running four trips each to two directions for the facilities of the students in and around Karunagappally.\r\n",
+            "Water supply at CEK": "A more than sufficient water distribution network is installed in the campus. Three major water tanks of about 1000 liter each is installed.."
+        }
+    },
+    {
+        "Data about the Anti Ragging Squad": {
+            "List of Executive Commitee Members in Anti Ragging Squad": [
+                {
+                    "Name": "Dr. Gopakumar C",
+                    "Phone Number": "8848785056"
+                },
+                {
+                    "Name": "Dr. Shajy L",
+                    "Phone Number": "9447594171"
+                },
+                {
+                    "Name": "Smt. Haseena P Y",
+                    "Phone Number": "9496292310"
+                },
+                {
+                    "Name": "Sri. Shaisa P",
+                    "Phone Number": "9446069274"
+                },
+                {
+                    "Name": "Sri Radhakrishnapillai",
+                    "Phone Number": "9446021695"
+                },
+                {
+                    "Name": "Sri. Liju P",
+                    "Phone Number": "9846226022"
+                },
+                {
+                    "Name": "Sri. Sunil A N",
+                    "Phone Number": "9447345267"
+                }
+            ]
+        }
+    },
+    {
+        "About the Overview of the college": {
+            "Overview of the college (CEK)": "College of Engineering Karunagappally is a premier institute of engineering that has carved a niche for itself in the field of technical education in a very short span of time. Since its inception in 2000, under the aegis of IHRD, the college has made its presence felt in the technical horizon of the state. It has been approved by All India Council for Technical Education (AICTE) and recognized by APJ Abdul Kalam Technological University (KTU). Being located in Karunagappally, Kollam district, the college has got access to all means of transport, communication and lodging facilities. The college offers a wide range of activities to stimulate the innovative potential of students. In view of its outstanding performance in education, the college was granted an aid of Rupees 10 Crore by the MHRD under the Technical Education Quality Improvement Programme (TEQIP II). The institute campus is enabled with round the clock WiFi connection and also connected to the National Knowledge Network grid which enables collaborative research, development and innovation amongst NKN connected institutes facilitating advanced distance education in specialized fields of engineering. The college offers transportation facilities to nearby cities (Kollam and Kayamkulam) by institute buses. In addition hostel facilities are arranged for girls and boys.",
+            "Vision of CEK": "Excel in professional education and research to fulfill the technological needs of the society.",
+            "Mission": "Provide education through resourceful programmes that are stimulus to the current and emerging needs of the society . Promote innovative teaching and learning to achieve academic excellence in engineering and technology. Create an environment conducive for innovative research in cutting edge technologies. Equip the students with professionalism, ethical values and social obligations",
+            "Programmes Offered": {
+                "Btech": [
+                    "Computer Science & Engineering  120 seats",
+                    "Electrical & Electronics Engineering  60 seats",
+                    "Electronics & Communication Engineering  30 seats",
+                    "Mechanical Engineering  60 seats"
+                ],
+                "Mtech": "Electronics and Communication Engineering with specialization in Signal processing  18 seats"
+            },
+            "Memorandum of Understanding": "MOUs for academic excellence is to reinforce the Industry Institute interaction. College of Engineering Karunagappally has signed MOUs with leading industries across the state. Students are allowed to do internship in these industries during the course of study. The college has signed MOU's with RCC, SCTIMST in the field of image processing and with ICT academy for providing training for students and teachers and for placement activities. Also with NSE.IT for providing infrastructure and manpower resources to conduct Computer based exams.",
+            "Student Professional Bodies": "With the intention of improving the technical skill and personality, various professional bodies and clubs are formed. Students can attend conferences conducted by these professional bodies at a discounted rate and hear from keynote speakers in the industry. When students go for an interview, they can impress the employer by knowing all the trends in the field that they learned from the conference. Indian Society for Technical Education (ISTE) Institution of Electrical and Electronics Engineers (IEEE) Computer Society of India (CSI) Innovation and Entrepreneurship Development Cell (IEDC)",
+            "Data about College Library": "The library has an excellent collection of books from various branch of engineering science & technology and also from humanities and science, for the benefit of students and faculty members. The library receives regularly journals and newsletters from various organization and professional bodies and provides students and faculty the latest information in technical education, research and developmental activities. The library functions from 8.15 am  6.00 pm on all working days and provides envious number of reference materials Number of Reference Titles  5256 Online journals  IEEE and Springer and National Journals 42 Magazines and Newspapers : 13",
+            "Training and Placement Cell of CEK": "Training and Placement Cell (TPC) is guided by a Placement and Training officer and is enriched by student members. TPC prepares the students to face competitive examinations and interviews through intensive training programmes encompassing aptitude tests, group discussions, mock interviews and the basics of behavioral psychology & body language. It assists students in career planning and also provides information on postgraduate courses. Under Industry Institute interaction various expert lecturers ,industrial tutoring, internship, industrial visits etc have been conducted. Former students of our institution are pursuing Ph.D at premier institutes like IIT's and NIT's. Major companies who have recruited from our college are",
+            "Alumni details about CEK": "The institution has a well established alumni association. All students of the college who have completed the course are de facto members of the association. Alumni are actively participating in all development activities of the institution.",
+            "Parent-Teacher Association (PTA) of CEK": "The college PTA provides support for the improvement in the infrastructure facilities and other activities towards the welfare of the students. The Principal acts as the Patron of PTA. College canteen, hostel for girls and bus services are run by PTA.",
+            "College Hostel": "The institute has hostel for both girls and boys situated near to the college. Hostel is managed by the hostel development committee. The mess is run on dividing system under the supervision of mess committee. Ms. Shiny C. (Asst. Professor) is the girls hostel warden; Reju John (Asst.Professor) boys hostel warden. College bus is operated between college and hostel on all working days.",
+            "Canteen": "College canteen is functioning inside the campus managed by the Canteen Committee and takes ample care in maintaining cleanliness and hygiene.",
+            "ATM Counter": "The institute provides an ATM counter within the campus for the staff and students to handle their financial transactions effortlessly.",
+            "Sports and Cultural Festivals": "The college provides good infrastructure facilities for students to prove their mettle in sports and games. The students of the college has actively participated and succeeded in arts, sports and games at the inter collegiate & university levels. Students were also able to compete in State level competitions."
+        }
+    },
+    {
+        "Data about the Principal of CEK": {
+            "Principal Name": "Dr. SMITHA DHARAN",
+            "Department of the principal": "Department of Computer Science & Engineering",
+            "Address of the principal": {
+                "college": "College of Engineering, Karunagappally",
+                "place and PIN Code": "Kollam, Kerala, Thodiyoor P O. Pin 690523."
+            },
+            "Phone Number and Fax Number of the Principal": "Ph:0476-2666160, Fax:0476-2666160",
+            "Email ID of the principal": "Email : principal@ceknpy.ac.in"
+        }
+    },
+    {
+        "Academic Eligibility, Seats Distribution and Fees Structure of College of Engineering Karunagapally": {
+            "Information about admission of Merit Lower Fee Seats of CEK": "Allotment is through the Commissioner of Entrance Examinations, Govt. of Kerala, from the KEAM rank list. No of seats : 60 seats  in Computer Science, 30 seats  in AD, 22 seats in Electronics, 22 seats in Mechanical Engineering. The Fees for this category is Rs 20,000. The academic Eligibility of this group is: Candidates who have passed Higher Secondary Examination, Kerala, or Examinations recognized as equivalent thereto, with Physics and Mathematics as compulsory subjects and Chemistry as one of the optional subjects with atleast 45% marks put together in the above subjects are eligible for admission. In case, the candidate has not studied Chemistry, the marks obtained in Computer Science shall be considered. In case, the candidate has not studied Chemistry and Computer Science the marks obtained in Biotechnology shall be considered. In case, the candidate has not studied Chemistry, Computer Science and Biotechnology the marks obtained in Biology shall be considered. The marks as shown in the mark list of the Board of Examination obtained from the respective Higher Secondary Board shall be considered for academic eligibility. The Scheduled Castes and Scheduled Tribes candidates (SC/ST/ SEBC or PwD) the minimum mark obtained in Physics, Mathematics, Chemistry/Computer Science/Biotechnology/Biology taken together in qualifying examination shall be 40% instead of 45%.",
+            "Information about the Merit Full seats": " The allotment of students is By the Commissioner of Entrance Examinations, Govt. of Kerala, from the KEAM rank list. The seat distribution is: 54 seats in CS, 27 seats in AD, 6 seats in EC, 6 seats in ME. The Fees structure of this category is: Rs. 65,000/- per year. Can pay in two installments (35,000 at the beginning of odd semester + 30,000 at the beginning of even semester)",
+            "Information about NRI Seats": "The allotment is By the Director of IHRD from the list of applicants. No of seats is as follows: 2 seats each in ECE and ME,  6 seats in CS, 3 seats in AD. The Academic Eligibility is as follows:  Candidates who have passed Higher Secondary Examination, Kerala or Examinations recognized as equivalent thereto, with 45% marks in Mathematics, Physics & Chemistry put together (or equivalent subjects specified in prospectus of KEAM-2023) are eligible for admission under NRI seats in Engineering Colleges under IHRD. The Scheduled Castes and Scheduled Tribes candidates need only a pass in the qualifying examination. The Fees Structure for NRI Seats are as follows: Fees : Rs. 1,00,000/- per year. A refundable deposit of Rs.1,25,000/- to be paid at the time of admission ( as was followed on the previous year, till any modification ordered by Govt. of Kerala / IHRD)"
         }
     }
 ]
