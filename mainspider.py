@@ -76,7 +76,7 @@ def main():
     # process.crawl(CEK_contact)
     # process.crawl(CEK_placement)
     # process.crawl(CEK_library)
-    process.crawl(CEK_fees_structure)
+    # process.crawl(CEK_fees_structure)
 
     # MODEL ENGINEERING COLLEGE
     # with sync_playwright() as playwright:
@@ -168,11 +168,14 @@ def main():
 
 
     #COLLEGE OF ENGINEERING KALOOPAARA
-    # process.crawl(CEKP_principal)
-    # process.crawl(CEKP_admission_mtech)
-    # process.crawl(CEKP_admission_btech)
-    # process.crawl(CEKP_department_ec)
-    # process.crawl(CEKP_department_cs)
+    process.crawl(CEKP_principal)
+    process.crawl(CEKP_admission_mtech)
+    process.crawl(CEKP_admission_btech)
+    process.crawl(CEKP_department_ec)
+    process.crawl(CEKP_department_cs)
+    process.crawl(CEKP_department_cs_cyber)
+    process.crawl(CEKP_department_eee)
+    process.crawl(CEKP_department_geas)
     process.start()
 
 if __name__ == "__main__":

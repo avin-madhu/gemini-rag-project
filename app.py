@@ -15,6 +15,7 @@ College of Engineering Karunagapally - 2
 Model Engineering College            - 3
 College of Applied Science Adoor     - 4
 College of Engineering Poonjar       - 5
+College of Engineering Kalloopaara   - 6
 """
 
 college_data_paths = [
@@ -24,6 +25,7 @@ college_data_paths = [
     'college_json_data/mec.json',
     'college_json_data/casa.json',
     'college_json_data/cep.json',
+    'college_json_data/cekp.json'
     ]
 
 @app.route("/get_data", methods=["POST"])
@@ -37,7 +39,6 @@ def get_response():
         college_index = data.get('colleges',None) # list from the frontend of colleges selected
         process_input = { "user_question":user_question, "college_file_path":college_data_paths[college_index]} 
         print(process_input)
-        print("hello")
         response = process_query(process_input)
         print(response)
         

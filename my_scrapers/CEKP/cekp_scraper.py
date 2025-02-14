@@ -187,7 +187,7 @@ class CEKP_department_cs(scrapy.Spider):
     def parse(self, response):
         # Extract the department head information
         data = response.css('p.MsoNormal span::text, p.MsoNormal b span::text').getall()
-        desc = ' '.join([data[i] for i in range(0, 5)])
+        desc = ' '.join([clean_text(data[i]) for i in range(0, 5)])
         print(desc)
         data = [clean_text(i) for i in data]
         print(data)
@@ -196,22 +196,131 @@ class CEKP_department_cs(scrapy.Spider):
             "Designation of HOD of CS Department": data[7],
             "Phone Number and Email of Hod of CS Department": data[8] + "and Email is hodcse@cek.ac.in"
         }
-        # print(hod_and_faculty_data[12])
-        # count = 1
-        # faculty_details = []
-        # for i in range(12, len(hod_and_faculty_data),3):
-        #     faculty_details.append(f"Name: {hod_and_faculty_data[i+1]} and his/her designation is {hod_and_faculty_data[i+2]}")
-        #     count += 1
-        # self.total_cs_data["Data about the Computer Science Department"] = {
-        #     "Data about the HOD of CS": hod_data,
-        #     "Data about the Faculty of CS": faculty_details,
-        #     "Description of CS Department": desc[-6]
-        # }
-        self.total_cs_data  = data
+        faculty_details = response.css('table.MsoNormalTable tbody tr td p.MsoNormal span::text').getall()
+        faculty_details = [clean_text(i) for i in faculty_details]
+        faculty_details = faculty_details[11:]
+        faculty_details = [i for i in faculty_details if i not in ['', 'Mrs.']]
+        print(faculty_details)
+        fac_data = []
+        for i in range(0,len(faculty_details),3):
+            fac_data.append(
+                   f"Faculty name is {faculty_details[i+1]} and his/her designation is {faculty_details[i+2]}"
+            )
+        self.total_cs_data["Information (Names and designation) or details about the faculty of CS (computer Science) Department"] = fac_data
+        self.total_cs_data["Information about the HOD ( Head of department) of Computer Science (CS)"] = hod_data
+        self.total_cs_data["Description about the CS Department"] = desc
 
     def closed(self, response):
         with open('college_json_data/cekp.json', 'r') as f:
             data = json.load(f)
             data.append(self.total_cs_data)
+        with open('college_json_data/cekp.json', 'w') as f:
+            json.dump(data,f,indent=4)
+
+class CEKP_department_cs_cyber(scrapy.Spider):
+    name = "department_cs_cyber"
+    start_urls = [
+        'https://cek.ac.in/index.php/departments/computer-science-and-engineering-2',  # Replace with the actual URL
+    ]
+
+    total_cs_data = {}
+
+    def parse(self, response):
+        # Extract the department head information
+        data = response.css('p.MsoNormal span::text, p.MsoNormal b span::text').getall()
+        desc = clean_text(data[2])
+        no_of_seats = data[4]
+        data = [clean_text(i) for i in data]
+        print(data)
+        hod_data = {
+            "Name of Hod of CyberSecurity department": data[7],
+            "Designation of HOD of CyberSecurity Department": data[8],
+            "Phone Number and Email of Hod of CyberSecurity Department": data[9] + "and Email is hodcc@cek.ac.in"
+        }
+        fac_data = []
+        for i in range(20,54,7):
+            fac_data.append(
+                   f"Faculty name is {data[i+1]} and his/her designation is {data[i+2]}"
+            )
+        self.total_cs_data["Information (Names and designation) or details about the faculty of CS - CyberSecurity Department"] = fac_data
+        self.total_cs_data["Information about the HOD ( Head of department) of Computer Science-(CyberSecurity)"] = hod_data
+        self.total_cs_data["Description about the Cyber Security Department"] = desc
+        self.total_cs_data["Number of seats of Cyber Security Department"] = no_of_seats
+
+    def closed(self, response):
+        with open('college_json_data/cekp.json', 'r') as f:
+            data = json.load(f)
+            data.append(self.total_cs_data)
+        with open('college_json_data/cekp.json', 'w') as f:
+            json.dump(data,f,indent=4)
+
+class CEKP_department_eee(scrapy.Spider):
+    name = "department_eee"
+    start_urls = [
+        'https://cek.ac.in/index.php/departments/electrical-and-electronics-engineering',
+    ]
+
+    total_eee_data = {}
+
+    def parse(self, response):
+        # Extract the department head information
+        data = response.css('p.MsoNormal span::text, p.MsoNormal b span::text').getall()
+        desc = clean_text(data[2])
+        data = [clean_text(i) for i in data]
+        data = [i for i in data if i]
+        print(data)
+        hod_data = {
+            "Name of Hod of Electrical and Electronics Engineering department": data[4],
+            "Designation of HOD of Electrical and Electronics Engineering Department": data[5],
+            "Phone Number of Hod of Electrical and Electronics Engineering Department": data[6]
+        }
+        fac_data = []
+        for i in range(12,24,3):
+            fac_data.append(
+                   f"Faculty name is {data[i+1]} and his/her designation is {data[i+2]}"
+            )
+        self.total_eee_data["Information (Names and designation) or details about the faculty of Electrical and Electronics Engineering Department"] = fac_data
+        self.total_eee_data["Information about the HOD ( Head of department) of Electrical and Electronics Engineering"] = hod_data
+        self.total_eee_data["Description about the Electrical and Electronics Engineering Department"] = desc
+        # self.total_eee_data = data
+    def closed(self, response):
+        with open('college_json_data/cekp.json', 'r') as f:
+            data = json.load(f)
+            data.append(self.total_eee_data)
+        with open('college_json_data/cekp.json', 'w') as f:
+            json.dump(data,f,indent=4)
+
+class CEKP_department_geas(scrapy.Spider):
+    name = "department_geas"
+    start_urls = [
+        'https://cek.ac.in/index.php/departments/general-engineering-applied-sciences',
+    ]
+
+    total_geas_data = {}
+
+    def parse(self, response):
+        # Extract the department head information
+        data = response.css('p.MsoNormal span::text, p.MsoNormal b span::text').getall()
+        desc = clean_text(data[1])
+        data = [clean_text(i) for i in data]
+        data = [i for i in data if i]
+        print(data)
+        hod_data = {
+            "Name of Hod of General Engineering and Applied Sciences department": data[3],
+            "Designation of HOD of General Engineering and Applied Sciences Department": data[4],
+            "Phone Number and Email of Hod of General Engineering and Applied Sciences Department": data[5]
+        }
+        fac_data = []
+        for i in range(10,21,3):
+            fac_data.append(
+                   f"Faculty name is {data[i+1]} and his/her designation is {data[i+2]}"
+            )
+        self.total_geas_data["Information (Names and designation) or details about the faculty of General Engineering and Applied Sciences Department"] = fac_data
+        self.total_geas_data["Information about the HOD ( Head of department) of General Engineering and Applied Sciences"] = hod_data
+        self.total_geas_data["Description about the General Engineering and Applied Sciences Department"] = desc
+    def closed(self, response):
+        with open('college_json_data/cekp.json', 'r') as f:
+            data = json.load(f)
+            data.append(self.total_geas_data)
         with open('college_json_data/cekp.json', 'w') as f:
             json.dump(data,f,indent=4)

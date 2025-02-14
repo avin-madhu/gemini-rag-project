@@ -1,0 +1,129 @@
+[
+    {
+        "Information (Names and designation) or details about the faculty of CS (computer Science) Department": [
+            "Faculty name is Mrs. ANITHA JOSE and his/her designation is Assistant Professor",
+            "Faculty name is Mr. PRASANNAKUMARAN K.S and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.MANIVEENA C and his/her designation is Assistant Professor",
+            "Faculty name is Mrs. NIMITHA MARY MOHAN and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.JINIGEORGE and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.ATHIRA S and his/her designation is Assistant Professor",
+            "Faculty name is SHILPA RADHAKRISHNAN and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.SHILPA SAJEEV and his/her designation is Assistant Professor",
+            "Faculty name is SREELEKSHMI S and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.NEENA S and his/her designation is Assistant Professor",
+            "Faculty name is Mrs. ANILA S and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.INDHU NEHRU and his/her designation is Computer Programmer",
+            "Faculty name is Mr. NIKHIL PRASAD and his/her designation is Computer Programmer",
+            "Faculty name is Mr. NISHANT K THOMAS and his/her designation is Computer Programmer",
+            "Faculty name is Ms.ARCHA M G and his/her designation is Demonstrator"
+        ],
+        "Information about the HOD ( Head of department) of Computer Science (CS)": {
+            "Name of Hod of CS department": "Dr. RENU GEORGE",
+            "Designation of HOD of CS Department": "Assistant Professor",
+            "Phone Number and Email of Hod of CS Department": "Contact Ph.No. 04692677890(off.)and Email is hodcse@cek.ac.in"
+        },
+        "Description about the CS Department": "About Computer Science and Engineering at CE Kallooppara TheDepartment of Computer Science and Engineeringat College of Engineering Kallooppara offers PG and UG programmes in Computer Science. The UG course leading to the degree of B.Tech in Computer Science and Engineering ofA PJ Abdul Kalam Technological University(KTU) is aimed at providing knowledge in both theoretical and practical aspects of Computer Science. It provides specialization in a wide range of hardware and software subjects. The hardware subjects include Computer Network Design, Advanced Computer Architecture, Parallel Processing etc. The software subjects include Object Oriented Programming, Database Management Systems etc. The curriculum also comprises management papers like Industrial Organization and Management, Reliability and Quality Control. In order to bridge the gap between knowledge and its true application , students are required to undertake seminars, miniproject and a main project, that put them through an industry like situation. Thus , the course produces an ideal Software Engineer, well equipped to meet the challenges of the rapidly changing IT industry. TheMaster of Technologyprogram inComputer sciencewith specialization inCyber Forensics and Information SecurityatCollege of Engineering Kalloopparacombines the disciplines of technology, business, organizational behavior, and law. As new technological innovations continue to proliferate in our society, so do the opportunities for technology exploitation. In this program,students learn techniques used to detect, respond to, and prevent network intrusions. They also master broader concepts such as the responsible use of resources, the appropriate management of risks, and the alignment of information technology with the organization. Converting them to a computer investigating specialist is the main objective of this program."
+    },
+    {
+        "Information (Names and designation) or details about the faculty of Electrical and Electronics Engineering Department": [
+            "Faculty name is Mr.JAISON JAMES and his/her designation is Asst. Professor & HOD",
+            "Faculty name is Mr.DEEPU V S and his/her designation is Asst. Professor",
+            "Faculty name is Ms.JINCY J M and his/her designation is Asst. Professor",
+            "Faculty name is Ms. REVATHY ANIL and his/her designation is Asst. Professor"
+        ],
+        "Information about the HOD ( Head of department) of Electrical and Electronics Engineering": {
+            "Name of Hod of Electrical and Electronics Engineering department": "Mr. JAISON JAMES",
+            "Designation of HOD of Electrical and Electronics Engineering Department": "Assistant Professor",
+            "Phone Number of Hod of Electrical and Electronics Engineering Department": "Contact Ph.No. 04692677890(off.), 9447659175 (Mob)"
+        },
+        "Description about the Electrical and Electronics Engineering Department": "Electrical & Electronics Engineeringis one of the oldest, core fields of engineering, always evergreen in terms of scope, job prospects and implementation. The Electrical Department at CEK is the youngest Department which came into existence in 2013. Ever since, its existence, it has strived and succeeded in producing students who are technically sound and employable. Electrical & Electronics Engineering serves as an appropriate launch pad for several allied fields including Electronics and Communication, Computer Science and Engineering, Aerospace Engineering, Nano Electronics, Photonics, Biomedical Instrumentation, Sensor Technology and numerous others. The Electrical branch has boundless careeropenings in terms of jobs, selfemployment and higher studies. power generation, transmission and distribution, maintenance of electrical drives and devices, design of electrical systems, installation of lighting and power loads for domestic and industrial applications are the potential zones of work for EEE engineers. The present day development in the field of Electric Vehicles and Green Building has opened a whole new corridor of opportunities for Electrical Engineers. Alternatively, students can also opt to become certifiedEnergy Auditor and Energy Manager and pursue a successful career in the field of energy auditing and management."
+    },
+    {
+        "Information (Names and designation) or details about the faculty of General Engineering and Applied Sciences Department": [
+            "Faculty name is Mrs.VALSALA P.L and his/her designation is Associate Professor(Mathematics)",
+            "Faculty name is Mr.SANTHOSH.K.S and his/her designation is Associate Professor(Mathematics)",
+            "Faculty name is Mrs.ASHA.G.NATH and his/her designation is Assistant Professor(Mathematics)",
+            "Faculty name is Mr. RAJESH S and his/her designation is Asst Professor(Mechanical Engineering)"
+        ],
+        "Information about the HOD ( Head of department) of General Engineering and Applied Sciences": {
+            "Name of Hod of General Engineering and Applied Sciences department": "Dr.ASHOK KUMAR T V",
+            "Designation of HOD of General Engineering and Applied Sciences Department": "Associate Professor (Mechanical Engineering)",
+            "Phone Number and Email of Hod of General Engineering and Applied Sciences Department": "Contact Ph.No. 04692677890(off.)"
+        },
+        "Description about the General Engineering and Applied Sciences Department": "The department mainly handles basic subjects common for all branches that include Engineering Mechanics, Engineering Graphics, Basic Mechanical and Civil Engineering, Electrical Engineering, Power Electronics, Control Systems, Mathematics, Physics and Chemistry. In addition to this, subjects like Industrial Organization and Management, Financial management, Operations Research and Technical Communication & Social Sciences are also handled."
+    },
+    {
+        "Information (Names and designation) or details about the faculty of CS - CyberSecurity Department": [
+            "Faculty name is Mr. RAJ KUMAR T and his/her designation is Assistant Professor&",
+            "Faculty name is Ms.LEEBA MERIN SAM and his/her designation is Assistant Professor",
+            "Faculty name is Mrs. LEKSHMI RAMESH and his/her designation is Assistant Professor",
+            "Faculty name is Mrs.AMMU RAJ and his/her designation is Assistant Professor",
+            "Faculty name is Ms.SHILPA HARRISON and his/her designation is Assistant Professor"
+        ],
+        "Information about the HOD ( Head of department) of Computer Science-(CyberSecurity)": {
+            "Name of Hod of CyberSecurity department": "Mr. RAJ KUMAR T",
+            "Designation of HOD of CyberSecurity Department": "Assistant Professor",
+            "Phone Number and Email of Hod of CyberSecurity Department": "Contact Ph.No. 04692677890(off.)and Email is hodcc@cek.ac.in"
+        },
+        "Description about the Cyber Security Department": "The B.Tech Programme in Computer Science and Engineering( Cyber security) aims at developing competent professionals through seamless support and consultancy and creating a work force through high quality training programmes with greater focus on practical training to empower them with necessary industrial, investigative and managerial skills to tackle the cyber security threats.",
+        "Number of seats of Cyber Security Department": "No of Seats : 60"
+    },
+    {
+        "Courses or Programmes Offered in Btech by kalloopaara ": [
+            "B.Tech in Computer Science and Engineering (CS)",
+            "B.Tech in Computer Science and Engineering(Cyber Security)(CY)",
+            "B.Tech inElectronics and Communication Engineering (EC)",
+            "B.Tech inElectrical and Electronics Engineering(EE)"
+        ],
+        "Total Seat intake in Btech Information": "NO. OF SEATS(INTAKE)     : 60 forCourses(CY/EC), 30 for EE Course and 120 for CS Course",
+        "Seat in Btech information": "SEAT MATRIX (All branchesfor the year 202425) and MERIT (LOWER FEE) QUOTA  : 50%(CS/CY), 75%(EC/EE) and MERIT FULL FEE QUOTA     : 45%(CS/CY), 20%(EC/EE) and NRI QUOTA              : 5%( ALL COURSES)",
+        "Btech Critiriea for Eligibility and also Age critiriea": "Candidates who have passed Higher Secondary Examination, Kerala, or Examinations recognized as equivalent thereto, with Physics and Mathematics as compulsory subjects and Chemistry as one of the optional subjects with atleast 45% marks put together in the above subjects are eligible for admission. In case, the candidate has not studied Chemistry, the marks obtained in Computer Science shall be considered. In case, the candidate has not studied Chemistry and Computer Science the marks obtained in Biotechnology shall be considered. In case, the candidate has not studied Chemistry, Computer Science and Biotechnology the marks obtained in Biology shall be considered. The marks as shown in the mark list of the Board of Examination obtained from the respective Higher Secondary Board shall be considered for academic eligibility.Applicant should complete 17 years of age as on 31122024. No relaxation in the minimum age will be allowed. There is no upper age limit."
+    },
+    {
+        "information about the principal": {
+            "Principal Name": "Dr.Deepa J",
+            "principal Desgination": "Principal",
+            "phone or contact number of the principal": "Phone : 04692677890",
+            "fax Number of the principal": "Fax : 04692678688",
+            "Mobile Number of the principal": "Mobile : 918547005034",
+            "Email ID of the principal": "principal@cek.ac.in"
+        }
+    },
+    {
+        "Data about the Electronics Department": {
+            "Data about the HOD of EC": {
+                "Name of Hod of EC department": "Dr. PHILIP CHERIAN",
+                "Designation of HOD of EC Department": "Associate Professor",
+                "Phone Number and Email of Hod of EC Department": "Contact Ph.No. 04692677890, 9446023899(Mob)and Email is philipcherian@cek.ac.in and hodece@cek.ac.in"
+            },
+            "Data about the Faculty of EC": [
+                "Name: Dr. LEKHA R NAIR and his/her designation is Assistant Professor",
+                "Name: Mr. LIJU PHILIP and his/her designation is Assistant Professor",
+                "Name: Mr. SAJEESH P T K and his/her designation is Assistant Professor",
+                "Name: Mrs.LEENA THOMAS and his/her designation is Assistant Professor",
+                "Name: Ms. DEEPA M S and his/her designation is Assistant Professor",
+                "Name: Ms.ARYA S and his/her designation is Assistant Professor",
+                "Name: Mrs.RESHMA G and his/her designation is Assistant Professor",
+                "Name: Mrs.NISHA THOMAS and his/her designation is Assistant Professor",
+                "Name: Mrs.LEKSHMI KRISHNAN G and his/her designation is Demonstrator",
+                "Name: Mrs.DICY MOL DEVASIA and his/her designation is Foreman",
+                "Name: Mrs. AMPILIMOL S and his/her designation is Demonstrator",
+                "Name: Mr. PRATHAP KUMAR.G and his/her designation is Tradesman"
+            ],
+            "Description of EC Department": "The Electronics Engineering course is aimed at arming students with affirm knowledge of the theoretical and practical aspects of this field. The curriculum comprises subjects like-Communication Engineering, Instrumentation & Control, Industrial & Power Electronics, Microprocessor study etc., and also includes training on the IBM AS/400 mid -range system. The course also includes management training-with emphasis on Industrial Organization, Management Relations and Quality Control."
+        }
+    },
+    {
+        "Basic data on the courses or programmes offered": "College of Engineering Kalloopaara offers two programmes or courses for students: Btech and Mtech",
+        "Information about the Mtech Programme in Kalloopaara": {
+            "Course Name offered in Mtech": "M.Tech CS(Cyber Forensics and Information Security)",
+            "Number of seats in Mtech course": "18seats",
+            "Description of the Mtech course": "College Of Engineering Kallooppara offers the following fulltime Two year Post Graduate courses of the APJ Abdul Kalam Technological University (KTU) M.Tech CS(Cyber Forensics and Information Security) 18 seats The students appearing in the rank list prepared by the Directorate of Technical Education Kerala based on the application submitted online at http://www.dtekerala.gov.in/ only will be eligible for admission to the merit seats. Eligible students will also have to submit options for admission in the DTE website and allotment will be done by DTE based on the options given by the candidate. For more details visit https://dtekerala.co.in/site/login",
+            "dte_website": "http://www.dtekerala.gov.in/",
+            "admission_portal for Mtech Course": "https://dtekerala.co.in/site/login",
+            "description about Mtech Course or Programme": "",
+            "university under": "APJ Abdul Kalam Technological University (KTU)",
+            "admission_process of Mtech Course or progammes": "Through Directorate of Technical Education Kerala"
+        }
+    }
+]
