@@ -234,10 +234,8 @@ def get_conversational_chain():
     
     # Modified prompt template with a clear fallback flag.
     prompt_template = """
-    Answer the question as detailed as possible from the provided context and format your reply in markdown.
-    If the context does not contain the answer, do not hallucinate an answer. Instead, output exactly "ANSWER_NOT_AVAILABLE", If the question is 
-    is not specific enough ask for more specific info
-    Eg: Who is the principal? ( then ask for of which college, instead of saying generally about principal ).
+    Answer the question as detailed as possible from the provided context about the college and format your reply in markdown.
+    If the context does not contain the answer, do not hallucinate an answer. Instead, output exactly "ANSWER_NOT_AVAILABLE".
     
     Context:
     {context}
@@ -248,7 +246,7 @@ def get_conversational_chain():
     Answer:
     """
     
-    model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.3)
+    model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.3)
     prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
     return load_qa_chain(model, chain_type="stuff", prompt=prompt)
 
