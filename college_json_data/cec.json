@@ -1,1068 +1,467 @@
-[
-    {
-        "aicte_feedback_links": {
-            "https://www.aicte-india.org/feedback/": "https://www.aicte-india.org/feedback/",
-            "For Students:": "https://www.aicte-india.org/feedback/",
-            "https://www.aicte-india.org/feedback/students.php": "https://www.aicte-india.org/feedback/students.php",
-            "https://www.aicte-india.org/feedback/faculty.php": "https://www.aicte-india.org/feedback/faculty.php"
-        }
-    },
-    {
-        "details_about_anti_ragging_cell": {
-            "functions": [
-                "To implement anti-ragging measures as stipulated by the government/university/concerned authority from time to time",
-                "To monitor violations of anti-ragging rules in the campus and suggest disciplinary actions in such cases",
-                "Organize anti-ragging awareness programs in collaboration with the District legal services authority (DLSA)",
-                "To take preventive steps by organizing anti-ragging awareness programs, issuing notices, warnings, instructions for regulating the behavior of students"
-            ]
-        }
-    },
-    {
-        "All about admission data": {
-            "admission_related_data": {
-                "page_header": "B.Tech-Admissions",
-                "admission_description": "Admission to UG programmes except in NRI seats is on the basis of the All Kerala Common Entrance Examination, conducted by the Commissioner for Entrance Examinations (CEE), Govt. of Kerala. The criteria for B.Tech degree admission is prescribed by the CEE, Govt. of Kerala and concerned University, and is issued every year by Govt. of Kerala through common prospectus for admission to professional degree courses. The entrance examinations are conducted usually in the month of April.",
-                "department_wise_seat_capacity": "{'department_wise_seat_capacity': {'B.Tech Degree in Computer Science and Engineering': '180 Seats', 'B.Tech Degree in Electrical & Electronics Engineering': '60 Seats', 'B.Tech Degree in Electronics and Communication Engineering': '120 Seats', 'B.Tech Degree in\\xa0 Computer Science and Engineering(Artificial Intelligence & Machine Learning)': '60 Seats'}}",
-                "btech_eligibility_criteria": ": Managed by Commissioner of Entrance Examinations, Govt. of Kerala, according to KEAM rank list.Rs. 40,000/- per annum), CSE & ECE Rs. 45,000/- per annum):EEE (Rs. 70,000/- per annum), CSE & ECE Rs. 75,000/- per annum): Candidates who have passed Higher Secondary Examination, Kerala, or Examinations recognized as equivalent thereto, with Physics and Mathematics as compulsory subjects and Chemistry as one of the optional subjects with at least 45% marks put together in the above subjects are eligible for admission. In case, the candidate has not studied Chemistry, the marks obtained in Computer Science shall be considered. In case, the candidate has not studied Chemistry and Computer Science the marks obtained in Biotechnology shall be considered. In case, the candidate has not studied Chemistry, Computer Science and Biotechnology the marks obtained in Biology shall be considered. The marks as shown in the mark list of the Board of Examination obtained from the respective Higher Secondary Board shall be considered for academic eligibility.    : Managed by Institute of Human Resources Development (IHRD): CSE (9), EEE (3), ECE (6): Rs. 125,000/- (One-time refundable deposit) & Rs. 110,000/- per annum: Candidates who have passed Higher Secondary Examination, Kerala or Examinations recognized as equivalent thereto, with 45% marks in Mathematics, Physics & Chemistry put together (or equivalent subjects specified in prospectus of KEAM-2021) are eligible for admission under NRI seats in Engineering Colleges under IHRD.The candidates seeking admission to B. Tech NRI seats should be a child/ ward/ dependent of an NRI and should enclose a declaration from the NRI {form enclosed as VIII(7)} along with the application",
-                "documents_to_be_submitted_during_admission_link": "https://ceconline.edu/wpdata/admission/Admission%202024-25/Documents%20to%20be%20submitted.pdf"
-            }
-        }
-    },
-    {
-        "file_urls": [
-            "https://ceconline.edu/wpdata/admission/2023-24/nri_marklist.pdf",
-            "https://ceconline.edu/wpdata/admission/original_certificate_to_be_submitted.pdf",
-            "https://ceconline.edu/wpdata/admission/asmschdule.pdf"
-        ],
-        "candidate_details_link": "/wpdata/admission/2023-24/nri_marklist.pdf",
-        "original_certificates_link": "/wpdata/admission/original_certificate_to_be_submitted.pdf",
-        "admission_schedule_link": "/wpdata/admission/asmschdule.pdf",
-        "candidate_details_text": "Candidate Details",
-        "original_certificates_text": "Original Certificates To Be Submitted",
-        "admission_schedule_text": "Admission Schedule"
-    },
-    [
-        {
-            "data_type": "notice",
-            "id": "btech_registration",
-            "title": "\u2022Registration Form - B.Tech Admission 2024 - (KEAM and Non-KEAM)",
-            "url": "https://forms.gle/F87ss2y2LH7YmSvV9",
-            "type": "google_form",
-            "element_id": "0fa72ab",
-            "matched_text": "Registration Form - B.Tech Admission 2024"
-        },
-        {
-            "data_type": "notice",
-            "id": "btech_fee",
-            "title": "\u2022B.Tech  Fee Structure 2024-25.",
-            "url": "https://ceconline.edu/wpdata/BTechfeestructure202425.pdf",
-            "type": "pdf",
-            "element_id": "7089465",
-            "matched_text": "B.Tech  Fee Structure 2024-25"
-        }
+{
+    "admin_staff_2_name and designation": [
+        "Smt. Asha K Pillai",
+        "Senior Superintendent"
     ],
-    [
-        {
-            "Name and Designation": "Professor & \u00a0Head, Engineering Design\u00a0 Dept, IIT, Madras",
-            "Designation": "Chair Person",
-            "Role": "Educationalist"
-        },
-        {
-            "Name and Designation": "Prof. (Dr).P. Suresh Kumar, The Director, IHRD, Thiruvananthapuram.",
-            "Designation": "Member",
-            "Role": "Educationalist"
-        },
-        {
-            "Name and Designation": "Dr. John Joseph, Head, Talent Acquisition, TCS",
-            "Designation": "Member",
-            "Role": "Industrialist"
-        },
-        {
-            "Name and Designation": "Dr. Anil Kumar P, IT Consultant, Thiruvananthapuram",
-            "Designation": "Member",
-            "Role": "Industrialist"
-        },
-        {
-            "Name and Designation": "Prof.(Dr.) Laila D., Professor",
-            "Designation": "Member",
-            "Role": "Educationalist"
-        },
-        {
-            "Name and Designation": "Dr. Manju S Nair,",
-            "Designation": "Member",
-            "Role": "Educationalist"
-        },
-        {
-            "Name and Designation": "Dr.R Sakthivel, Regional Officer, SWRO Camp Office, Thiruvananthapuram",
-            "Designation": "Member",
-            "Role": ""
-        },
-        {
-            "Name and Designation": "The Principal,",
-            "Designation": "Member",
-            "Role": ""
-        },
-        {
-            "Name and Designation": "The Finance Officer of the concerned Collectorate",
-            "Designation": "Member",
-            "Role": ""
-        },
-        {
-            "Name and Designation": "University Nominee",
-            "Designation": "Member",
-            "Role": "Educationalist"
-        },
-        {
-            "Name and Designation": "Prof.(Dr.) Smitha Dharan",
-            "Designation": "Member",
-            "Role": "Educationalist"
-        }
+    "admin_staff_3_name and designation": [
+        "Smt. Beena Varkey",
+        "Junior Superintendent"
     ],
-    [
-        {
-            "data_type": "notice",
-            "id": "semester_registration_revised",
-            "title": "\u2022  Revised notice for  Semester Registration for B.Tech  and MCA",
-            "url": "https://ceconline.edu/wpdata/REVISEDNOTICE.pdf",
-            "type": "pdf",
-            "matched_text": "Revised notice for  Semester Registration"
-        }
+    "admin_staff_4_name and designation": [
+        "Sri.AnoopRaj T V",
+        "Junior Superintendent"
     ],
-    {
-        "iqac_description": "Internal Quality Assurance Cell Internal Quality Assurance Cell or Internal Audit Cell (IQAC/IAC) comprises of senior faculty members having representation from each department and is constituted by the Principal to ensure the timely, efficient and progressive performance of academic and administrative tasks. A senior member of IQAC shall be its coordinator The term of IQAC shall be one academic year IQAC shall conduct internal academic audits and produce the required documents and records to the External Auditor appointed by the University, on-demand IQAC is also responsible for uploading monthly report, annual report and any other data required by the University IQAC will aim to develop and apply quality benchmarks/parameters for the various academic and administrative activities of the institution IQAC shall ensure equitable access to resources for various classes of the society, and to organize conduct of remedial coaching and bridge programs as and when it is needed IQAC shall strive to incorporate modern methods into the teaching-learning process."
-    },
-    {
-        "facility description in CEC": "The college is fully equipped with well furnished smart class rooms. The college also has laptops which are issued to the students to help them in their project work. Other facilities include Diesel Generator System to power the whole college, Power Backups, Water Purifier System, Camera\u00a0 surveillance\u00a0 etc. There is also a Co-operative store adjacent to the college office which provides students with stationery and general provisions.The college owned men\u2019s hostel and ladies\u2019 hostel can house over 100 inmates and provide a nourishing environment."
-    },
-    {
-        "committee_details": [
-            {
-                "name": "Appellate Authority",
-                "officers": [
-                    {
-                        "name": "Dr. Hari V S",
-                        "designation": "Principal",
-                        "contact": null
-                    },
-                    {
-                        "name": "Mob",
-                        "designation": ":",
-                        "contact": "mailto:rti@ceknpy.ac.in"
-                    }
-                ]
-            },
-            {
-                "name": "Public Information Officer",
-                "officers": [
-                    {
-                        "name": "Smt. Asha K Pillai",
-                        "designation": "Senior Superintendent",
-                        "contact": null
-                    },
-                    {
-                        "name": "Sri. Anoop Raj T V",
-                        "designation": "Junior Superintendent",
-                        "contact": null
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "administrative_staff": [
-            {
-                "name": "Smt. Asha K Pillai",
-                "designation": "Senior Superintendent"
-            },
-            {
-                "name": "Smt. Beena Varkey",
-                "designation": "Junior Superintendent"
-            },
-            {
-                "name": "Sri.AnoopRaj T V",
-                "designation": "Junior Superintendent"
-            },
-            {
-                "name": "Sri. Manoj K Mathew",
-                "designation": "Head Clerk"
-            },
-            {
-                "name": "Smt. Beena Jacob",
-                "designation": "Head Clerk"
-            },
-            {
-                "name": "Smt. Manjusha Devi N P",
-                "designation": "Senior Office Assistant"
-            },
-            {
-                "name": "Smt. Jaya Sreenivasan",
-                "designation": "Office Assistant"
-            },
-            {
-                "name": "Sri. Dhananjayan P V",
-                "designation": "Office Assistant"
-            },
-            {
-                "name": "Smt. Niza N",
-                "designation": "Office Assistant"
-            },
-            {
-                "name": "Smt. Reshmi Raj K R",
-                "designation": "T S K"
-            },
-            {
-                "name": "Smt. Renjini S",
-                "designation": "DEOT"
-            },
-            {
-                "name": "Smt. Sheeba George",
-                "designation": "DEOT"
-            },
-            {
-                "name": "Vidya Vijayan",
-                "designation": "DEOT"
-            },
-            {
-                "name": "Sri. Yohannan B J",
-                "designation": "Peon /Watcher"
-            },
-            {
-                "name": "Sri. Aneesh N A",
-                "designation": "Last Grade Servant"
-            },
-            {
-                "name": "Smt. Anitha Kumari",
-                "designation": "Last Grade Servant"
-            },
-            {
-                "name": "Sri. Suresh Kumar N",
-                "designation": "Watcher/Peon"
-            },
-            {
-                "name": "Smt. Suja Kumari V R",
-                "designation": "Peon/Sweeper"
-            },
-            {
-                "name": "Sri. Lathesh Kumar P A",
-                "designation": "Watcher/Peon"
-            },
-            {
-                "name": "Sri. Asharaf A",
-                "designation": "Watcher/Peon"
-            },
-            {
-                "name": "Sri. G Suresh Kumar",
-                "designation": "Security Guard"
-            },
-            {
-                "name": "Sri. Sivaprasad P",
-                "designation": "Security Guard"
-            },
-            {
-                "name": "Sri. Raghunathan N G",
-                "designation": "Security Guard"
-            }
-        ]
-    },
-    {
-        "pta_details": {
-            "executive_members": [
-                {
-                    "name": "Sri. Sasidharakurup\n(President)",
-                    "phone": "9446792532",
-                    "student_name": "Haridev S S7 CS"
-                },
-                {
-                    "name": "Fr.Ipe P Sam",
-                    "phone": "9447964285",
-                    "student_name": "Amala Ipe (EC) S7"
-                },
-                {
-                    "name": "Smt.Annie Varghese",
-                    "phone": "9400562654",
-                    "student_name": "Kevin Koshy Varghese EEE S7"
-                },
-                {
-                    "name": "Adv. George Thomas",
-                    "phone": "9447348323",
-                    "student_name": "Rom Thomas George (S3 CS)"
-                },
-                {
-                    "name": "Smt Sreela Harikumar",
-                    "phone": "9447207301",
-                    "student_name": "Anjali S EI S3"
-                },
-                {
-                    "name": "Mr. Dhanapal S",
-                    "phone": "9497447343",
-                    "student_name": "Adhithya Pal E C S1"
-                },
-                {
-                    "name": "Ms. Lathamol Thomas",
-                    "phone": "9656408116",
-                    "student_name": "Labin Varghese Thomas S1 EEE"
-                },
-                {
-                    "name": "Smt. Azeena",
-                    "phone": "9495053318",
-                    "student_name": "Basim Aslam CS S1"
-                },
-                {
-                    "name": "Sri. Sunil S",
-                    "phone": "9847711332",
-                    "student_name": "Saleek Anwar S1 EC"
-                },
-                {
-                    "name": "Sri. Thomas K",
-                    "phone": "9400400899",
-                    "student_name": "Aleesha Thomas S1 EEE"
-                },
-                {
-                    "name": "Sri. Harish S",
-                    "phone": "9447279012",
-                    "student_name": "Diya Harish S1 CS"
-                },
-                {
-                    "name": "Adv. Vijayan Pillai",
-                    "phone": "9446411441",
-                    "student_name": "Ravisankar S1 CS"
-                },
-                {
-                    "name": "Sri. Mathew KD",
-                    "phone": "9744684232",
-                    "student_name": "Albi Varghese Mathew S1 CS"
-                },
-                {
-                    "name": "Smt. Sudha",
-                    "phone": "9962955417",
-                    "student_name": "Aswin R S1 CS"
-                }
-            ],
-            "faculty_representatives": [
-                {
-                    "name": "Smt Savitha",
-                    "phone": "8289858010",
-                    "student_name": "EEE"
-                },
-                {
-                    "name": "Dr. Deepa J",
-                    "phone": "9447660410",
-                    "student_name": "EC"
-                },
-                {
-                    "name": "Dr. Madhusoohanan Nair",
-                    "phone": "9447324845",
-                    "student_name": "Senate"
-                },
-                {
-                    "name": "Sri. Gopa Kumar\u00a0G",
-                    "phone": "9847370357",
-                    "student_name": "Warden"
-                },
-                {
-                    "name": "Smt. Manjusha S Nair",
-                    "phone": "9446193022",
-                    "student_name": "CS"
-                },
-                {
-                    "name": "",
-                    "phone": "",
-                    "student_name": ""
-                },
-                {
-                    "name": "Sri. Vinod (Secretary)",
-                    "phone": "9447469246",
-                    "student_name": "Warden"
-                },
-                {
-                    "name": "Sri. Vibesh V Panicker",
-                    "phone": "",
-                    "student_name": "Arts"
-                },
-                {
-                    "name": "Dr.Raju M",
-                    "phone": "9946509821",
-                    "student_name": "TPC"
-                },
-                {
-                    "name": "Dr. C R. Ajith Sen",
-                    "phone": "9388900058",
-                    "student_name": "(Ex-officio)"
-                }
-            ],
-            "special_invitees": [
-                {
-                    "name": "Dr. Manju S Nair",
-                    "phone": "9495438743",
-                    "student_name": "CS"
-                },
-                {
-                    "name": "Dr. Rajeevan A K",
-                    "phone": "8921002207",
-                    "student_name": "EEE"
-                }
-            ]
-        }
-    },
-    {
-        "contact_details about CEC": {
-            "address": "College of Engineering Chengannur",
-            "tel": "+91-479- 2455125 (Reception)+91-479-2454125 (Office)+91-479-2456046 (Principal)",
-            "email": "principal@ceconline.edu",
-            "schedule": "Mon \u2014 Sat: 9AM \u2014 5PM",
-            "socials": ""
-        },
-        "CEC College Location Details": {
-            "main_description": "CEC is located in Chengannur, a beautiful town in Kerala. Chengannur is situated at the extreme east part of Alappuzha district. Main Central Road (popularly known as the M.C. Road) passes by the college. It is well connected to other cities by rail and road. The exact location of the college is shown on the map.",
-            "transit_distances": {
-                "Bus Stand": "Chengannur (1/2 km)\n Chengannur \u2013 CNGR (1 km)\n Cochin International Airport \u2013 COK (110 km),\nTrivandrum International Airport \u2013 TRV (120 km)"
-            }
-        },
-        "google_maps_info": null
-    },
-    {
-        "principal_name": "Prof. (Dr.) Hari. V S",
-        "principal's-academic-qualifications": {
-            "Communication Systems": "PhD\u00a0 from Cochin University of Science and Technology for thesis entitled \u201cDesign, Development and Realization of Quadratic Volterra Filters for Selected Applications\u201d in 2013.",
-            "POSITIONS HANDLED": "MTech in",
-            "PUBLICATIONS": "from Indian Institute of Technology, Madras in 2006.",
-            "FIELDS OF EXPERTISE": "BTech in Electronics and Communication from TKM College of Engineering, Kollam in 1994.",
-            "RESEARCH": "Desiree Juby Vincent & Hari V S , \u201d Classification of Letter Image from Scanned Receipts using CNN\u201d , October 23. DOI:",
-            "INDUSTRY INTERACTION": "Blessy Babu & Hari V S, \u201cAutomatic Detection of Modulation Schemes using Convolutional Neural Networks\u201d, June 2023.DOI:",
-            "BOOKS PUBLISHED": "Varsha P S & Hari V S, \u201d Intelligent Deep Learning based Receivers\u201d, August 2023,DOI:"
-        },
-        "principal's-contact": {
-            "address": "Principal , College of Engineering, Chengannur,Alappuzha (Dist.) \u2013 689121",
-            "tel": "0479-2450435",
-            "email": "principal@ceconline.edu"
-        },
-        "principal's-positions": [
-            "Associate Professor, Dept. of Electronics Engg, CE, Chengannur",
-            "Associate Professor and Head, Department of EC,CE, Karunagappally",
-            "Principal in charge, CE, Karunagappally",
-            "Associate Professor and Head, Department of EC, CE Karunagappally",
-            "Lecturer (Selection Grade), Department of EC, CE Kottarakkara",
-            "Lecturer (Senior Grade), Department of EC, CE Karunagappally",
-            "Lecturer, Department of EC, CE, Chengannur",
-            "Electronics Laboratory Handbook with Simulations using Quite Universal Circuit Simulator (Qucs), Authors Press,New Delhi,ISBN-978-93-5529-048-9",
-            "Logic Circuit Design Laboratory practice with Qucs, ICs, Verilog and Mini FPGA, Authors Press, New Delhi, ISBN \u2013 978-93-5529-175-2"
-        ],
-        "principal's-fields-of-expertise": [
-            "LATEX, PsTricks ,html, dia, Linux, xcircuit, LATEXDraw, C",
-            "python, QUCS, MATLAB, LabVIEW",
-            "Scipy, Numpy ,Keras, Tensorflow, Dash"
-        ],
-        "principal's-research": [
-            "Incorporated a company Rand Walk Research and Solutions Pvt. Ltd. on June 20,2020 under the Faculty startup scheme of the Govt.of Kerala. It is awarded the startup status by the Govt. of India. The company takes up projects in data analysis, machine learning and computer vision."
-        ],
-        "principal's-industry-interactions": [
-            "Minimization of atomic norm in vibration signals",
-            "Modeling the plasticity in friction stir ",
-            "welding",
-            "Sorting ",
-            "CrunchBase Data",
-            "Conversion of Telemetry data into Engineering ",
-            "units",
-            "Identification of Small Mechanical ",
-            "Parts",
-            "Implementation of Nomadic People Optimizer in ",
-            "Python",
-            "Identification of peaks in NMR ",
-            "data",
-            "Development of Recommender Systems for Automated Purchase",
-            "Identification of entities from images of receipts",
-            "Optimizationof Pune Mahanagar ",
-            "Parivahan ",
-            "Mahamandal Ltd. (PMPML) Bus ",
-            "Routes"
-        ],
-        "principal's-books-published": [
-            "Electronics Laboratory Handbook with Simulations using Quite Universal Circuit Simulator (Qucs), Authors Press,New Delhi,ISBN-978-93-5529-048-9",
-            "Logic Circuit Design Laboratory practice with Qucs, ICs, Verilog and Mini FPGA, Authors Press, New Delhi, ISBN \u2013 978-93-5529-175-2"
-        ]
-    },
-    {
-        "about placement cell": [
-            {
-                "general description about TPC": "The Training and Placement Cell, (TPC) of the College of Engineering, Chengannur is a body of active students, guided by Staff-in-Charge. Student members are specially selected to carry out the responsible working of the cell. The TPC dedicates itself to help students develop their personalities and establish their careers."
-            },
-            {
-                "placement cell activities": "Preparing the students to face competitive examinations and interviews through intensive training programs including group discussions, mock interviews, and the basics of behavior and body language. Experienced Professionals from the industry are invited for some of the training programs. Assisting students in career-planning, employment and providing information on higher studies. Inviting companies to the college campus for recruiting students for placement in their organizations. TPC offers all facilities to these companies for conducting presentations, tests, and interviews."
-            }
-        ]
-    },
-    {
-        "about_departments": [
-            {
-                "department_title": "Department of Basic Science & Language",
-                "about_the_department": "The department of Basic Science and Language is pivotal to the college\u2019s academic framework, furnishing students with vital knowledge and skills necessary for excelling in various engineering disciplines. Offering a diverse array of subjects, the department forms the foundational core of engineering education. The department covers areas such as: Engineering Physics, Engineering Chemistry, Linear Algebra and Calculus, Graph Theory,\u00a0 Life Skills, Professional Communication, Industrial Economics and Foreign Trade. Together these subjects provide a comprehensive education that prepares students for the challenges of the engineering world, fostering analytical thinking,\u00a0\u00a0 problem-solving skills and a global perspective. The Department of Basic Science and Language is dedicated to offering a rigorous and relevant curriculum, ensuring students are well- prepared to contribute to the advancement of technology and society.",
-                "About the HOD": {
-                    "HOD image url": "https://ceconline.edu/wp-content/uploads/2024/10/moni.jpg",
-                    "HOD Name": "Smt. Moni P John",
-                    "HOD Designation": "Head Of the Department",
-                    "HOD Email": "monipjohn@ceconline.edu"
-                }
-            },
-            {
-                "department_title": "Department of Electrical Engineering",
-                "about_the_department": "Foreman Demonstrator Demonstrator Tradesman Tradesman Tradesman Tradesman \u00a0 \u2018",
-                "About the HOD": {
-                    "HOD image url": null,
-                    "HOD Name": "Dr. Raju M",
-                    "HOD Designation": "Head of the Department",
-                    "HOD Email": "rajumanuel@ceconline.edu"
-                },
-                "Electrical Department faculty Data": [
-                    {
-                        "1.": {
-                            "faculty Name": "Dr. Rajeevan A K",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "2.": {
-                            "faculty Name": "Dr.Raju M",
-                            "faculty Designation": "Assistant Professor & HOD"
-                        }
-                    },
-                    {
-                        "3.": {
-                            "faculty Name": "Smt. Haseena P Y",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "4.": {
-                            "faculty Name": "Smt.Sherin Joseph",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "5.": {
-                            "faculty Name": "Sri. Bijukumar K",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "6.": {
-                            "faculty Name": "Sri.Prasobh P",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "7.": {
-                            "faculty Name": "Smt. Aja Mariam Johnson",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "8.": {
-                            "faculty Name": "Smt. Anaswara Mohan",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "9.": {
-                            "faculty Name": "Smt.Devisree Sasi",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "10.": {
-                            "faculty Name": "Smt. Amrutha Anand",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "11.": {
-                            "faculty Name": "Smt. Preseetha Kuruvelil",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "12.": {
-                            "faculty Name": "Smt. Aneesha M S",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "13.": {
-                            "faculty Name": "Smt. Geethu Zacheria",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    }
-                ]
-            },
-            {
-                "department_title": "Department of Electronics Engineering",
-                "about_the_department": "The Electronics Engineering Department was established at CEC Campus in the academic year 1993-1994. The department actively engages in research activities, with several research scholars pursuing their PhD under the guidance of esteemed faculty members. Alumni from the department have made significant contributions in various tech giants such as Samsung, Intel, Texas Instruments and DRDO. Additionally, numerous students have successfully secured admissions into prestigious Universities. Many startups have emerged from the Electronics Engineering Department, showcasing the entrepreneurial spirit and innovative mindset fostered within the academic environment. Evolve into a centre of learning in Electronics Engineering that transforms students into competent professionals with knowledge, skill and ethical values for the development of society.",
-                "About the HOD": {
-                    "HOD image url": null,
-                    "HOD Name": "Dr. Shanavaz K T",
-                    "HOD Designation": "Associate Professor & Head Of the Department",
-                    "HOD Email": "hod.ece@ceconline.edu"
-                },
-                "Electrical Department faculty Data": [
-                    {
-                        "1": {
-                            "faculty Name": "Dr. Nisha Kuruvilla",
-                            "faculty Designation": "Professor"
-                        }
-                    },
-                    {
-                        "2": {
-                            "faculty Name": "Dr. Shanavaz K T",
-                            "faculty Designation": "Associate Professor and Head of Department"
-                        }
-                    },
-                    {
-                        "3": {
-                            "faculty Name": "Dr. C V Anil Kumar",
-                            "faculty Designation": "Associate Professor"
-                        }
-                    },
-                    {
-                        "4": {
-                            "faculty Name": "Dr. Sarah Jacob",
-                            "faculty Designation": "Associate Professor"
-                        }
-                    },
-                    {
-                        "5": {
-                            "faculty Name": "Dr. Shiji T P",
-                            "faculty Designation": "Associate Professor "
-                        }
-                    },
-                    {
-                        "6": {
-                            "faculty Name": "Dr. Hari V S",
-                            "faculty Designation": "Associate Professor and Principal in charge"
-                        }
-                    },
-                    {
-                        "7": {
-                            "faculty Name": "Dr. Ayoob Khan T E",
-                            "faculty Designation": "Associate Professor"
-                        }
-                    },
-                    {
-                        "8": {
-                            "faculty Name": "Smt. Sheeja P George",
-                            "faculty Designation": "Associate Professor "
-                        }
-                    },
-                    {
-                        "9": {
-                            "faculty Name": "Sri. Sudheer Babu P P",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "10": {
-                            "faculty Name": "Dr. Lekha R Nair",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "11": {
-                            "faculty Name": "Sri. Sreekumar K",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "12": {
-                            "faculty Name": "Sri. Sam K Sumesh",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "13": {
-                            "faculty Name": "Sri. Yasim Khan M",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "14": {
-                            "faculty Name": "Smt.MiniKumari G",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "15": {
-                            "faculty Name": "Smt. Deepa Susan Jacob",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "16": {
-                            "faculty Name": "Smt. Preethimol Selastin",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "17": {
-                            "faculty Name": "Smt. Anuja V Nair",
-                            "faculty Designation": "Assistant Professor "
-                        }
-                    },
-                    {
-                        "18": {
-                            "faculty Name": "Smt. Deepa T R",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "19": {
-                            "faculty Name": "Dr. Shanu N",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "20": {
-                            "faculty Name": "Smt. Darsana S",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "21": {
-                            "faculty Name": "Smt. Varsha P S",
-                            "faculty Designation": "Assistant Professor "
-                        }
-                    },
-                    {
-                        "22": {
-                            "faculty Name": "Smt. Girija M G",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "23": {
-                            "faculty Name": "Sri. HariKumar T",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "24": {
-                            "faculty Name": "Smt. Neethu Verjisen",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "25": {
-                            "faculty Name": "Smt. Sruthi B R",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "26": {
-                            "faculty Name": "Smt. Rijimol Mathew",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "27": {
-                            "faculty Name": "Smt. Anju V Sathyan",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "28": {
-                            "faculty Name": "Smt. Rajalakshmy A K",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "29": {
-                            "faculty Name": "Smt. Neethu Anilkumar",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "30": {
-                            "faculty Name": "Smt. Renjitha",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    }
-                ]
-            },
-            {
-                "department_title": "Department of Computer Engineering",
-                "about_the_department": "The core courses offered by the Department of Computer Engineering are\u00a0 and\u00a0 from Kerala Technological University, Kerala. These courses are aimed at providing theoretical and practical knowledge of Computer Science. The subjects in Bachelor\u2019s level programme include Computer Architecture and Organization, Automata Languages and Computation, Data Structures and Algorithms, Database Management Systems, Language Processor, Computer Networks, Advanced Architecture and Parallel Processing, Software Engineering, Digital Signal Processing, Analysis and Design of Algorithms etc. The curriculum also includes management papers like Industrial Organization and Management. In order to bridge the gap between knowledge and its true application, students are required to undertake seminars, mini-project and the main project that put them through an industry-like situation. The course produces an ideal computer engineer, well-equipped to meet the challenges of the rapidly growing IT industry.",
-                "About the HOD": {
-                    "HOD image url": "https://ceconline.edu/wp-content/uploads/2024/11/gopan-scaled.jpg",
-                    "HOD Name": "Sri. Gopakumar G",
-                    "HOD Designation": "Associate Professor & Head Of the Department",
-                    "HOD Email": "hod.cse@ceconline.edu"
-                },
-                "Computer Department Faculty Data": [
-                    {
-                        "1": {
-                            "faculty Name": "Dr. Shyama Das",
-                            "faculty Designation": "Professor"
-                        }
-                    },
-                    {
-                        "2": {
-                            "faculty Name": "Dr. Manju S Nair",
-                            "faculty Designation": "Associate Professor"
-                        }
-                    },
-                    {
-                        "3": {
-                            "faculty Name": "Sri. Gopakumar G",
-                            "faculty Designation": "Associate Professor"
-                        }
-                    },
-                    {
-                        "4": {
-                            "faculty Name": "Smt. Jyothirmayi Devi C",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "5": {
-                            "faculty Name": "Smt. Manjusha Nair S",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "6": {
-                            "faculty Name": "Smt. Princy Sugathan",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "7": {
-                            "faculty Name": "Smt. Geetha S",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "8": {
-                            "faculty Name": "Smt. Shiny B",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "9": {
-                            "faculty Name": "Dr.Sabeena K",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "10": {
-                            "faculty Name": "Smt. Betty James",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "11": {
-                            "faculty Name": "Smt. Nasseena N",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "12": {
-                            "faculty Name": "Smt. Sreelekshmi K R",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "13": {
-                            "faculty Name": "Smt. Aarathy U P",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "14": {
-                            "faculty Name": "Smt. Angel Thankam Thomas",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "15": {
-                            "faculty Name": "Smt. Shereena Thampi",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "16": {
-                            "faculty Name": "Smt. Ameena A",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "17": {
-                            "faculty Name": "Smt. Rosy K Philip",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "18": {
-                            "faculty Name": "Smt. Neethu Treesa Jacob",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "19": {
-                            "faculty Name": "Sri. Vishnu S Kumar",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "20": {
-                            "faculty Name": "Smt. Jithy John",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "21": {
-                            "faculty Name": "Smt. Syeatha Merlin Thampy",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "22": {
-                            "faculty Name": "Smt. Alka Vijay",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "23": {
-                            "faculty Name": "Smt. Leya G",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "24": {
-                            "faculty Name": "Smt. Chinchu M Pillai",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "25": {
-                            "faculty Name": "Smt. Shabana Mol S",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "26": {
-                            "faculty Name": "Smt. Sulaja Sanal",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "27": {
-                            "faculty Name": "Smt. Reshma Raj K S",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "28": {
-                            "faculty Name": "Smt. Reshma Ann Mathews",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    },
-                    {
-                        "29": {
-                            "faculty Name": "Smt. Premy P Jacob",
-                            "faculty Designation": "Assistant Professor"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "about organisations cell": [
-            {
-                "Sports Club": [
-                    "At the College of Engineering Chengannur, we believe in the overall development of the individual. So as not to remain confined to excellence in academics there is avid participation by the students in various sports activities both at Inter College and Intra College levels. We are proud to say that many laurels and accolades have been won by the performance of our teams in these meets. There is a badminton court in the center of the main academic building, and we also have a fully equipped gymnasium which is very popular among the students. For the enthusiastic sports lovers of our college, we conduct an annual sports week in our college which involves both track and field events along with indoor games such as Chess and Carroms. Apart from the annual meet, there are special annual inter-semester Football Competition (Tiger 5), Badminton Competition (Smash), Throwball Competition for girls, and an Inter-Collegiate Volleyball Championship (I Shall). This facility can be utilized after class time and it is open to all. CEC is the first college having such a facility in Kerala.",
-                    {
-                        "Offical website of this organisation": "No Link"
-                    }
-                ]
-            },
-            {
-                "Surge": [
-                    "Surge is a forum associated with the Electrical Department of College of Engineering Chengannur registered under Travancore-Cochin ACT, aimed at uplifting the students technically in every way. Surge incorporates its members with all the new innovative technologies, promote and implement their ideas and for bringing out the best in the electrical engineering field. As a part of its technical activities, many sessions such as workshops, seminar, orientation class, etc were held to nurture the budding engineers. Kerala recently faced its worst flooding in nearly a century and Chengannur was one of the most affected areas with a large number of refugees. In collaboration with KSEB, the monumental task of restoring basic lighting and power supply to all homes was completed by the project named  Mission Reconnect  in which Surge members got an opportunity to become part of the state-wide rehabilitation. Surge provides a perfect platform for those who inclined to achieve a deeper understanding of engineering processes and to become a good quality Engineer.",
-                    {
-                        "Offical website of this organisation": "No Link"
-                    }
-                ]
-            },
-            {
-                "CEC Film Society": [
-                    "Cinema is a matter of what s in the frame and what s out. Film Society is the platform for all the students who are passionate about different fields of filmmaking, where they can learn and progress in the art of filmmaking. The Inaugural Film Society of College of Engineering Chengannur was by the famous Cine artist Antony Varghese(Pepe) in the inaugural function of the college Arts Festival in the year 2018-19. It is an art-loving platform to promote various film-based activities. CEC Film Society has been part of The World s Largest Filmmaking Challenge by being in the 50-hour filmmaking challenge by the India Film Project(IFP). We succeeded in the challenge by making a short film duration of 6 minutes. We are planning to make short films and organize TedX talks with professional filmmakers, Film-based competitions, and workshops on Editing, screenwriting, and other aspects of filmmaking.",
-                    {
-                        "Offical website of this organisation": "No Link"
-                    }
-                ]
-            },
-            {
-                "Placement": [
-                    "The Training and Placement Cell, (TPC) of the College of Engineering, Chengannur is a body of active students, guided by Staff-in-Charge. Student members are specially selected to carry out the responsible working of the cell. The TPC dedicates itself to help students develop their personalities and establish their careers. The activities of TPC are: Fee Payment Link  :",
-                    {
-                        "Offical website of this organisation": "https://www.onlinesbi.com/sbicollect/icollecthome.htm?corpID=1260958"
-                    }
-                ]
-            },
-            {
-                "Forum Of Computer Engineering Students(FOCES)": [
-                    "FOCES is an organization of CSE students of the college. The forum aims at improving the technical and industrial knowledge of the students and strives to keep them abreast the with latest softwares and technologies evolving in the information technology field. It welcomes the freshers into the world of computer engineering by conducting essential orientation classes. It organizes talks by eminent personalities in the industry on evolving technologies in computing, workshops on latest developing platforms, languages and software packages in the IT industry and helps coordinate and implement software projects for the students in the Computer Science & Engineering Dept. Official Website:",
-                    {
-                        "Offical website of this organisation": "http://foces.org/"
-                    }
-                ]
-            },
-            {
-                "Alumni": [
-                    "The CEC Alumni Association started functioning in 2014. The objective of the Association is to maintain the contacts of the alumni of the College of Engineering Chengannur with alma mater and provide a forum for bringing together the old students of the college so that they can contribute effectively to the cause of engineering education and research in the country. Association provides opportunities for developing entrepreneurship and practical know-how among the graduating students and also to impart vocational and career guidance to them We aim to strengthen the relationships between CEC alumni, students, and soon-to-be alumni while maximizing potential in both personal and professional lives. For more information visit",
-                    {
-                        "Offical website of this organisation": "http://arc.ceconline.edu/"
-                    }
-                ]
-            },
-            {
-                "IEEE Student Branch College of Engineering Chengannur": [
-                    "IEEE Student Branch of College of Engineering Chengannur formed on 16th of September, 1996 with the goal of keeping the students in touch with technological advances. What started as a small initiative for technical advancement of the students, is now one of the most vibrant Student Branches of the Asia Pacific Region (Region 10) and Kerala Section. The Student Branch has always taken pride in raising the caliber, nurturing technical interests, exploring managerial skills, enculturating fidelity, accelerating career goals, strengthening ambition and brightening future of its members thereby contributing productive and socially committed engineers to the society. Through Seminars, Workshops, Technical Festivals and Competitions, the Student Branch is fervent in helping its members to update their knowledge and skills with technology which is advancing by leaps and bounds. IEEE SB CEC has an IEEE library which was inaugurated in December 1999. The library houses journals and magazines of IEEE. The Student Branch is known for its consistent achievements since its inception in 1996. Currently, the Student Branch has 6 active Societies, 1 Affinity Group and a Special Interest Group. For more information visit",
-                    {
-                        "Offical website of this organisation": "https://cecieee.org"
-                    }
-                ]
-            },
-            {
-                "Innovation & Entrepreneurship Development Cell (IEDC)": [
-                    "The Innovation and Entrepreneurship Development Centre (IEDC) is an initiative of the National Science and Technology Entrepreneurship Development Board (NSTEDB), Department of Science and Technology (DST), New Delhi. The aim was to develop an institutional mechanism to create an entrepreneurial culture in academic institutions to harbor the growth of innovation and entrepreneurship amongst the faculty and students. The Innovation and Entrepreneurship Development Cell [ IEDC] Bootcamp College of Engineering Chengannur came into existence in June 2015 with the vision of molding youngsters into technological entrepreneurs and innovative leaders. The cell act as a catalyst in fostering entrepreneurship and to develop and cherish a spirit of innovation and a prompt to follow their passion amongst the student community of CEC in association with KSUM. The prime motive of the Cell is to promote entrepreneurial spirit among students by the means of its various activities which aims to motivate young, budding technology graduates to take up Entrepreneurship as a career and become job providers rather than job seekers. IEDC seeks to inculcate the entrepreneurial culture among the students which would, in turn, inspire them to go a step further and take up the challenge of entrepreneurship.",
-                    {
-                        "Offical website of this organisation": "http://iedcbootcampcec.in"
-                    }
-                ]
-            },
-            {
-                "Naval NCC Unit": [
-                    "has initiated its NCC unit under the NAVAL wing of the Armed Forces. The unit is commissioned on 16th October 2014 with a total strength of 50 cadets. There will be 33% seats reserved for lady cadets. Our NAVY NCC unit functions under 3(K) Navy Unit Kollam, of the Kollam group NCC headquarters. The students are actively participating in all the regular activities of NCC and also got opportunities for attending national level camps all over the country. The total tenure of a cadet is 3 years. During this period he/she has to attend two Annual Training Camps for being eligible to appear for the NCC- examinations. Apart from the regular training activities, interested cadets will get opportunities to attend Ship attachment camps, trekking camps, Sea-sortie programs, Mountaineering camps, Paragliding&Scuba Diving events, Advance Leadership Camps (ALC) etc. Selected cadets, if interested, may get chance to attend Republic Day Camp(RDC) and even attend Youth Exchange Program(YEP) with friendly countries of our nation. We are extremely proud in announcing that 2 of our cadets got Gold medals and 2 other cadets got silver medals in the Nau-Sainik-Camp-2016(NSC-2016) held at Karwar, Karnataka, and our team has got overall second position in the national level. NCC is a voluntary organization which is administered through the Ministry of Defence. The aims of NCC are mainly threefold:",
-                    {
-                        "Offical website of this organisation": "No Link"
-                    }
-                ]
-            },
-            {
-                "NSS": [
-                    "The vision of the NSS Technical Cell, Kerala is to mould its volunteers as  Social Engineers , who know the pulse of the community and would be able to act accordingly. The mission of the NSS Technical Cell is to make the campuses community-related and to reduce the distance between the social and technical communities. NSS volunteers always cater to the marginalized population, and it is by catering to these needs that the volunteers initiate the entry to the community, and this results in a drastic change in the attitude of the members of the community towards students as well as an open acknowledgement in their activities with gratitude.",
-                    {
-                        "Offical website of this organisation": "No Link"
-                    }
-                ]
-            },
-            {
-                "Product Design and Development Center (PRODDEC)": [
-                    "PRODDEC is a common platform for the Electronics and Computer students. It was formed in 1995 with the vision of integrating technical ideas from both the fields and to develop products of an engineering outlook. Understanding the industry needs, PRODDEC has contributed greatly to the overall development of the students as competent engineers. The main objectives of PRODDEC, have remained the same as those outlined by its founders   the all round development of the students as engineers. The executive council of PRODDEC is always in search of new avenues to help and encourage the students, to put their theoretical knowledge to practical use. In its endeavor, the organization is always open to suggestions, constructive criticism, and moral support. PRODDEC, as an organization which supports aspirants of the highest standards in technical activity, is committed to fulfilling it s an obligation to the student community. It has therefore framed a set of ethics which are as follows:",
-                    {
-                        "Offical website of this organisation": "No Link"
-                    }
-                ]
-            }
-        ]
-    }
-]
+    "admin_staff_5_name and designation": [
+        "Sri. Manoj K Mathew",
+        "Head Clerk"
+    ],
+    "admin_staff_6_name and designation": [
+        "Smt. Beena Jacob",
+        "Head Clerk"
+    ],
+    "admin_staff_7_name and designation": [
+        "Smt. Manjusha Devi N P",
+        "Senior Office Assistant"
+    ],
+    "admin_staff_8_name and designation": [
+        "Smt. Jaya Sreenivasan",
+        "Office Assistant"
+    ],
+    "admin_staff_9_name and designation": [
+        "Sri. Dhananjayan P V",
+        "Office Assistant"
+    ],
+    "admin_staff_10_name and designation": [
+        "Smt. Niza N",
+        "Office Assistant"
+    ],
+    "admin_staff_11_name and designation": [
+        "Smt. Reshmi Raj K R",
+        "T S K"
+    ],
+    "admin_staff_12_name and designation": [
+        "Smt. Renjini S",
+        "DEOT"
+    ],
+    "admin_staff_13_name and designation": [
+        "Smt. Sheeba George",
+        "DEOT"
+    ],
+    "admin_staff_14_name and designation": [
+        "Vidya Vijayan",
+        "DEOT"
+    ],
+    "admin_staff_15_name and designation": [
+        "Sri. Yohannan B J",
+        "Peon /Watcher"
+    ],
+    "admin_staff_16_name and designation": [
+        "Sri. Aneesh N A",
+        "Last Grade Servant"
+    ],
+    "admin_staff_17_name and designation": [
+        "Smt. Anitha Kumari",
+        "Last Grade Servant"
+    ],
+    "admin_staff_18_name and designation": [
+        "Sri. Suresh Kumar N",
+        "Watcher/Peon"
+    ],
+    "admin_staff_19_name and designation": [
+        "Smt. Suja Kumari V R",
+        "Peon/Sweeper"
+    ],
+    "admin_staff_20_name and designation": [
+        "Sri. Lathesh Kumar P A",
+        "Watcher/Peon"
+    ],
+    "admin_staff_21_name and designation": [
+        "Sri. Asharaf A",
+        "Watcher/Peon"
+    ],
+    "admin_staff_22_name and designation": [
+        "Sri. G Suresh Kumar",
+        "Security Guard"
+    ],
+    "admin_staff_23_name and designation": [
+        "Sri. Sivaprasad P",
+        "Security Guard"
+    ],
+    "admin_staff_24_name and designation": [
+        "Sri. Raghunathan N G",
+        "Security Guard"
+    ],
+    "nri_admission_candidate_details_url": "https://ceconline.edu/wpdata/admission/2023-24/nri_marklist.pdf",
+    "nri_admission_original_certificates_url": "https://ceconline.edu/wpdata/admission/original_certificate_to_be_submitted.pdf",
+    "nri_admission_admission_schedule_url": "https://ceconline.edu/wpdata/admission/asmschdule.pdf",
+    "anti_ragging_function_1": "To implement anti-ragging measures as stipulated by the government/university/concerned authority from time to time",
+    "anti_ragging_function_2": "To monitor violations of anti-ragging rules in the campus and suggest disciplinary actions in such cases",
+    "anti_ragging_function_3": "Organize anti-ragging awareness programs in collaboration with the District legal services authority (DLSA)",
+    "anti_ragging_function_4": "To take preventive steps by organizing anti-ragging awareness programs, issuing notices, warnings, instructions for regulating the behavior of students",
+    "pta_executive_member_1_name and phone number": [
+        "Sri. Sasidharakurup\n(President)",
+        "9446792532"
+    ],
+    "pta_executive_member_2_name and phone number": [
+        "Fr.Ipe P Sam",
+        "9447964285"
+    ],
+    "pta_executive_member_3_name and phone number": [
+        "Smt.Annie Varghese",
+        "9400562654"
+    ],
+    "pta_executive_member_4_name and phone number": [
+        "Adv. George Thomas",
+        "9447348323"
+    ],
+    "pta_executive_member_5_name and phone number": [
+        "Smt Sreela Harikumar",
+        "9447207301"
+    ],
+    "pta_executive_member_6_name and phone number": [
+        "Mr. Dhanapal S",
+        "9497447343"
+    ],
+    "pta_executive_member_7_name and phone number": [
+        "Ms. Lathamol Thomas",
+        "9656408116"
+    ],
+    "pta_executive_member_8_name and phone number": [
+        "Smt. Azeena",
+        "9495053318"
+    ],
+    "pta_executive_member_9_name and phone number": [
+        "Sri. Sunil S",
+        "9847711332"
+    ],
+    "pta_executive_member_10_name and phone number": [
+        "Sri. Thomas K",
+        "9400400899"
+    ],
+    "pta_executive_member_11_name and phone number": [
+        "Sri. Harish S",
+        "9447279012"
+    ],
+    "pta_executive_member_12_name and phone number": [
+        "Adv. Vijayan Pillai",
+        "9446411441"
+    ],
+    "pta_executive_member_13_name and phone number": [
+        "Sri. Mathew KD",
+        "9744684232"
+    ],
+    "pta_executive_member_14_name and phone number": [
+        "Smt. Sudha",
+        "9962955417"
+    ],
+    "pta_faculty_member_1_name and phone number": [
+        "Smt Savitha",
+        "8289858010"
+    ],
+    "pta_faculty_member_2_name and phone number": [
+        "Dr. Deepa J",
+        "9447660410"
+    ],
+    "pta_faculty_member_3_name and phone number": [
+        "Dr. Madhusoohanan Nair",
+        "9447324845"
+    ],
+    "pta_faculty_member_4_name and phone number": [
+        "Sri. Gopa Kumar\u00a0G",
+        "9847370357"
+    ],
+    "pta_faculty_member_5_name and phone number": [
+        "Smt. Manjusha S Nair",
+        "9446193022"
+    ],
+    "pta_faculty_member_6_name and phone number": [
+        "",
+        ""
+    ],
+    "pta_faculty_member_7_name and phone number": [
+        "Sri. Vinod (Secretary)",
+        "9447469246"
+    ],
+    "pta_faculty_member_8_name and phone number": [
+        "Sri. Vibesh V Panicker",
+        ""
+    ],
+    "pta_faculty_member_9_name and phone number": [
+        "Dr.Raju M",
+        "9946509821"
+    ],
+    "pta_faculty_member_10_name and phone number": [
+        "Dr. C R. Ajith Sen",
+        "9388900058"
+    ],
+    "pta_special_member_1_name and phone number": [
+        "Dr. Manju S Nair",
+        "9495438743"
+    ],
+    "pta_special_member_2_name and phone number": [
+        "Dr. Rajeevan A K",
+        "8921002207"
+    ],
+    "seat_capacity_B.Tech Degree in Computer Science and Engineering": "180 Seats",
+    "seat_capacity_B.Tech Degree in Electrical & Electronics Engineering": "60 Seats",
+    "seat_capacity_B.Tech Degree in Electronics and Communication Engineering": "120 Seats",
+    "seat_capacity_B.Tech Degree in\u00a0 Computer Science and Engineering(Artificial Intelligence & Machine Learning)": "60 Seats",
+    "admission_description": "Admission to UG programmes except in NRI seats is on the basis of the All Kerala Common Entrance Examination, conducted by the Commissioner for Entrance Examinations (CEE), Govt. of Kerala. The criteria for B.Tech degree admission is prescribed by the CEE, Govt. of Kerala and concerned University, and is issued every year by Govt. of Kerala through common prospectus for admission to professional degree courses. The entrance examinations are conducted usually in the month of April.",
+    "btech_eligibility_criteria": ": Managed by Commissioner of Entrance Examinations, Govt. of Kerala, according to KEAM rank list.Rs.40,000/- per annum), CSE & ECERs. 45,000/- per annum):EEE (Rs. 70,000/- per annum), CSE & ECERs. 75,000/- per annum): Candidates who have passed Higher Secondary Examination, Kerala, or Examinations recognized as equivalent thereto, with Physics and Mathematics as compulsory subjects and Chemistry as one of the optional subjects with at least 45% marks put together in the above subjects are eligible for admission. In case, the candidate has not studied Chemistry, the marks obtained in Computer Science shall be considered. In case, the candidate has not studied Chemistry and Computer Science the marks obtained in Biotechnology shall be considered. In case, the candidate has not studied Chemistry, Computer Science and Biotechnology the marks obtained in Biology shall be considered. The marks as shown in the mark list of the Board of Examination obtained from the respective Higher Secondary Board shall be considered for academic eligibility.: Managed by Institute of Human Resources Development (IHRD): CSE (9), EEE (3), ECE (6): Rs. 125,000/- (One-time refundable deposit) & Rs. 110,000/- per annum: Candidates who have passed Higher Secondary Examination, Kerala or Examinations recognized as equivalent thereto, with 45% marks in Mathematics, Physics & Chemistry put together (or equivalent subjects specified in prospectus of KEAM-2021) are eligible for admission under NRI seats in Engineering Colleges under IHRD.The candidates seeking admission to B. Tech NRI seats should be a child/ ward/ dependent of an NRI and should enclose a declaration from the NRI {form enclosed as VIII(7)} along with the application",
+    "documents_to_be_submitted_during_admission_link": "https://ceconline.edu/wpdata/admission/Admission%202024-25/Documents%20to%20be%20submitted.pdf",
+    "placement_cell_description": "The Training and Placement Cell, (TPC) of the College of Engineering, Chengannur is a body of active students, guided by Staff-in-Charge. Student members are specially selected to carry out the responsible working of the cell. The TPC dedicates itself to help students develop their personalities and establish their careers.",
+    "placement_cell_activities": "Preparing the students to face competitive examinations and interviews through intensive training programs including group discussions, mock interviews, and the basics of behavior and body language. Experienced Professionals from the industry are invited for some of the training programs. Assisting students in career-planning, employment and providing information on higher studies. Inviting companies to the college campus for recruiting students for placement in their organizations. TPC offers all facilities to these companies for conducting presentations, tests, and interviews.",
+    "aicte_feedback_link_1_url": "https://www.aicte-india.org/feedback/",
+    "aicte_feedback_link_2_url": "https://www.aicte-india.org/feedback/",
+    "aicte_feedback_link_3_url": "https://www.aicte-india.org/feedback/students.php",
+    "aicte_feedback_link_4_url": "https://www.aicte-india.org/feedback/faculty.php",
+    "principal_name": "Prof. (Dr.) Hari. V S",
+    "principal_qualification_1_Communication Systems_detail": "PhD\u00a0 from Cochin University of Science and Technology for thesis entitled \u201cDesign, Development and Realization of Quadratic Volterra Filters for Selected Applications\u201d in 2013.",
+    "principal_contact_address": "Principal , College of Engineering, Chengannur,Alappuzha (Dist.) \u2013 689121",
+    "principal_contact_tel": "0479-2450435",
+    "principal_contact_email": "principal@ceconline.edu",
+    "principal_expertise_1": "LATEX, PsTricks ,html, dia, Linux, xcircuit, LATEXDraw, C",
+    "principal_expertise_2": "python, QUCS, MATLAB, LabVIEW",
+    "principal_expertise_3": "Scipy, Numpy ,Keras, Tensorflow, Dash",
+    "principal_research_activity_1": "Incorporated a company Rand Walk Research and Solutions Pvt. Ltd. on June 20,2020 under the Faculty startup scheme of the Govt.of Kerala. It is awarded the startup status by the Govt. of India. The company takes up projects in data analysis, machine learning and computer vision.",
+    "principal_book_1": "Electronics Laboratory Handbook with Simulations using Quite Universal Circuit Simulator (Qucs), Authors Press,New Delhi,ISBN-978-93-5529-048-9",
+    "principal_book_2": "Logic Circuit Design Laboratory practice with Qucs, ICs, Verilog and Mini FPGA, Authors Press, New Delhi, ISBN \u2013 978-93-5529-175-2",
+    "facility_description": "The college is fully equipped with well furnished smart class rooms. The college also has laptops which are issued to the students to help them in their project work. Other facilities include Diesel Generator System to power the whole college, Power Backups, Water Purifier System, Camera\u00a0 surveillance\u00a0 etc. There is also a Co-operative store adjacent to the college office which provides students with stationery and general provisions.The college owned men\u2019s hostel and ladies\u2019 hostel can house over 100 inmates and provide a nourishing environment.",
+    "contact_address": "College of Engineering Chengannur",
+    "contact_tel": "+91-479- 2455125 (Reception)+91-479-2454125 (Office)+91-479-2456046 (Principal)",
+    "contact_email": "principal@ceconline.edu",
+    "contact_schedule": "Mon \u2014 Sat: 9AM \u2014 5PM",
+    "contact_socials": "",
+    "location_main_description": "CEC is located in Chengannur, a beautiful town in Kerala. Chengannur is situated at the extreme east part of Alappuzha district. Main Central Road (popularly known as the M.C. Road) passes by the college. It is well connected to other cities by rail and road. The exact location of the college is shown on the map.",
+    "transit_distance_bus_stand": "Chengannur (1/2 km)\n Chengannur \u2013 CNGR (1 km)\n Cochin International Airport \u2013 COK (110 km),\nTrivandrum International Airport \u2013 TRV (120 km)",
+    "iqac_description": "Internal Quality Assurance Cell Internal Quality Assurance Cell or Internal Audit Cell (IQAC/IAC) comprises of senior faculty members having representation from each department and is constituted by the Principal to ensure the timely, efficient and progressive performance of academic and administrative tasks. A senior member of IQAC shall be its coordinator The term of IQAC shall be one academic year IQAC shall conduct internal academic audits and produce the required documents and records to the External Auditor appointed by the University, on-demand IQAC is also responsible for uploading monthly report, annual report and any other data required by the University IQAC will aim to develop and apply quality benchmarks/parameters for the various academic and administrative activities of the institution IQAC shall ensure equitable access to resources for various classes of the society, and to organize conduct of remedial coaching and bridge programs as and when it is needed IQAC shall strive to incorporate modern methods into the teaching-learning process.",
+    "bog_member_3_name_designation": "Professor & \u00a0Head, Engineering Design\u00a0 Dept, IIT, Madras",
+    "bog_member_3_designation": "Chair Person",
+    "bog_member_4_name_designation": "Prof. (Dr).P. Suresh Kumar, The Director, IHRD, Thiruvananthapuram.",
+    "bog_member_4_designation": "Member",
+    "bog_member_5_name_designation": "Dr. John Joseph, Head, Talent Acquisition, TCS",
+    "bog_member_5_designation": "Member",
+    "bog_member_6_name_designation": "Dr. Anil Kumar P, IT Consultant, Thiruvananthapuram",
+    "bog_member_6_designation": "Member",
+    "bog_member_7_name_designation": "Prof.(Dr.) Laila D., Professor",
+    "bog_member_7_designation": "Member",
+    "bog_member_8_name_designation": "Dr. Manju S Nair,",
+    "bog_member_8_designation": "Member",
+    "bog_member_9_name_designation": "Dr.R Sakthivel, Regional Officer, SWRO Camp Office, Thiruvananthapuram",
+    "bog_member_9_designation": "Member",
+    "bog_member_10_name_designation": "The Principal,",
+    "bog_member_10_designation": "Member",
+    "bog_member_11_name_designation": "The Finance Officer of the concerned Collectorate",
+    "bog_member_11_designation": "Member",
+    "bog_member_12_name_designation": "University Nominee",
+    "bog_member_12_designation": "Member",
+    "bog_member_13_name_designation": "Prof.(Dr.) Smitha Dharan",
+    "bog_member_13_designation": "Member",
+    "committee_1_Appellate Authority_officer_1_name": "Dr. Hari V S",
+    "committee_1_Appellate Authority_officer_1_designation": "Principal",
+    "committee_1_Appellate Authority_officer_2_name": "Mob",
+    "committee_1_Appellate Authority_officer_2_designation": ":",
+    "committee_1_Appellate Authority_officer_2_contact": "mailto:rti@ceknpy.ac.in",
+    "committee_2_Public Information Officer_officer_1_name": "Smt. Asha K Pillai",
+    "committee_2_Public Information Officer_officer_1_designation": "Senior Superintendent",
+    "committee_2_Public Information Officer_officer_2_name": "Sri. Anoop Raj T V",
+    "committee_2_Public Information Officer_officer_2_designation": "Junior Superintendent",
+    "announcement_btech_registration_\u2022Registration Form - B.Tech Admission 2024 - (KEAM and Non-KEAM)_url": "https://forms.gle/F87ss2y2LH7YmSvV9",
+    "announcement_btech_fee_\u2022B.Tech  Fee Structure 2024-25._url": "https://ceconline.edu/wpdata/BTechfeestructure202425.pdf",
+    "department_of_computer_engineering_description": "The core courses offered by the Department of Computer Engineering are\u00a0 and\u00a0 from Kerala Technological University, Kerala. These courses are aimed at providing theoretical and practical knowledge of Computer Science. The subjects in Bachelor\u2019s level programme include Computer Architecture and Organization, Automata Languages and Computation, Data Structures and Algorithms, Database Management Systems, Language Processor, Computer Networks, Advanced Architecture and Parallel Processing, Software Engineering, Digital Signal Processing, Analysis and Design of Algorithms etc. The curriculum also includes management papers like Industrial Organization and Management. In order to bridge the gap between knowledge and its true application, students are required to undertake seminars, mini-project and the main project that put them through an industry-like situation. The course produces an ideal computer engineer, well-equipped to meet the challenges of the rapidly growing IT industry.",
+    "department_of_computer_engineering_hod_name": "Sri. Gopakumar G",
+    "department_of_computer_engineering_hod_designation": "Associate Professor & Head Of the Department",
+    "department_of_computer_engineering_hod_email": "hod.cse@ceconline.edu",
+    "department_of_computer_engineering_faculty_1_name": "Dr. Shyama Das",
+    "department_of_computer_engineering_faculty_1_designation": "Professor",
+    "department_of_computer_engineering_faculty_2_name": "Dr. Manju S Nair",
+    "department_of_computer_engineering_faculty_2_designation": "Associate Professor",
+    "department_of_computer_engineering_faculty_3_name": "Sri. Gopakumar G",
+    "department_of_computer_engineering_faculty_3_designation": "Associate Professor",
+    "department_of_computer_engineering_faculty_4_name": "Smt. Jyothirmayi Devi C",
+    "department_of_computer_engineering_faculty_4_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_5_name": "Smt. Manjusha Nair S",
+    "department_of_computer_engineering_faculty_5_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_6_name": "Smt. Princy Sugathan",
+    "department_of_computer_engineering_faculty_6_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_7_name": "Smt. Geetha S",
+    "department_of_computer_engineering_faculty_7_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_8_name": "Smt. Shiny B",
+    "department_of_computer_engineering_faculty_8_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_9_name": "Dr.Sabeena K",
+    "department_of_computer_engineering_faculty_9_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_10_name": "Smt. Betty James",
+    "department_of_computer_engineering_faculty_10_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_11_name": "Smt. Nasseena N",
+    "department_of_computer_engineering_faculty_11_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_12_name": "Smt. Sreelekshmi K R",
+    "department_of_computer_engineering_faculty_12_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_13_name": "Smt. Aarathy U P",
+    "department_of_computer_engineering_faculty_13_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_14_name": "Smt. Angel Thankam Thomas",
+    "department_of_computer_engineering_faculty_14_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_15_name": "Smt. Shereena Thampi",
+    "department_of_computer_engineering_faculty_15_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_16_name": "Smt. Ameena A",
+    "department_of_computer_engineering_faculty_16_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_17_name": "Smt. Rosy K Philip",
+    "department_of_computer_engineering_faculty_17_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_18_name": "Smt. Neethu Treesa Jacob",
+    "department_of_computer_engineering_faculty_18_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_19_name": "Sri. Vishnu S Kumar",
+    "department_of_computer_engineering_faculty_19_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_20_name": "Smt. Jithy John",
+    "department_of_computer_engineering_faculty_20_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_21_name": "Smt. Syeatha Merlin Thampy",
+    "department_of_computer_engineering_faculty_21_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_22_name": "Smt. Alka Vijay",
+    "department_of_computer_engineering_faculty_22_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_23_name": "Smt. Leya G",
+    "department_of_computer_engineering_faculty_23_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_24_name": "Smt. Chinchu M Pillai",
+    "department_of_computer_engineering_faculty_24_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_25_name": "Smt. Shabana Mol S",
+    "department_of_computer_engineering_faculty_25_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_26_name": "Smt. Sulaja Sanal",
+    "department_of_computer_engineering_faculty_26_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_27_name": "Smt. Reshma Raj K S",
+    "department_of_computer_engineering_faculty_27_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_28_name": "Smt. Reshma Ann Mathews",
+    "department_of_computer_engineering_faculty_28_designation": "Assistant Professor",
+    "department_of_computer_engineering_faculty_29_name": "Smt. Premy P Jacob",
+    "department_of_computer_engineering_faculty_29_designation": "Assistant Professor",
+    "department_of_electrical_engineering_description": "Foreman Demonstrator Demonstrator Tradesman Tradesman Tradesman Tradesman \u00a0 \u2018",
+    "department_of_electrical_engineering_hod_name": "Dr. Raju M",
+    "department_of_electrical_engineering_hod_designation": "Head of the Department",
+    "department_of_electrical_engineering_hod_email": "rajumanuel@ceconline.edu",
+    "department_of_electrical_engineering_eee_faculty_1_name": "Dr. Rajeevan A K",
+    "department_of_electrical_engineering_eee_faculty_1_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_2_name": "Dr.Raju M",
+    "department_of_electrical_engineering_eee_faculty_2_designation": "Assistant Professor & HOD",
+    "department_of_electrical_engineering_eee_faculty_3_name": "Smt. Haseena P Y",
+    "department_of_electrical_engineering_eee_faculty_3_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_4_name": "Smt.Sherin Joseph",
+    "department_of_electrical_engineering_eee_faculty_4_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_5_name": "Sri. Bijukumar K",
+    "department_of_electrical_engineering_eee_faculty_5_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_6_name": "Sri.Prasobh P",
+    "department_of_electrical_engineering_eee_faculty_6_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_7_name": "Smt. Aja Mariam Johnson",
+    "department_of_electrical_engineering_eee_faculty_7_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_8_name": "Smt. Anaswara Mohan",
+    "department_of_electrical_engineering_eee_faculty_8_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_9_name": "Smt.Devisree Sasi",
+    "department_of_electrical_engineering_eee_faculty_9_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_10_name": "Smt. Amrutha Anand",
+    "department_of_electrical_engineering_eee_faculty_10_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_11_name": "Smt. Preseetha Kuruvelil",
+    "department_of_electrical_engineering_eee_faculty_11_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_12_name": "Smt. Aneesha M S",
+    "department_of_electrical_engineering_eee_faculty_12_designation": "Assistant Professor",
+    "department_of_electrical_engineering_eee_faculty_13_name": "Smt. Geethu Zacheria",
+    "department_of_electrical_engineering_eee_faculty_13_designation": "Assistant Professor",
+    "department_of_electronics_engineering_description": "The Electronics Engineering Department was established at CEC Campus in the academic year 1993-1994. The department actively engages in research activities, with several research scholars pursuing their PhD under the guidance of esteemed faculty members. Alumni from the department have made significant contributions in various tech giants such as Samsung, Intel, Texas Instruments and DRDO. Additionally, numerous students have successfully secured admissions into prestigious Universities. Many startups have emerged from the Electronics Engineering Department, showcasing the entrepreneurial spirit and innovative mindset fostered within the academic environment. Evolve into a centre of learning in Electronics Engineering that transforms students into competent professionals with knowledge, skill and ethical values for the development of society.",
+    "department_of_electronics_engineering_hod_name": "Dr. Shanavaz K T",
+    "department_of_electronics_engineering_hod_designation": "Associate Professor & Head Of the Department",
+    "department_of_electronics_engineering_hod_email": "hod.ece@ceconline.edu",
+    "department_of_electronics_engineering_ec_faculty_1_name": "Dr. Nisha Kuruvilla",
+    "department_of_electronics_engineering_ec_faculty_1_designation": "Professor",
+    "department_of_electronics_engineering_ec_faculty_2_name": "Dr. Shanavaz K T",
+    "department_of_electronics_engineering_ec_faculty_2_designation": "Associate Professor and Head of Department",
+    "department_of_electronics_engineering_ec_faculty_3_name": "Dr. C V Anil Kumar",
+    "department_of_electronics_engineering_ec_faculty_3_designation": "Associate Professor",
+    "department_of_electronics_engineering_ec_faculty_4_name": "Dr. Sarah Jacob",
+    "department_of_electronics_engineering_ec_faculty_4_designation": "Associate Professor",
+    "department_of_electronics_engineering_ec_faculty_5_name": "Dr. Shiji T P",
+    "department_of_electronics_engineering_ec_faculty_5_designation": "Associate Professor",
+    "department_of_electronics_engineering_ec_faculty_6_name": "Dr. Hari V S",
+    "department_of_electronics_engineering_ec_faculty_6_designation": "Associate Professor and Principal in charge",
+    "department_of_electronics_engineering_ec_faculty_7_name": "Dr. Ayoob Khan T E",
+    "department_of_electronics_engineering_ec_faculty_7_designation": "Associate Professor",
+    "department_of_electronics_engineering_ec_faculty_8_name": "Smt. Sheeja P George",
+    "department_of_electronics_engineering_ec_faculty_8_designation": "Associate Professor",
+    "department_of_electronics_engineering_ec_faculty_9_name": "Sri. Sudheer Babu P P",
+    "department_of_electronics_engineering_ec_faculty_9_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_10_name": "Dr. Lekha R Nair",
+    "department_of_electronics_engineering_ec_faculty_10_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_11_name": "Sri. Sreekumar K",
+    "department_of_electronics_engineering_ec_faculty_11_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_12_name": "Sri. Sam K Sumesh",
+    "department_of_electronics_engineering_ec_faculty_12_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_13_name": "Sri. Yasim Khan M",
+    "department_of_electronics_engineering_ec_faculty_13_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_14_name": "Smt.MiniKumari G",
+    "department_of_electronics_engineering_ec_faculty_14_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_15_name": "Smt. Deepa Susan Jacob",
+    "department_of_electronics_engineering_ec_faculty_15_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_16_name": "Smt. Preethimol Selastin",
+    "department_of_electronics_engineering_ec_faculty_16_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_17_name": "Smt. Anuja V Nair",
+    "department_of_electronics_engineering_ec_faculty_17_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_18_name": "Smt. Deepa T R",
+    "department_of_electronics_engineering_ec_faculty_18_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_19_name": "Dr. Shanu N",
+    "department_of_electronics_engineering_ec_faculty_19_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_20_name": "Smt. Darsana S",
+    "department_of_electronics_engineering_ec_faculty_20_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_21_name": "Smt. Varsha P S",
+    "department_of_electronics_engineering_ec_faculty_21_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_22_name": "Smt. Girija M G",
+    "department_of_electronics_engineering_ec_faculty_22_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_23_name": "Sri. HariKumar T",
+    "department_of_electronics_engineering_ec_faculty_23_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_24_name": "Smt. Neethu Verjisen",
+    "department_of_electronics_engineering_ec_faculty_24_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_25_name": "Smt. Sruthi B R",
+    "department_of_electronics_engineering_ec_faculty_25_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_26_name": "Smt. Rijimol Mathew",
+    "department_of_electronics_engineering_ec_faculty_26_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_27_name": "Smt. Anju V Sathyan",
+    "department_of_electronics_engineering_ec_faculty_27_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_28_name": "Smt. Rajalakshmy A K",
+    "department_of_electronics_engineering_ec_faculty_28_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_29_name": "Smt. Neethu Anilkumar",
+    "department_of_electronics_engineering_ec_faculty_29_designation": "Assistant Professor",
+    "department_of_electronics_engineering_ec_faculty_30_name": "Smt. Renjitha",
+    "department_of_electronics_engineering_ec_faculty_30_designation": "Assistant Professor",
+    "department_of_general_engineering_description": "General Engineering is a diverse field applying scientific principles and mathematical methodologies to design, develop, and maintain various structures, machinery, and systems. The curriculum offered by the department encapsulates a wide array of subjects, such as Engineering Graphics, Engineering Mechanics, Basic Mechanical Engineering, Basic Civil Engineering, Management for Engineers, and Sustainable Engineering. These courses are meticulously designed to lay a solid foundation, equipping students with the necessary theoretical knowledge and analytical skills. Hands-on workshops and CAD courses complement theoretical learning, fostering practical skills essential for addressing real-world challenges across industries.",
+    "department_of_general_engineering_hod_name": "Dr. Ashok Kumar T V",
+    "department_of_general_engineering_hod_designation": "Head Of the Department",
+    "department_of_general_engineering_hod_email": "hod.ge@ceconline.edu",
+    "department_of_general_engineering_eee_faculty_1_name": "Dr. Ashok Kumar T V",
+    "department_of_general_engineering_eee_faculty_1_designation": "Associate Professor & HOD",
+    "department_of_general_engineering_eee_faculty_2_name": "Sri. Sarath Kumar S",
+    "department_of_general_engineering_eee_faculty_2_designation": "Assistant Professor (Mechanical)",
+    "department_of_general_engineering_eee_faculty_3_name": "Smt. Athira Thulasidas",
+    "department_of_general_engineering_eee_faculty_3_designation": "Assistant Professor (Mechanical)",
+    "department_of_general_engineering_eee_faculty_4_name": ".",
+    "department_of_general_engineering_eee_faculty_4_designation": "1.",
+    "department_of_basic_science_&_language_description": "The department of Basic Science and Language is pivotal to the college\u2019s academic framework, furnishing students with vital knowledge and skills necessary for excelling in various engineering disciplines. Offering a diverse array of subjects, the department forms the foundational core of engineering education. The department covers areas such as: Engineering Physics, Engineering Chemistry, Linear Algebra and Calculus, Graph Theory,\u00a0 Life Skills, Professional Communication, Industrial Economics and Foreign Trade. Together these subjects provide a comprehensive education that prepares students for the challenges of the engineering world, fostering analytical thinking,\u00a0\u00a0 problem-solving skills and a global perspective. The Department of Basic Science and Language is dedicated to offering a rigorous and relevant curriculum, ensuring students are well- prepared to contribute to the advancement of technology and society.",
+    "department_of_basic_science_&_language_hod_name": "Smt. Moni P John",
+    "department_of_basic_science_&_language_hod_designation": "Head Of the Department",
+    "department_of_basic_science_&_language_hod_email": "monipjohn@ceconline.edu",
+    "notice_induction_programme_title": "\u2022Student Induction Programme 2024",
+    "notice_induction_programme_url": "https://ceconline.edu/wpdata/sipbrief.pdf",
+    "organization_1_IEEE Student Branch College of Engineering Chengannur_description": "IEEE Student Branch of College of Engineering Chengannur formed on 16th of September, 1996 with the goal of keeping the students in touch with technological advances. What started as a small initiative for technical advancement of the students, is now one of the most vibrant Student Branches of the Asia Pacific Region (Region 10) and Kerala Section. The Student Branch has always taken pride in raising the caliber, nurturing technical interests, exploring managerial skills, enculturating fidelity, accelerating career goals, strengthening ambition and brightening future of its members thereby contributing productive and socially committed engineers to the society. Through Seminars, Workshops, Technical Festivals and Competitions, the Student Branch is fervent in helping its members to update their knowledge and skills with technology which is advancing by leaps and bounds. IEEE SB CEC has an IEEE library which was inaugurated in December 1999. The library houses journals and magazines of IEEE. The Student Branch is known for its consistent achievements since its inception in 1996. Currently, the Student Branch has 6 active Societies, 1 Affinity Group and a Special Interest Group. For more information visit",
+    "organization_1_IEEE Student Branch College of Engineering Chengannur_website": "https://cecieee.org",
+    "organization_2_Product Design and Development Center (PRODDEC)_description": "PRODDEC is a common platform for the Electronics and Computer students. It was formed in 1995 with the vision of integrating technical ideas from both the fields and to develop products of an engineering outlook. Understanding the industry needs, PRODDEC has contributed greatly to the overall development of the students as competent engineers. The main objectives of PRODDEC, have remained the same as those outlined by its founders   the all round development of the students as engineers. The executive council of PRODDEC is always in search of new avenues to help and encourage the students, to put their theoretical knowledge to practical use. In its endeavor, the organization is always open to suggestions, constructive criticism, and moral support. PRODDEC, as an organization which supports aspirants of the highest standards in technical activity, is committed to fulfilling it s an obligation to the student community. It has therefore framed a set of ethics which are as follows:",
+    "organization_2_Product Design and Development Center (PRODDEC)_website": "No Link",
+    "organization_3_Forum Of Computer Engineering Students(FOCES)_description": "FOCES is an organization of CSE students of the college. The forum aims at improving the technical and industrial knowledge of the students and strives to keep them abreast the with latest softwares and technologies evolving in the information technology field. It welcomes the freshers into the world of computer engineering by conducting essential orientation classes. It organizes talks by eminent personalities in the industry on evolving technologies in computing, workshops on latest developing platforms, languages and software packages in the IT industry and helps coordinate and implement software projects for the students in the Computer Science & Engineering Dept. Official Website:",
+    "organization_3_Forum Of Computer Engineering Students(FOCES)_website": "http://foces.org/",
+    "organization_4_Placement_description": "The Training and Placement Cell, (TPC) of the College of Engineering, Chengannur is a body of active students, guided by Staff-in-Charge. Student members are specially selected to carry out the responsible working of the cell. The TPC dedicates itself to help students develop their personalities and establish their careers. The activities of TPC are: Fee Payment Link  :",
+    "organization_4_Placement_website": "https://www.onlinesbi.com/sbicollect/icollecthome.htm?corpID=1260958",
+    "organization_5_Alumni_description": "The CEC Alumni Association started functioning in 2014. The objective of the Association is to maintain the contacts of the alumni of the College of Engineering Chengannur with alma mater and provide a forum for bringing together the old students of the college so that they can contribute effectively to the cause of engineering education and research in the country. Association provides opportunities for developing entrepreneurship and practical know-how among the graduating students and also to impart vocational and career guidance to them We aim to strengthen the relationships between CEC alumni, students, and soon-to-be alumni while maximizing potential in both personal and professional lives. For more information visit",
+    "organization_5_Alumni_website": "http://arc.ceconline.edu/",
+    "organization_6_CEC Film Society_description": "Cinema is a matter of what s in the frame and what s out. Film Society is the platform for all the students who are passionate about different fields of filmmaking, where they can learn and progress in the art of filmmaking. The Inaugural Film Society of College of Engineering Chengannur was by the famous Cine artist Antony Varghese(Pepe) in the inaugural function of the college Arts Festival in the year 2018-19. It is an art-loving platform to promote various film-based activities. CEC Film Society has been part of The World s Largest Filmmaking Challenge by being in the 50-hour filmmaking challenge by the India Film Project(IFP). We succeeded in the challenge by making a short film duration of 6 minutes. We are planning to make short films and organize TedX talks with professional filmmakers, Film-based competitions, and workshops on Editing, screenwriting, and other aspects of filmmaking.",
+    "organization_6_CEC Film Society_website": "No Link",
+    "organization_7_Sports Club_description": "At the College of Engineering Chengannur, we believe in the overall development of the individual. So as not to remain confined to excellence in academics there is avid participation by the students in various sports activities both at Inter College and Intra College levels. We are proud to say that many laurels and accolades have been won by the performance of our teams in these meets. There is a badminton court in the center of the main academic building, and we also have a fully equipped gymnasium which is very popular among the students. For the enthusiastic sports lovers of our college, we conduct an annual sports week in our college which involves both track and field events along with indoor games such as Chess and Carroms. Apart from the annual meet, there are special annual inter-semester Football Competition (Tiger 5), Badminton Competition (Smash), Throwball Competition for girls, and an Inter-Collegiate Volleyball Championship (I Shall). This facility can be utilized after class time and it is open to all. CEC is the first college having such a facility in Kerala.",
+    "organization_7_Sports Club_website": "No Link",
+    "organization_8_Innovation & Entrepreneurship Development Cell (IEDC)_description": "The Innovation and Entrepreneurship Development Centre (IEDC) is an initiative of the National Science and Technology Entrepreneurship Development Board (NSTEDB), Department of Science and Technology (DST), New Delhi. The aim was to develop an institutional mechanism to create an entrepreneurial culture in academic institutions to harbor the growth of innovation and entrepreneurship amongst the faculty and students. The Innovation and Entrepreneurship Development Cell [ IEDC] Bootcamp College of Engineering Chengannur came into existence in June 2015 with the vision of molding youngsters into technological entrepreneurs and innovative leaders. The cell act as a catalyst in fostering entrepreneurship and to develop and cherish a spirit of innovation and a prompt to follow their passion amongst the student community of CEC in association with KSUM. The prime motive of the Cell is to promote entrepreneurial spirit among students by the means of its various activities which aims to motivate young, budding technology graduates to take up Entrepreneurship as a career and become job providers rather than job seekers. IEDC seeks to inculcate the entrepreneurial culture among the students which would, in turn, inspire them to go a step further and take up the challenge of entrepreneurship.",
+    "organization_8_Innovation & Entrepreneurship Development Cell (IEDC)_website": "http://iedcbootcampcec.in",
+    "organization_9_Surge_description": "Surge is a forum associated with the Electrical Department of College of Engineering Chengannur registered under Travancore-Cochin ACT, aimed at uplifting the students technically in every way. Surge incorporates its members with all the new innovative technologies, promote and implement their ideas and for bringing out the best in the electrical engineering field. As a part of its technical activities, many sessions such as workshops, seminar, orientation class, etc were held to nurture the budding engineers. Kerala recently faced its worst flooding in nearly a century and Chengannur was one of the most affected areas with a large number of refugees. In collaboration with KSEB, the monumental task of restoring basic lighting and power supply to all homes was completed by the project named  Mission Reconnect  in which Surge members got an opportunity to become part of the state-wide rehabilitation. Surge provides a perfect platform for those who inclined to achieve a deeper understanding of engineering processes and to become a good quality Engineer.",
+    "organization_9_Surge_website": "No Link",
+    "organization_10_Naval NCC Unit_description": "has initiated its NCC unit under the NAVAL wing of the Armed Forces. The unit is commissioned on 16th October 2014 with a total strength of 50 cadets. There will be 33% seats reserved for lady cadets. Our NAVY NCC unit functions under 3(K) Navy Unit Kollam, of the Kollam group NCC headquarters. The students are actively participating in all the regular activities of NCC and also got opportunities for attending national level camps all over the country. The total tenure of a cadet is 3 years. During this period he/she has to attend two Annual Training Camps for being eligible to appear for the NCC- examinations. Apart from the regular training activities, interested cadets will get opportunities to attend Ship attachment camps, trekking camps, Sea-sortie programs, Mountaineering camps, Paragliding&Scuba Diving events, Advance Leadership Camps (ALC) etc. Selected cadets, if interested, may get chance to attend Republic Day Camp(RDC) and even attend Youth Exchange Program(YEP) with friendly countries of our nation. We are extremely proud in announcing that 2 of our cadets got Gold medals and 2 other cadets got silver medals in the Nau-Sainik-Camp-2016(NSC-2016) held at Karwar, Karnataka, and our team has got overall second position in the national level. NCC is a voluntary organization which is administered through the Ministry of Defence. The aims of NCC are mainly threefold:",
+    "organization_10_Naval NCC Unit_website": "No Link",
+    "organization_11_NSS_description": "The vision of the NSS Technical Cell, Kerala is to mould its volunteers as  Social Engineers , who know the pulse of the community and would be able to act accordingly. The mission of the NSS Technical Cell is to make the campuses community-related and to reduce the distance between the social and technical communities. NSS volunteers always cater to the marginalized population, and it is by catering to these needs that the volunteers initiate the entry to the community, and this results in a drastic change in the attitude of the members of the community towards students as well as an open acknowledgement in their activities with gratitude.",
+    "organization_11_NSS_website": "No Link"
+}

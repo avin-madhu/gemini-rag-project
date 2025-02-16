@@ -20,6 +20,9 @@ from my_scrapers.CEP.cep_scraper import *
 #COLLEGE OF ENGINEERING KALOOPAARA
 from my_scrapers.CEKP.cekp_scraper import *
 
+#COLLEGE OF ENGINEERING CHERTHALA
+from my_scrapers.CECH.cech_scraper import *
+
 
 def main():
 
@@ -168,14 +171,24 @@ def main():
 
 
     #COLLEGE OF ENGINEERING KALOOPAARA
-    process.crawl(CEKP_principal)
-    process.crawl(CEKP_admission_mtech)
-    process.crawl(CEKP_admission_btech)
-    process.crawl(CEKP_department_ec)
-    process.crawl(CEKP_department_cs)
-    process.crawl(CEKP_department_cs_cyber)
-    process.crawl(CEKP_department_eee)
-    process.crawl(CEKP_department_geas)
+    # process.crawl(CEKP_principal)
+    # process.crawl(CEKP_admission_mtech)
+    # process.crawl(CEKP_admission_btech)
+    # process.crawl(CEKP_department_ec)
+    # process.crawl(CEKP_department_cs)
+    # process.crawl(CEKP_department_cs_cyber)
+    # process.crawl(CEKP_department_eee)
+    # process.crawl(CEKP_department_geas)
+
+    # COLLEGE OF ENGINEERING CHERTHALA
+    process.crawl(CECH_main_info)
+    process.crawl(CECH_transportation)
+    process.crawl(CECH_hostel)
+    process.crawl(CECH_principal)
+    process.crawl(CECH_undergraduate)
+    process.crawl(CECH_postgraduate)
+    process.crawl(CECH_fees_structure)
+    process.crawl(CECH_DepartmentSpider)
     process.start()
 
 if __name__ == "__main__":

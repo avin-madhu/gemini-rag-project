@@ -25,7 +25,8 @@ college_data_paths = [
     'college_json_data/mec.json',
     'college_json_data/casa.json',
     'college_json_data/cep.json',
-    'college_json_data/cekp.json'
+    'college_json_data/cekp.json',
+    'college_json_data/cech.json'
     ]
 
 @app.route("/get_data", methods=["POST"])

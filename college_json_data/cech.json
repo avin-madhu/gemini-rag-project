@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "Information (description) about ELECTRICAL ENGINEERING department of CEC": [
+                "Electrical Engineers are the mainstay of every engineering activity. The Electrical Engineering Department is dedicated to delivering competent electrical engineers to the arena of the real world. They are outfitted with core technical knowledge as well as professional skills necessary to face the challenges of the future. Our aim is to mold competent Electrical Engineers capable of providing dynamic leadership in various walks of life and to cater to the needs of R&D, industry, business, and community."
+            ],
+            "Name of the Head of the ELECTRICAL ENGINEERING department of CEC": "Elizwa Laiju"
+        },
+        {
+            "Information (description) about COMPUTER ENGINEERING department of CEC": [
+                "The mission of the Computer Engineering Department of CE Cherthala is to generate high caliber computer engineers to meet the global demands. The Computer Engineering Department of CEC offers premier professional training with an eye on the modern development in Computer Science offering a 4-year B.Tech degree course in Computer Science and Engineering. The department owns versatile and powerful computing facilities. The curriculum is harmonically tuned with today's hardware and software industry."
+            ],
+            "Name of the Head of the COMPUTER ENGINEERING department of CEC": "Dr. Preetha Theresa Joy"
+        },
+        {
+            "Information (description) about GENERAL ENGINEERING department of CEC": [
+                "The general engineering and applied sciences department forms the initial soil for any of the B.Tech degree courses. The first year of engineering education comprises of Engineering Mathematics, Engineering Physics, Engineering Chemistry, Engineering Mechanics, Engineering Drawing, Fundamentals of Electrical, Electronics, Mechanical and Civil Engineering, Computer fundamentals and programming and Technical Communication and Social Skills. Mechanical and electrical workshops and C programming lab forms the practical testbed for the budding engineers."
+            ],
+            "Name of the Head of the GENERAL ENGINEERING department of CEC": "Dr.Joe Francis"
+        },
+        {
+            "Information (description) about APPLIED SCIENCES department of CEC": [
+                "The general engineering and applied sciences department forms the initial soil for any of the B.Tech degree courses. The first year of engineering education comprises of Engineering Mathematics, Engineering Physics, Engineering Chemistry, Engineering Mechanics, Engineering Drawing, Fundamentals of Electrical, Electronics, Mechanical and Civil Engineering, Computer fundamentals and programming and Technical Communication and Social Skills. Mechanical and electrical workshops and C programming lab forms the practical testbed for the budding engineers."
+            ],
+            "Name of the Head of the APPLIED SCIENCES department of CEC": "PRIYAKUMAR T.N."
+        },
+        {
+            "Information (description) about ELECTRONICS ENGINEERING department of CEC": [
+                "The Electronics Engineering Department of CE Cherthala offers premier professional training with an eye on the modern development in Electronics Engineering. It offers 4-year B.Tech. degree in Electronics and Communication Engineering. The curriculum is innovatively designed for giving the students a solid base in core Electronics. The students acquire a deep knowledge in Electronic Circuits, Micro Processors, networks, and Systems. Apart from core electronics, the curriculum includes subjects of wide applications like Digital Signal Processing, Modern Communication Engineering which includes Optical Communication, Micro Wave Communication, etc, Embedded System and VLSI Design, etc."
+            ],
+            "Name of the Head of the ELECTRONICS ENGINEERING department of CEC": "Dr.Binesh. T"
+        }
+    ],
+    {
+        "Principal name": "Dr. Jaya V L",
+        "Principal Designation": "Principal",
+        "Qualifications of the principal": [
+            "B.Tech  in Electronics .",
+            "M.Tech  in Digital Systems and Communication Engineering",
+            "PhD in Digital Image Processing"
+        ],
+        "Contact Information of the Principal": {
+            "phone number of prinicipal": "+918547005038",
+            "email of principal": "principal@cectl.ac.in"
+        }
+    },
+    {
+        "Information about the hostel facility of College of Engineering Cherthala": "The college hostels are few Km away from the college. The hostels are near to all amenities like the clinic, elemental accessory store and stationary. Furthermore, the hostel is near the bus stop and also the students are provided with college bus for transportation. A hygienic atmosphere is available in the hostels. The Resident Tutors (RTs) look after the hostels and maintain a peaceful atmosphere in the hostels.The college provides hostel facility for intake capacity of 20-40 inmates. The hostels are maintained and controlled by the PTA of the institution. Those who want admission to the hostel may contact the following.",
+        "Information about hostel Contact and Fcaulty": {
+            "For Girls Hostel": "Girls Hostel Smt. Jishamol L, Mob 9400661098",
+            "For Boys Hostel": "Boys Hostel  Sri. Nikhil Dev C K., Mob 7025784432"
+        }
+    },
+    {
+        "Information or decription about the UG programs or courses offered by CEC": "The college offers Under Graduate programmes in Computer Science & Engineering (CSE), Electronics & Communication Engineering (ECE), Electrical & Electronics Engineering (EEE) ,Artificial Intelligence & Data Science. Admission to UG programs except in NRI seats is on the basis of the All Kerala Common Entrance Examination, conducted by the Commissioner for Entrance Examinations (CEE) , Govt. of Kerala. The criteria for B.Tech degree admission is prescribed by the CEE , Govt. of Kerala and concerned university, and is issued every year by Govt. of Kerala through common prospectus for admission to professional degree courses. The entrance examinations are conducted usually in the month of April or May. In addition, 5% of students are admitted in each discipline under Fee Waiver Scheme (FWS) with tuition fee concession The fee structure of the programme is decided by the Govt. of Kerala every year before admission. Once admitted, the fee structure of a student remains the same throughout the period of his/her study provided the student finishes the coursework within a duration of 8 consecutive semesters. 50% of seats are designated as Government seats allotted by CEE, Govt. Of Kerala and 45% is designated as Management seats for which fee as proposed by the Fee Regulatory Committee is charged, with concession if any, approved by Government of Kerala. 5% seats are filled under NRI quota based on their marks at plus 2 level. Moreover candidates with a relevant Diploma degree can get a Lateral entry (LT) to the second year engineering, under Lateral Entry Scheme as per Govt. directives. Separate Entrance Examination is conducted for such candidates.",
+        "These are the main UG(undergraduate) courses offered": [
+            "B.Tech Degree in Computer Science and Engineering : 120 Seats",
+            "B.Tech Degree in Artificial Intelligence & Data Science : 60 Seats",
+            "B.Tech Degree in Electronics and Communication Engineering : 60 seats",
+            "B.Tech Degree in Electrical and Electronics Engineering : 30 seats"
+        ]
+    },
+    {
+        "Transportation facilities detail in CEC ( Cherathala College )": [
+            "The college bus facility is available and it is operating as per requirement of the students. There are 4 College busses of which 3 busses are used for carrying students form different locations. The plying routes of the busses are: College to Model Engineering College Ernakulam, College to Thoppumpady and College to Alappuzha.",
+            "The college own a Maruthi Omni Van for official need.",
+            "A bus committee encompassing a member from PTA, manages all the duties related to transportation in the college."
+        ],
+        "Transportation contact and faculty infoermation": [
+            "1. Sri.Varghese M.P.,",
+            "Assistant Professor in Mechanical Engineering",
+            "Mob.: +919847122254",
+            "Emai :",
+            "2. Mr. Sreekumar K,",
+            "Assistant Professor in Electronics Engineering",
+            "Mob.: +919388300031",
+            "Emai :",
+            "Dr Joe Francis, HOD,",
+            "Assistant Professor in Mechanical Engineering",
+            "Mobile: +919446940297",
+            "Email:"
+        ]
+    },
+    {
+        "Information about te Admission and fees structure of College of Engineering Chengannur": {
+            "Basic description about the admission at College of Engineering Cherthala": "College of Engineering cherthala offers the following fulltime courses under APJ Abdul Kalam Technological University. Additional 5% students are allotted in each branch for B.Tech Degree Course from Kerala Engineering Entrance Examination Rank list as per the Govt. of Kerala orders (Tuition Fee Waiver scheme for women, economically backward and physically handicapped meritorious students). Lateral entry Admission to Second Year for Diploma holders: Additional 10% in annual intake (Govt. & Management Seats in each branch).",
+            "Information about the Academic Eligibilty at CEC": "Academic Eligibility: Candidates who have passed Higher Secondary Examination, Kerala, or Examinations recognized as equivalent thereto, with 50 % marks in Mathematics separately and 45 % marks in Mathematics, Physics and Chemistry / Biotechnology / Computer Science / Biology taken together are eligible for admission Allotment to 95% seats of the annual intake is made by the Commissioner for Entrance examination (CEE), Government of Kerala from the rank list of Kerala Engineering Entrance examination conducted every year by Govt. of Kerala. For Details of Kerala Engineering Entrance Examination and allotment, 5% seats are reserved for non resident Indians (NRI seats). For NRI admission, separate applications are invited by IHRD and rank list is prepared on the basis of qualifying examination and students are admitted from this rank list",
+            "Information about the fees structure at Colleg of Engineering Cherthala": {
+                "Fees for Merit Regulated": "Allotment: By the Commissioner of Entrance Examinations, Govt. of Kerala, from the KEAM rank list. Fees : Rs. 40,000/ per year.",
+                "Fees for Merit Full": "Allotment: By the Commissioner of Entrance Examinations, Govt. of Kerala, from the KEAM rank list. Fees : Rs. 65,000/ per year. Can pay in two installments (35,000 at the beginning of odd semester + 30,000 at the beginning of even semester)",
+                "Fees for NRI Seats": "Allotment: By the Director of IHRD from the list of applicants based on qualifying examination marks. Fees : Rs. 1,00,000/ per year. A refundable deposit of Rs.1,25,000/ to be paid at the time of admission (as was followed in the previous year, till any modification ordered by Govt. of Kerala / IHRD)."
+            }
+        }
+    },
+    {
+        "About the college ( A basic description)": "College of Engineering Cherthala is one among the leading technical institutions in Kerala since its venture in 2004. Within a short span of time since its emergence CEC has become successful in establishing itself as a leading premier professional educational institution by providing its excellence in the field of science and technology. The College was affiliated to Cochin University of Science and Technology (CUSAT)and approved by All India Council for Technical Education(AICTE). From 2015 onwards, the college is affiliated to APJ Abdul Kalam Technological University (KTU). It is one among the engineering colleges in Kerala selected by Govt. of India for the Technical Education Quality Improvement Programme (TEQIP)II.",
+        "Information about the number of seats in various course or departments in the college": [
+            "BTech in Computer Science has 129 seats",
+            "BTech in Electronics has 60 seats",
+            "BTech in AI & DS has 60 seats",
+            "BTech in Electrical Engineering has 30 seats",
+            "MCA has 60 seats"
+        ],
+        "Link of the Brochure of the College": "https://cecherthala.ihrd.ac.in/images/2024/brochure_compressed.pdf"
+    },
+    {
+        "Information or decription about the PG programs or courses offered by CEC": "The Master's Degree Program offered by the college is MCA (Master in Computer Applications). Unique in its structure, methods, and goals, the college is strongly rooted in a philosophy of training and research that emphasizes the intimate relationships between knowledge and its application and seeks to promote the creation of an ideal society. Annual Intake for Full Time PG Courses:   Eligibility Criteria   : As per KTU norms Admission Criteria : As per the norms of IHRD/Govt. of Kerala Duration          : Duration of the course is four semesters. Course Content    : As per the advanced syllabus prescribed in constitution with KTU, which will be aligned, to suit emerging technology trends Assessment        : The assessment will be based on sessionals and marks obtained for the examinations, which will be conducted as prescribed by KTU. The fee structure of the programme is decided by IHRD every year before admission.",
+        "These are the main PG(postgraduate) courses offered": [
+            "MCA : 60 seats"
+        ]
+    }
+]
