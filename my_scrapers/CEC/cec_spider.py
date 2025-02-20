@@ -989,3 +989,4 @@ class CEC_nri_AdmissionSpider(scrapy.Spider):
         existing_data.update(self.total_admission_data)
         with open('college_json_data/cec.json', 'w') as f:
             json.dump(existing_data, f, indent=4)
+       
