@@ -1,6 +1,6 @@
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-from playwright.sync_api import sync_playwright
+# from playwright.sync_api import sync_playwright
 
 # COLLEGE OF ENGINEERING CHENGANNUR
 from my_scrapers.CEC.cec_spider import * 
@@ -9,7 +9,7 @@ from my_scrapers.CEC.cec_spider import *
 from my_scrapers.CEK.cek_scraper import *
 
 # MODEL ENGINEERING COLLEGE
-from my_scrapers.MEC.mec_scraper import *
+# from my_scrapers.MEC.mec_scraper import *
 
 #COLLEGE OF APPLIED SCIENCE ADOOR
 from my_scrapers.CASA.casa_scraper import *
@@ -23,6 +23,9 @@ from my_scrapers.CEKP.cekp_scraper import *
 #COLLEGE OF ENGINEERING CHERTHALA
 from my_scrapers.CECH.cech_scraper import *
 
+# COLLEGE OF ENGINEERING KOTTARAKKARA
+from my_scrapers.CEKO.ceko_scraper import *
+
 
 def main():
 
@@ -31,6 +34,7 @@ def main():
     # clear_file() # defintion is in cec_scraper file
 
     # COLLEGE OF ENGINEERING CHENGANNUR
+    
     # process.crawl(CEC_principal_spider)
     # process.crawl(CEC_PTASpider)
     # process.crawl(CEC_NoticeSpider)
@@ -181,14 +185,18 @@ def main():
     # process.crawl(CEKP_department_geas)
 
     # COLLEGE OF ENGINEERING CHERTHALA
-    process.crawl(CECH_main_info)
-    process.crawl(CECH_transportation)
-    process.crawl(CECH_hostel)
-    process.crawl(CECH_principal)
-    process.crawl(CECH_undergraduate)
-    process.crawl(CECH_postgraduate)
-    process.crawl(CECH_fees_structure)
-    process.crawl(CECH_DepartmentSpider)
+    # process.crawl(CECH_main_info)
+    # process.crawl(CECH_transportation)
+    # process.crawl(CECH_hostel)
+    # process.crawl(CECH_principal)
+    # process.crawl(CECH_undergraduate)
+    # process.crawl(CECH_postgraduate)
+    # process.crawl(CECH_fees_structure)
+    # process.crawl(CECH_DepartmentSpider)
+
+    # COLLEGE OF ENGINEERING KOTTARAKKARA
+    # process.crawl(CEKO_principal)
+    process.crawl(CEKO_about_the_college)
     process.start()
 
 if __name__ == "__main__":

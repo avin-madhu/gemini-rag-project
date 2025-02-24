@@ -2,73 +2,85 @@
     "Name of Principal": "Dr.Mini M G",
     "Position of Principal": "Principal",
     "Email of Principal": "principal@mec.ac.in",
-    "Image URL of Principal": "http://www.mec.ac.in/model_media/teachers/Screenshot_20231031-1816212.png",
-    "Profile Link of Principal": "https://drive.google.com/file/d/1Vn1xD6S-tiXXEKeVToDJP59wrCmo-A9a/view?usp=sharing",
     "About Model Engineering College": "Established in the year 1989 by the Govt. of Kerala under the Institute of Human Resource Development (IHRD), Govt. Model Engineering College is the first college to acquire affiliation from the Cochin University of Science and Technology (CUSAT). With a history stretching back to just two decades, it has grown an institution to reckon with in the field of technical education in the country. It is reputed for its state-of-the-art-infrastructure, academic excellence, technically legit faculty and a pulsating student community.",
-    "Description of board of governors": [
-        "Since Model Engineering College (MEC) is an Institution under IHRD, Govt. of Kerala, the governance of the institute is done as per the rules framed by IHRD. The decision making bodies in IHRD are the Governing Body and the Executive committee which has got control over all IHRD institutions. However in order to streamline the activities of various Engineering Colleges in IHRD, exclusive Boards of Governers were constituted for each Institution. The Board of Governers (BOG) for MEC was constituted as per the order of the Director of IHRD numbered EA3/17887/2016/HRD dated 15.12.2016."
+    "Members of board of governors": [
+        {
+            "Name": "Prof. Eldho T I",
+            "Position": "Chairman"
+        },
+        {
+            "Name": "Sri. S .Thomas",
+            "Position": "Member"
+        },
+        {
+            "Name": "Sri. Pradeep Sasikumar",
+            "Position": "Member"
+        },
+        {
+            "Name": "Dr.Mini M G",
+            "Position": "Member Secretary"
+        },
+        {
+            "Name": "Dr. Preetha Theresa Joy",
+            "Position": "Member"
+        },
+        {
+            "Name": "Prof. Jyothi John",
+            "Position": "Member"
+        },
+        {
+            "Name": "Dr. Ramesh U",
+            "Position": "Member"
+        },
+        {
+            "Name": "The Additional Secretary",
+            "Position": "Member"
+        },
+        {
+            "Name": "Dr.A Praveen",
+            "Position": "Member"
+        }
     ],
-    "Members of board of governors": {
+    "Members of administrative staff": {
         "Name of administrative staff": "Beevi N A",
-        "Position of administrative staff": "LGS",
-        "Image URL of administrative staff": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-        "Additional Info of administrative staff": ""
+        "Position of administrative staff": "LGS"
     },
-    "Description of Academic Council": "The Academic Council is a body which assists the Principal in decision making with regard to academic, courses of instruction, and rules of discipline of students. This body is constituted by the Principal. The council will be asked to consider and report on any question concerning the academic, courses of instruction and rules of discipline by the Principal. The council meets at least once in a month. The tenure of the members is three years. The organizational structure of Academic Council consists of the following members.",
     "Members of Academic Council": [
         {
             "Name": "Dr. Preetha Theresa Joy",
-            "Position": "Professor & HOD",
-            "Description": "Department of Computer Science & Engineering",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/IMG_20210615_110321_2_l9biy2n.jpg"
+            "Position": "Professor & HOD"
         },
         {
             "Name": "Dr. Jessy John",
-            "Position": "Pofessor & HOD",
-            "Description": "Department of Electronics & Biomedical Engineering",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/JessyHOD_2017_1.jpg"
+            "Position": "Pofessor & HOD"
         },
         {
             "Name": "Dr Bindu V",
-            "Position": "Professor & HOD",
-            "Description": "Department of Electrical Engineering, Faculty in charge of Students grievance cell",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/bindu.jpg"
+            "Position": "Professor & HOD"
         },
         {
             "Name": "Dr Binesh T",
-            "Position": "",
-            "Description": "Accreditation Coordinator",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/binesh.jpg"
+            "Position": ""
         },
         {
             "Name": "Sri Irshad Ali T K",
-            "Position": "",
-            "Description": "Senate Faculty Adviser",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/irshad.jpg"
+            "Position": ""
         },
         {
             "Name": "Sri Kannadas P K",
-            "Position": "",
-            "Description": "NSS Faculty in charge",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Kannadas.jpeg"
+            "Position": ""
         },
         {
             "Name": "Dr Sreenivas P",
-            "Position": "",
-            "Description": "PTA Secretary",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": ""
         },
         {
             "Name": "Mr. Krishnadas G",
-            "Position": "",
-            "Description": "Chairman, IQAC",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": ""
         },
         {
             "Name": "Smt. Aparnadevi P S",
-            "Position": "",
-            "Description": "Placement Officer",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": ""
         }
     ],
     "Functions of Academic Council": [
@@ -85,275 +97,196 @@
     "Members of PTA": [
         {
             "Name": "Dr. Mini M. G",
-            "Position": "President",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/minimg.png"
+            "Position": "President"
         },
         {
             "Name": "Sri. Anoop Nair",
-            "Position": "Vice President",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Anup_Passport_Size1.jpg"
+            "Position": "Vice President"
         },
         {
             "Name": "Dr. Sreenivas P",
-            "Position": "Secretary",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/sreenivas.jpg"
+            "Position": "Secretary"
         },
         {
             "Name": "Sri. Praneeth B",
-            "Position": "Joint Secretary",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/man_53ijvNL_se76JnZ.png"
+            "Position": "Joint Secretary"
         },
         {
             "Name": "Dr. Shine U P",
-            "Position": "Treasurer",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/shineup.jpg"
+            "Position": "Treasurer"
         },
         {
             "Name": "Sri. Santhosh Paul Manvettom",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/man_53ijvNL_RTi22aq.png"
+            "Position": "Member"
         },
         {
             "Name": "Sri. Suresh Kartha",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/man_53ijvNL_YqXJxLT.png"
+            "Position": "Member"
         },
         {
             "Name": "Sri. George Varghese",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/man_53ijvNL_YkQRkmi.png"
+            "Position": "Member"
         },
         {
             "Name": "Smt. Bindu Sathyajith",
-            "Position": "Member",
-            "Image URL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/wAALCAIDAaQBAREA/8QAGgABAQADAQEAAAAAAAAAAAAAAAEEBQYDAv/EADcQAQACAQIDBwAJAgYDAAAAAAABAgMEEQUSIRMiMUFRYXEUIzJCgZGhsdFSYhUkNYLB4XKDov/aAAgBAQAAPwDvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASbRWN7TER7vC+v0tPtZ6/h1eF+LaaOlbTP4Me/FIt9nPNf/AFf9vD/FdTS3S9Mke9dmVp+M0vMVz05N/vR1hsYy47RExesxPu+otE+ExPwoAAAAAAAAAAAAADzzZ8enpz5bRWP3ajUcYyXma6evJX+qfFr8mXJlnfJktafeXwKiosWmPCZj4l74tdqcX2c1pj0t1Z+n414RqMf+6v8ADZ4c+PPTmxXi0ez0AAAAAAAAAAAABha7iFNLHLXv5fT0+WhzZsmfJN8tptP7PgVFRUUH1iy5MF4vivNbR6ebeaDiVNTtjybUy/pPwzwAAAAAAAAAAAGv4lxCNPE4sU75Z/8AlopmbWmbTMzPWZnzBAUEUBI6dY6bN5wziHbfU5p+sjwn+r/tsgAAAAAAAAAABhcR1saXHy165beEenu5+Zm1ptad5md5mfNFAAAARazNbRNZ2mJ3iYdFw7VxqsHXpkr0tH/LLAAAAAAAAAAB5anUU02C2S/l4R6y5nNlvny2yXne1v0fCiKIoAIKPbR6idLqa5I8PC0esOmrMWrEx1iesKAAAAAAAAAATMRG8+DnOI6udVn7s/V06V9/diiKgKigigIN9wfUdrppx2nvY+n4NgAAAAAAAAAA13GNV2WGMNJ79/H2holQUQUEURQBlcMz9hraTM92/dl0YAAAAAAAAAPPUZqafDbJfwr+rmc+a+ozWyX8bfo+AARQAARQTr4w6jSZu302PJ5zHX5ewAAAAAAAAA0HFdX9Iz9nSfq8c/nLBAQVFABFEFBuOBZd8eTDP3Z3j4ltQAAAAAAAAGFxTVfR9NMVnv36R7esueBQBBQBFEFBlcLy9lrqel+7LowAAAAAAAAJnaN5c1r9TOp1Vrfdju1+GOgoAAioogqKItbTW0Wjxid3VYrxlxVvHhaN32AAAAAAAAMLiuo7DSTWs7Wyd2P+XPAoAigCKgoAg3/BsvaaPknxpO34M8AAAAAAAAc9xbP22smsT3cfdj582EoAigAIoCKCK2HBcvJqrY58Lx+sN6AAAAAAAA88+WMOC+SfuxMuWmZtMzPWZneRBQRRFRQABAVH3gyThzUyR92d3VVmLViY8JjdQAAAAAAAa7jWXl0tcceN7fpDRoqKAIoACKCKIqOh4Tm7XRViZ71O7LNAAAAAAABouN5ObVVp5Vrv+bXgCAqKAigICoqKz+DZ+z1U45npkj9W+AAAAAAABzXEb8+vyz47TsxlBFARQARQBFRRaWml63r0ms7w6nBljNhpkr4Wjd9gAAAAAAPm9uSlrekbuUtab3tafG07gIKigAiooCKigDccEz70vgtPWver8NqAAAAAAA8Ndbl0eaf7XMR4KAACAKigAAig9dJmnT6qmTyidp+HURMTG8eEgAAAAAAMTik7cPzfG36ucVFEFARRBRFRRFAEdBwnUdtpIrae9j7s/wDDOAAAAAABhcX/ANPyfg58ABBQBFBFAEVFQZOg1M6XUxefsT0t8OkiYtETE7xPWFAAAAAAGLxOvNw/LHtu5sFARRFRQEUBAFEVG04Xr4x7YM0937tp8vZugAAAAAB8Z6dpgyU9azDlPDeJ8uj7zYrYcnJb03j3h8iCgAAAIKIoAI2WPhnbaXHlpMzzRvMecMjSTqtNHLa0ZMcdOv3f4/Fs62i1YmPNQAAAAAHNcQw9jrMlfKZ5o/FdbljLGn28YxRE/LGRQAQVFAEURQEUR0nC/wDT8Pw9744tPNE8t48JhMe28xNeW/nt5vQAAAAABreM6btMEZqx3sfj8NZw6ItrsUWjeJnzTXaadLqbU+7PWvw8ARUFRUUARQAEFR1Gkp2elxU84rD2SaxP4KAAAAAAkxExMTG8S0GfD/h/EKXiN8e/NX49Gz1+nrrdJFsfW0RzUn1c98+ICgIoAgoICgD00uLttTjx+tuvw6kAAAAAAAYfE9N9J0s8sb3p3qsPg+s2/wAtkn3pv+zx4vpexz9rWO5k8faWACCooAAgoIoIracDwb3vnmOkd2rcgAAAAAAA1Oq0Va6nuzyRlnel4+7f+Je+O307TZNNnjlzVja0e/lMNFelsd7UtG1qztKAIKCKAioqAoFaza0Vr1mZ2h0+kwRp9PTFHlHX5ewAAAAAAAPPNijNjmk9PSfSfVj3w2zRXJWeTU4+m/r7T7S1fE6xe0Z+XktPdyVnylgigIogqKACCg2PBtN2mac9o7tOkfLeAAAAAAAACbRvv5sTiWmrm017bd+sbxMOdVFQUEVBRFRQApWb3ilY3m07Q6jS4I0+CuKPKOs+svUAAAAAAAAHxm27HJv4cs/s5SFQURQEUQVFAGx4Lp+0z2zWjpTpHy3gAAAAAAAADB4rqIw6SaRPfydIc+KAAiiKCKAg6bQYPo+kpTz23n5ZAAAAAAAAAMbV63Fpa96ea/lWPFz+oz5NTlnJknrPhHpDyUEUAQUEURQZXDMHb6ysTHdp3pdGAAAAAAAAkzFYmZnaI85a/NxjDS0xjrOTbzjpDBz8W1GXpTbHH9viwZmbTMzO8z5yCKioKgoAgoIrd8ExRXTWybxNrz+UQ2QAAAAAAADVcczWrTHhrO0W6z7tOAAiooAIKioKIydFq76TLzR1pP2q+rocGbHnxxfFaLR+z0AAAAAAABpeOx9fin1rLWCCgIoIogqKAirSvPbbmrWfefFb4r452vSa+8+D0w/ScE9ph5tvWvWJbHBxe/2c+Gd/Wv8ADOx67T5Onacs+luj3ratvCYn4UAAAAAAGr47TfDiv/Tbb82mBFRQBFARQABHrh1OXD0pfu/0z1ifwZeHVaW1t8mK2C8/fxTMR+TZY6dtXemfHnr/AH1iZfcYI22nFy/+M7x+UkYOXrGOk/hyz+j0pNYnaeas+lpeoAAAAAAxuI4u20WWseMRzR+DmlEUAAAQVFAAApa2O3NS01n1iWfg4vnx9MkRkj8pbHBxTTZtom3Z29LfyzO7eu8bTEpFdvCeno+gAAAAAGv1/EqYInHi2vknpPpVoVQVFEUBFQUQUAAEemLPlwzviyWr8SzsPGc1OmWlckesdJZuLi2mydLTbHP90MzHlx5I3peto9pfYAAAAPPNnxYKc2W8Vj92m1nFb5ommDfHT185/hrhQAAEUAARQEUQUEWszWd6zMT7SysPEdVi2iMnPHpbqzsPGqT0zY5r716thh1OHPG+LJW3t5vUAABj59dp9P0vkjf+mOstZqOMZL7xgryR6z1lrsl75Lc2S02tPnKCAoAAIoAAAAIqKigixM1neszEx6M7TcVz4doyfW19/Ft9LrcOqr9Xba3nWfGGQAPm9646817RWPWZYGfi+HHvGKJyT+UNZn4hqc+8Tfkr/TToxRRFRUFAAEFQUBBQBFABBStpraLVmYmPCYbjQcU55jFqJ2t4Rf1+W1Hxly48NJtktFa+stXqeM+NdNT/AHW/hq8ubJntzZb2tPu+BQAABAUAAARQARRFARQQZ+n4rmw4oxzWMm3hMz12Z+u4nTTzOPFtfJ5+kNLmzZM9+fLebT+z4QVBUUAEUAAEVFAEFEVFAAEUEBQARQAABFEFBFAEFRUFAQUBFBFEFAEUBAUAAABFEFRRFRQRUUAEUAAAARQAEUEUAABFARUUBFAAAABAURUAFEURQRQABFRQRQRUUARQEURUUAAAQUBFABAUEFRQABFEUAARUUAAAAAQVBRFARUUAAEUEUEBQBFQFBAUBFAEUEFBFBBRFRQAAABFEUAAAEFBFABBUURRFRQQFBBQARQRQRUURUVFAQUABFAQFABFBFQUAAAQFAEUARRFAAQVFAARUUBFEURUUEUBFAEVFQVBQBFAEURRFRQAARQBFAEUBFRQQVFQUEUBFQUQUAEUAEURUFAEFTyFAEVBQAEUAARUAURR/9k="
+            "Position": "Member"
         },
         {
             "Name": "Sri. Sreekumar Kartha",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/man_53ijvNL_SiQWjIH.png"
+            "Position": "Member"
         },
         {
             "Name": "Sri. Jayasankar",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/man_53ijvNL_iGPzpUT.png"
+            "Position": "Member"
         },
         {
             "Name": "Dr. Binesh T",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/binesh_ShfT6d6.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Smt. Shaija P. J",
-            "Position": "Member",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Smt. Sincy P. S",
-            "Position": "Member",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Sri. Irshad Ali T. K",
-            "Position": "Member",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Sri. Kannadas P. K",
-            "Position": "Member",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         }
     ],
-    "Description of Senate": "Senate is the supreme student body of the college. It was created with the aim of bridging the gap between staff and student community. All activites of students and student organisations are sponsored by the Senate and issues relate to the college are discussed and resolved. The Senate has three representatives from each class.",
     "Members of Senate": [
         {
             "Name": "Irshad Ali",
-            "Position": "Staff-In-Charge",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/irshad_1.jpg"
+            "Position": "Staff-In-Charge"
         },
         {
             "Name": "Ms. Husna Fathima U. M",
-            "Position": "Chairperson",
-            "Additional Info": "chairman@mec.ac.in",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Husna_Fathima_UM.jpg"
+            "Position": "Chairperson"
         },
         {
             "Name": "Sarang M K",
-            "Position": "Vice Chaiperson",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Sarang_mk.png"
+            "Position": "Vice Chaiperson"
         },
         {
             "Name": "Gautham V",
-            "Position": "General Secretary",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/gautham_v.jpeg"
+            "Position": "General Secretary"
         },
         {
             "Name": "Sanjay M P",
-            "Position": "Arts Secretary",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/SANJAY_MP.jpg"
+            "Position": "Arts Secretary"
         },
         {
             "Name": "Ms. Meghana P P",
-            "Position": "Magazine Editor",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Meghna_P_P.jpg"
+            "Position": "Magazine Editor"
         },
         {
             "Name": "V Anandhu",
-            "Position": "University Union Councillor",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/V_ANANDHU.jpg"
+            "Position": "University Union Councillor"
         },
         {
             "Name": "Sruthi J",
-            "Position": "University Union Councillor",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Sruthi_J.jpeg"
+            "Position": "University Union Councillor"
         },
         {
             "Name": "Binusree M B",
-            "Position": "Girls Student Representative",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/BINUSREE_MB_.jpg"
+            "Position": "Girls Student Representative"
         },
         {
             "Name": "Sreelakshmi S",
-            "Position": "Girls Student Representative",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Sreelakshmi_S.jpg"
+            "Position": "Girls Student Representative"
         },
         {
             "Name": "Abhinav D",
-            "Position": "Student Representative  - EB",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Abhinav_D.jpg"
+            "Position": "Student Representative  - EB"
         },
         {
             "Name": "Akshay Vinod",
-            "Position": "Student Representative  - CS",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Akshay_S_Vinod.jpg"
+            "Position": "Student Representative  - CS"
         },
         {
             "Name": "Sanchez Thomson N",
-            "Position": "Student Representative  - EEE",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - EEE"
         },
         {
             "Name": "Ashwin M",
-            "Position": "Student Representative  - EC",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - EC"
         },
         {
             "Name": "Aswin Ram M",
-            "Position": "Student Representative  - ME",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - ME"
         },
         {
             "Name": "Aril George",
-            "Position": "Student Representative  - SP",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - SP"
         },
         {
             "Name": "Rashida P A",
-            "Position": "Student Representative  - VLSI",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - VLSI"
         },
         {
             "Name": "Aswathy Ramakrishnan",
-            "Position": "Student Representative  - IP",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - IP"
         },
         {
             "Name": "Ananth Krishnan Prathapan",
-            "Position": "Student Representative  - EM",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Student Representative  - EM"
         }
     ],
     "Admission_Procedure": "For B.Tech course, allotment to 95% (50% Merit- Regulated Fees and 45%- Full Fees) seats of the annual intake is made by the Commissioner for Entrance Examination (CEE), Government of Kerala from the rank list of Kerala Engineering Entrance Examination conducted every year by Government of Kerala. 5% seats are reserved for non resident Indians (NRI seats). For NRI admission, separate applications are invited by Model Engineering College and rank list is prepared on the basis of qualifying examination and students are admitted from this rank list.",
     "UG_Programmes": [
         {
-            "Programme": "Computer Science and Engineering",
-            "Course": "B.Tech",
-            "Seats": "180 Seats",
-            "Is New": false
+            "B.Tech Programme": "Computer Science and Engineering",
+            "Seats for Computer Science and Engineering": "180 Seats"
         },
         {
-            "Programme": "Electronics and Communication",
-            "Course": "B.Tech",
-            "Seats": "120 Seats",
-            "Is New": false
+            "B.Tech Programme": "Electronics and Communication",
+            "Seats for Electronics and Communication": "120 Seats"
         },
         {
-            "Programme": "Computer Science and Business Systems",
-            "Course": "B.Tech",
-            "Seats": "60 Seats",
-            "Is New": false
+            "B.Tech Programme": "Computer Science and Business Systems",
+            "Seats for Computer Science and Business Systems": "60 Seats"
         },
         {
-            "Programme": "Electrical and Electronics",
-            "Course": "B.Tech",
-            "Seats": "60 Seats",
-            "Is New": false
+            "B.Tech Programme": "Electrical and Electronics",
+            "Seats for Electrical and Electronics": "60 Seats"
         },
         {
-            "Programme": "Electronics and Biomedical",
-            "Course": "B.Tech",
-            "Seats": "60 Seats",
-            "Is New": false
+            "B.Tech Programme": "Electronics and Biomedical",
+            "Seats for Electronics and Biomedical": "60 Seats"
         },
         {
-            "Programme": "Mechanical Engineering",
-            "Course": "B.Tech",
-            "Seats": "60 Seats",
-            "Is New": false
+            "B.Tech Programme": "Mechanical Engineering",
+            "Seats for Mechanical Engineering": "60 Seats"
         },
         {
-            "Programme": "Electronics(VLSI design and technology)",
-            "Course": "B.Tech",
-            "Seats": "60 Seats",
-            "Is New": false
+            "B.Tech Programme": "Electronics(VLSI design and technology)",
+            "Seats for Electronics(VLSI design and technology)": "60 Seats"
         },
         {
-            "Programme": "Electrical and Electronics Engineering for Working Professionals",
-            "Course": "B.Tech",
-            "Seats": "30 Seats",
-            "Is New": true
+            "B.Tech Programme": "Electrical and Electronics Engineering for Working Professionals",
+            "Seats for Electrical and Electronics Engineering for Working Professionals": "30 Seats"
         },
         {
-            "Programme": "Electronics and Communication Engineering for Working Professionals",
-            "Course": "B.Tech",
-            "Seats": "30 Seats",
-            "Is New": true
+            "B.Tech Programme": "Electronics and Communication Engineering for Working Professionals",
+            "Seats for Electronics and Communication Engineering for Working Professionals": "30 Seats"
         },
         {
-            "Programme": "VLSI design and Embedded",
-            "Course": "M.Tech",
-            "Seats": "24 Seats",
-            "Is New": false
+            "M.Tech Programme": "VLSI design and Embedded",
+            "Seats for VLSI design and Embedded": "24 Seats"
         },
         {
-            "Programme": "Mechanical, Specialization in Energy Management",
-            "Course": "M.Tech",
-            "Seats": "18 Seats",
-            "Is New": false
+            "M.Tech Programme": "Mechanical, Specialization in Energy Management",
+            "Seats for Mechanical, Specialization in Energy Management": "18 Seats"
         },
         {
-            "Programme": "Computer Science, Specialization in Data Science",
-            "Course": "M.Tech",
-            "Seats": "18 Seats",
-            "Is New": false
+            "M.Tech Programme": "Computer Science, Specialization in Data Science",
+            "Seats for Computer Science, Specialization in Data Science": "18 Seats"
         }
     ],
     "Fee_Structure": [
@@ -381,82 +314,72 @@
     },
     "PG_Programmes": [
         {
-            "Programme": "Computer Science and Engineering",
-            "Course": "B.Tech",
-            "Seats": "180 Seats"
+            "B.Tech Programme": "Computer Science and Engineering",
+            "Seats for Computer Science and Engineering": "180 Seats"
         },
         {
-            "Programme": "Electronics and Communication",
-            "Course": "B.Tech",
-            "Seats": "120 Seats"
+            "B.Tech Programme": "Electronics and Communication",
+            "Seats for Electronics and Communication": "120 Seats"
         },
         {
-            "Programme": "Computer Science and Business Systems",
-            "Course": "B.Tech",
-            "Seats": "60 Seats"
+            "B.Tech Programme": "Computer Science and Business Systems",
+            "Seats for Computer Science and Business Systems": "60 Seats"
         },
         {
-            "Programme": "Electrical and Electronics",
-            "Course": "B.Tech",
-            "Seats": "60 Seats"
+            "B.Tech Programme": "Electrical and Electronics",
+            "Seats for Electrical and Electronics": "60 Seats"
         },
         {
-            "Programme": "Electronics and Biomedical",
-            "Course": "B.Tech",
-            "Seats": "60 Seats"
+            "B.Tech Programme": "Electronics and Biomedical",
+            "Seats for Electronics and Biomedical": "60 Seats"
         },
         {
-            "Programme": "Mechanical Engineering",
-            "Course": "B.Tech",
-            "Seats": "60 Seats"
+            "B.Tech Programme": "Mechanical Engineering",
+            "Seats for Mechanical Engineering": "60 Seats"
         },
         {
-            "Programme": "Electronics(VLSI design and technology)",
-            "Course": "B.Tech",
-            "Seats": "60 Seats"
+            "B.Tech Programme": "Electronics(VLSI design and technology)",
+            "Seats for Electronics(VLSI design and technology)": "60 Seats"
         },
         {
-            "Programme": "Electrical and Electronics Engineering for Working Professionals",
-            "Course": "B.Tech",
-            "Seats": "30 Seats"
+            "B.Tech Programme": "Electrical and Electronics Engineering for Working Professionals",
+            "Seats for Electrical and Electronics Engineering for Working Professionals": "30 Seats"
         },
         {
-            "Programme": "Electronics and Communication Engineering for Working Professionals",
-            "Course": "B.Tech",
-            "Seats": "30 Seats"
+            "B.Tech Programme": "Electronics and Communication Engineering for Working Professionals",
+            "Seats for Electronics and Communication Engineering for Working Professionals": "30 Seats"
         }
     ],
     "Facilities in Model Engineering College": [
         {
             "Name": "College bus",
-            "Description": "Our transport facility on campus comprises four buses covering various routes to accommodate students and faculty. The detailed bus routes are as follows: Aluva to MEC: Seaport Airport road - Aluva. Palarivattom to MEC: Edappally- Palarivattom. Thripunithura to MEC: Kakkanad- Thripunithura. Kadavanthara to MEC: Kaloor- Kadavanthara or Palarivattom Bypass- Kadavanthara."
+            "College bus Description": "Our transport facility on campus comprises four buses covering various routes to accommodate students and faculty. The detailed bus routes are as follows: Aluva to MEC: Seaport Airport road - Aluva. Palarivattom to MEC: Edappally- Palarivattom. Thripunithura to MEC: Kakkanad- Thripunithura. Kadavanthara to MEC: Kaloor- Kadavanthara or Palarivattom Bypass- Kadavanthara."
         },
         {
             "Name": "Men’s Hostel",
-            "Description": "The men’s hostel facility of Model Engineering College is situated close to the campus and can accommodate around 200 students. The hostel facilitates a fully functional gym, badminton court, table tennis room, rooftop vegetable garden and a separate guest lounge."
+            "Men’s Hostel Description": "The men’s hostel facility of Model Engineering College is situated close to the campus and can accommodate around 200 students. The hostel facilitates a fully functional gym, badminton court, table tennis room, rooftop vegetable garden and a separate guest lounge."
         },
         {
             "Name": "ATM",
-            "Description": "State Bank of India ATM is available for use in front of the campus."
+            "ATM Description": "State Bank of India ATM is available for use in front of the campus."
         },
         {
             "Name": "Cafeteria",
-            "Description": "The college cafeteria is open during every working day and is situated inside the campus. It provides delicious food at affordable rates."
+            "Cafeteria Description": "The college cafeteria is open during every working day and is situated inside the campus. It provides delicious food at affordable rates."
         },
         {
             "Name": "WiFi",
-            "Description": "The campus provides free high speed WiFi facility for the students and faculty."
+            "WiFi Description": "The campus provides free high speed WiFi facility for the students and faculty."
         },
         {
             "Name": "Counselling Facility",
-            "Description": "The campus provides free counselling facilities to the students"
+            "Counselling Facility Description": "The campus provides free counselling facilities to the students"
         },
         {
             "Name": "Library",
-            "Description": "The Model Engineering College Library has acquired a good collection of books and journals in the area of Electronics, Computer Science, Biomedical Engineering and related subjects like Science, Mathematics and Management. The Library has approximately 28900 volumes of books and 70 journals. Books are classified according to Dewey Decimal classification scheme and are catalogued according to Anglo American Cataloguing rules II, with local variation. The library provides information services such as current awareness service, selective dissemination of information service, reference service, bibliographic service etc. An amount of Rs. 50 lakhs has been sanctioned for modernization of the library under TEQIP Project."
+            "Library Description": "The Model Engineering College Library has acquired a good collection of books and journals in the area of Electronics, Computer Science, Biomedical Engineering and related subjects like Science, Mathematics and Management. The Library has approximately 28900 volumes of books and 70 journals. Books are classified according to Dewey Decimal classification scheme and are catalogued according to Anglo American Cataloguing rules II, with local variation. The library provides information services such as current awareness service, selective dissemination of information service, reference service, bibliographic service etc. An amount of Rs. 50 lakhs has been sanctioned for modernization of the library under TEQIP Project."
         }
     ],
-    "About_Statutory_Committees": "Statutory Committees have been established for the purpose of swiftly and efficiently carrying out administrative tasks, to address issues of concern and to ensure an overall great college atmosphere. A number of statutory bodies have been constituted, with varying aims. The members in these committees are appointed for fixed terms depending on the type of committee.",
     "Description of Internal Quality Assurance Cell": "Internal Quality Assurance Cell or Internal Audit Cell (IQAC/IAC) comprises of senior faculty members having representation from each department and is constituted by the Principal for the purpose of ensuring timely, efficient and progressive performance of academic and administrative tasks. A senior member of IQAC shall be its coordinator.",
     "Functions of Internal Quality Assurance Cell": [
         "The term of IQAC shall be one academic year.",
@@ -466,129 +389,84 @@
         "IQAC shall ensure equitable access to resources for various classes of the society, and to organize conduct of remedial coaching and bridge programmes as and when it is needed.",
         "IQAC shall strive to incorporate modern methods into the teaching learning process."
     ],
-    "Meeting Minutes of Internal Quality Assurance Cell": [
-        {
-            "Title": "Minutes of IQAC meeting held on 12/06/2021",
-            "URL": "https://drive.google.com/file/d/1VGrKN7YN8yJgRzTogfhTL14z1CfhLpp-/view?usp=sharing"
-        },
-        {
-            "Title": "Minutes of IQAC meeting held on 17/02/2021",
-            "URL": "https://drive.google.com/file/d/13eCfecQvGqB9y_5zNwJLK-hDC3PKfOUs/view?usp=sharing"
-        }
-    ],
     "Members of Internal Quality Assurance Cell": [
         {
             "Name": "Dr. Mini M. G",
-            "Position": "Chairman",
-            "Additional Info": "",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/minimg_MPHANu1.png"
+            "Position": "Chairman"
         },
         {
             "Name": "Dr. Sumitha Mathew",
-            "Position": "Coordinator",
-            "Additional Info": "Associate Professor - EC",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Passport_Photo_-_Sumitha_Mathew.jpg"
+            "Position": "Coordinator"
         },
         {
             "Name": "Dr. C K Anandan",
-            "Position": "Representative from Professional Body",
-            "Additional Info": "Chairman, IEEE  Kerala , Kochi subsection",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/aanandan.jpg"
+            "Position": "Representative from Professional Body"
         },
         {
             "Name": "Sri. Krishnadas G",
-            "Position": "Member",
-            "Additional Info": "Associate Professor in Mathematics",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Dr. Binesh T",
-            "Position": "Member",
-            "Additional Info": "Associate Professor in Electronics and Communication Engg.",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Dr. Shaija P J",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Electrical and Electronics Engg.",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Dr. Sreenivas P",
-            "Position": "Member",
-            "Additional Info": "Associate Professor in Mechanical Engg",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Smt. Sincy P S",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Biomedical Engg.",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Smt. Aysha Fymin Majeed",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Computer Science and Engg",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Sri. Shiju Sasi",
-            "Position": "Representative from Local Society",
-            "Additional Info": "Director, Wisilica India Pvt.Ltd, Kochi",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Representative from Local Society"
         },
         {
             "Name": "Sri. Deepak  G Krishnan",
-            "Position": "Representative from Alumni / Industry",
-            "Additional Info": "",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Representative from Alumni / Industry"
         },
         {
             "Name": "Ms.Husna Fathima U M",
-            "Position": "Representative from Students",
-            "Additional Info": "Senate Chairman",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Representative from Students"
         }
     ],
     "Description of grievance cell": "The grievance cell enquires and aids in the redressal of grievances and helps in the resolution of conflicts, in case any arise. It aims to provide a support system for students. Grievances at the department level are addressed by concerned teachers and class coordinators. The coordinators of clubs also act as facilitators to sort out complaints pertaining to various clubs and associations. A complaint box at college and a grievance redressal portal on the college website have also been made available. Students can also address their grievances directly to the principal.",
     "Members of grievance cell": [
         {
             "Name": "Dr. Vinitha George",
-            "Position": "Chairman",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/vineetha.jpg"
+            "Position": "Chairman"
         },
         {
             "Name": "Dr. Binu V. P",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/binuvp_-_Binu_V_P.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Smt. Sheeba P. S",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/sheebaps.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Sri. Manojkumar P",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/MANOJ20-20Manojkumar20P_cHQFs7U.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Smt. Vijayalakshmi  K",
-            "Position": "Member",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/vj.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Student Representative",
-            "Position": "Member",
-            "Image URL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/wAALCAIDAaQBAREA/8QAGgABAQADAQEAAAAAAAAAAAAAAAEEBQYDAv/EADcQAQACAQIDBwAJAgYDAAAAAAABAgMEEQUSIRMiMUFRYXEUIzJCgZGhsdFSYhUkNYLB4XKDov/aAAgBAQAAPwDvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASbRWN7TER7vC+v0tPtZ6/h1eF+LaaOlbTP4Me/FIt9nPNf/AFf9vD/FdTS3S9Mke9dmVp+M0vMVz05N/vR1hsYy47RExesxPu+otE+ExPwoAAAAAAAAAAAAADzzZ8enpz5bRWP3ajUcYyXma6evJX+qfFr8mXJlnfJktafeXwKiosWmPCZj4l74tdqcX2c1pj0t1Z+n414RqMf+6v8ADZ4c+PPTmxXi0ez0AAAAAAAAAAAABha7iFNLHLXv5fT0+WhzZsmfJN8tptP7PgVFRUUH1iy5MF4vivNbR6ebeaDiVNTtjybUy/pPwzwAAAAAAAAAAAGv4lxCNPE4sU75Z/8AlopmbWmbTMzPWZnzBAUEUBI6dY6bN5wziHbfU5p+sjwn+r/tsgAAAAAAAAAABhcR1saXHy165beEenu5+Zm1ptad5md5mfNFAAAARazNbRNZ2mJ3iYdFw7VxqsHXpkr0tH/LLAAAAAAAAAAB5anUU02C2S/l4R6y5nNlvny2yXne1v0fCiKIoAIKPbR6idLqa5I8PC0esOmrMWrEx1iesKAAAAAAAAAATMRG8+DnOI6udVn7s/V06V9/diiKgKigigIN9wfUdrppx2nvY+n4NgAAAAAAAAAA13GNV2WGMNJ79/H2holQUQUEURQBlcMz9hraTM92/dl0YAAAAAAAAAPPUZqafDbJfwr+rmc+a+ozWyX8bfo+AARQAARQTr4w6jSZu302PJ5zHX5ewAAAAAAAAA0HFdX9Iz9nSfq8c/nLBAQVFABFEFBuOBZd8eTDP3Z3j4ltQAAAAAAAAGFxTVfR9NMVnv36R7esueBQBBQBFEFBlcLy9lrqel+7LowAAAAAAAAJnaN5c1r9TOp1Vrfdju1+GOgoAAioogqKItbTW0Wjxid3VYrxlxVvHhaN32AAAAAAAAMLiuo7DSTWs7Wyd2P+XPAoAigCKgoAg3/BsvaaPknxpO34M8AAAAAAAAc9xbP22smsT3cfdj582EoAigAIoCKCK2HBcvJqrY58Lx+sN6AAAAAAAA88+WMOC+SfuxMuWmZtMzPWZneRBQRRFRQABAVH3gyThzUyR92d3VVmLViY8JjdQAAAAAAAa7jWXl0tcceN7fpDRoqKAIoACKCKIqOh4Tm7XRViZ71O7LNAAAAAAABouN5ObVVp5Vrv+bXgCAqKAigICoqKz+DZ+z1U45npkj9W+AAAAAAABzXEb8+vyz47TsxlBFARQARQBFRRaWml63r0ms7w6nBljNhpkr4Wjd9gAAAAAAPm9uSlrekbuUtab3tafG07gIKigAiooCKigDccEz70vgtPWver8NqAAAAAAA8Ndbl0eaf7XMR4KAACAKigAAig9dJmnT6qmTyidp+HURMTG8eEgAAAAAAMTik7cPzfG36ucVFEFARRBRFRRFAEdBwnUdtpIrae9j7s/wDDOAAAAAABhcX/ANPyfg58ABBQBFBFAEVFQZOg1M6XUxefsT0t8OkiYtETE7xPWFAAAAAAGLxOvNw/LHtu5sFARRFRQEUBAFEVG04Xr4x7YM0937tp8vZugAAAAAB8Z6dpgyU9azDlPDeJ8uj7zYrYcnJb03j3h8iCgAAAIKIoAI2WPhnbaXHlpMzzRvMecMjSTqtNHLa0ZMcdOv3f4/Fs62i1YmPNQAAAAAHNcQw9jrMlfKZ5o/FdbljLGn28YxRE/LGRQAQVFAEURQEUR0nC/wDT8Pw9744tPNE8t48JhMe28xNeW/nt5vQAAAAABreM6btMEZqx3sfj8NZw6ItrsUWjeJnzTXaadLqbU+7PWvw8ARUFRUUARQAEFR1Gkp2elxU84rD2SaxP4KAAAAAAkxExMTG8S0GfD/h/EKXiN8e/NX49Gz1+nrrdJFsfW0RzUn1c98+ICgIoAgoICgD00uLttTjx+tuvw6kAAAAAAAYfE9N9J0s8sb3p3qsPg+s2/wAtkn3pv+zx4vpexz9rWO5k8faWACCooAAgoIoIracDwb3vnmOkd2rcgAAAAAAA1Oq0Va6nuzyRlnel4+7f+Je+O307TZNNnjlzVja0e/lMNFelsd7UtG1qztKAIKCKAioqAoFaza0Vr1mZ2h0+kwRp9PTFHlHX5ewAAAAAAAPPNijNjmk9PSfSfVj3w2zRXJWeTU4+m/r7T7S1fE6xe0Z+XktPdyVnylgigIogqKACCg2PBtN2mac9o7tOkfLeAAAAAAAACbRvv5sTiWmrm017bd+sbxMOdVFQUEVBRFRQApWb3ilY3m07Q6jS4I0+CuKPKOs+svUAAAAAAAAHxm27HJv4cs/s5SFQURQEUQVFAGx4Lp+0z2zWjpTpHy3gAAAAAAAADB4rqIw6SaRPfydIc+KAAiiKCKAg6bQYPo+kpTz23n5ZAAAAAAAAAMbV63Fpa96ea/lWPFz+oz5NTlnJknrPhHpDyUEUAQUEURQZXDMHb6ysTHdp3pdGAAAAAAAAkzFYmZnaI85a/NxjDS0xjrOTbzjpDBz8W1GXpTbHH9viwZmbTMzO8z5yCKioKgoAgoIrd8ExRXTWybxNrz+UQ2QAAAAAAADVcczWrTHhrO0W6z7tOAAiooAIKioKIydFq76TLzR1pP2q+rocGbHnxxfFaLR+z0AAAAAAABpeOx9fin1rLWCCgIoIogqKAirSvPbbmrWfefFb4r452vSa+8+D0w/ScE9ph5tvWvWJbHBxe/2c+Gd/Wv8ADOx67T5Onacs+luj3ratvCYn4UAAAAAAGr47TfDiv/Tbb82mBFRQBFARQABHrh1OXD0pfu/0z1ifwZeHVaW1t8mK2C8/fxTMR+TZY6dtXemfHnr/AH1iZfcYI22nFy/+M7x+UkYOXrGOk/hyz+j0pNYnaeas+lpeoAAAAAAxuI4u20WWseMRzR+DmlEUAAAQVFAAApa2O3NS01n1iWfg4vnx9MkRkj8pbHBxTTZtom3Z29LfyzO7eu8bTEpFdvCeno+gAAAAAGv1/EqYInHi2vknpPpVoVQVFEUBFQUQUAAEemLPlwzviyWr8SzsPGc1OmWlckesdJZuLi2mydLTbHP90MzHlx5I3peto9pfYAAAAPPNnxYKc2W8Vj92m1nFb5ommDfHT185/hrhQAAEUAARQEUQUEWszWd6zMT7SysPEdVi2iMnPHpbqzsPGqT0zY5r716thh1OHPG+LJW3t5vUAABj59dp9P0vkjf+mOstZqOMZL7xgryR6z1lrsl75Lc2S02tPnKCAoAAIoAAAAIqKigixM1neszEx6M7TcVz4doyfW19/Ft9LrcOqr9Xba3nWfGGQAPm9646817RWPWZYGfi+HHvGKJyT+UNZn4hqc+8Tfkr/TToxRRFRUFAAEFQUBBQBFABBStpraLVmYmPCYbjQcU55jFqJ2t4Rf1+W1Hxly48NJtktFa+stXqeM+NdNT/AHW/hq8ubJntzZb2tPu+BQAABAUAAARQARRFARQQZ+n4rmw4oxzWMm3hMz12Z+u4nTTzOPFtfJ5+kNLmzZM9+fLebT+z4QVBUUAEUAAEVFAEFEVFAAEUEBQARQAABFEFBFAEFRUFAQUBFBFEFAEUBAUAAABFEFRRFRQRUUAEUAAAARQAEUEUAABFARUUBFAAAABAURUAFEURQRQABFRQRQRUUARQEURUUAAAQUBFABAUEFRQABFEUAARUUAAAAAQVBRFARUUAAEUEUEBQBFQFBAUBFAEUEFBFBBRFRQAAABFEUAAAEFBFABBUURRFRQQFBBQARQRQRUURUVFAQUABFAQFABFBFQUAAAQFAEUARRFAAQVFAARUUBFEURUUEUBFAEVFQVBQBFAEURRFRQAARQBFAEUBFRQQVFQUEUBFQUQUAEUAEURUFAEFTyFAEVBQAEUAARUAURR/9k="
+            "Position": "Member"
         }
     ],
     "Description of anti_ragging_committee_details": "An Anti-Ragging Committee has been set up to take action against ragging and resolve issues concerning the same. MEC, EKM- Anti-Ragging Committee formed vide this office order No.A3(2)/881/2014/MEC dated 22.07.2014- Members for the academic year 2019-20-intimating of -reg",
-    "References of anti_ragging_committee_details": [
-        "Directions of the Hon'ble Supreme court dated 08.05.2009 to the state governments.",
-        "Clause 5 of B.Tech Ordinance of KTU",
-        "This office Order No.A3(2)/881/2014/MEC  dated 22.07.2014"
-    ],
     "Members of anti_ragging_committee_details": [
         {
             "Position": "Chairman",
@@ -600,144 +478,337 @@
         }
     ],
     "Description of anti ragging squad": "The anti-ragging squad has been formed to help create and foster a safe and welcoming college community. It helps maintain the strict no tolerance attitude taken towards ragging in the college campus. It conducts frequent visits and surprises raids to student hostels and other places in the college campus where potential ragging may occur. The anti-ragging squad is expected to submit regular periodical reports on their activities and any case of detected student harassment is reported to the principal immediately.",
-    "References of anti ragging squad": [
-        "Directions of the Hon'ble Supreme court dated 08.05.2009 to the state governments.",
-        "Clause 5 of B.Tech Ordinance of KTU.",
-        "This office Order No.A3(2)/881/2014/MEC dated 22.07.2014"
-    ],
     "Members of anti ragging squad": [
         {
             "Name": "Dr.Sreenivas P",
-            "Position": "Chairman",
-            "Additional Info": "Associate Professor in Mechanical Engg.",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/sreenivas_dzBUnXe.jpg"
+            "Position": "Chairman"
         },
         {
             "Name": "Dr. Shouri P V",
-            "Position": "Member",
-            "Additional Info": "Associate Professor in Mechanical Engg",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Dr._Shouri_P_V_2OJqUq0.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Sri.Krishnadas G",
-            "Position": "Member",
-            "Additional Info": "Associate Professor inMathematics",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/kdg_W0R71sj.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Dr. Shiny Philip",
-            "Position": "Member",
-            "Additional Info": "Associate Professor in Mathematics",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/Shiny_jpj.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Sri. Manoj Kumar P",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Electronics Engg.",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/MANOJ20-20Manojkumar20P.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Smt.Rashida K",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in \tElectronics Engg",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/rashida.jpg"
+            "Position": "Member"
         },
         {
             "Name": "Smt.Radha Balakrishnan",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Mathematics",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Dr.Sindhu L",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Computer\t Engg.",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Smt.Sruthi S",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Biomedical Engg",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Sri.Arun Prasad K M",
-            "Position": "Member",
-            "Additional Info": "Assistant Professor in Electrical Engg",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Sri.Noushad P S",
-            "Position": "Member",
-            "Additional Info": "Foreman ,Mechanical Engg.",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         },
         {
             "Name": "Sri.Pradeep Kumar P R",
-            "Position": "Member",
-            "Additional Info": "Tradesman,Electronics Engg",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+            "Position": "Member"
         }
     ],
-    "Description of Anti-sexual Harassment & Internal Compliance Cell": "As per the guidelines of UGC and the Supreme Court, an Anti-Sexual Harassment Cell and Internal Complaint Cell has been established by Model Engineering College to provide a healthy and congenial atmosphere to the staff and students of the College.\nThe cell works to uphold zero tolerance towards sexual harassment. It promotes measures aimed at achieving gender equality, removal of gender bias or discrimination, sexual harassment, and other acts of gender-based violence by organising awareness programmes and campaigns for the benefit of all members of the college.",
-    "Objectives of Anti-sexual Harassment & Internal Compliance Cell": [
-        "To promote a social and psychological environment that will raise awareness about sexual harassment in its various forms.",
-        "To facilitate a safe environment that is free of sexual harassment.",
-        "To develop guidelines and norms for policies against sexual harassment.",
-        "To develop principles and procedures to combat sexual harassment.",
-        "To provide an environment free of gender-based discrimination.",
-        "To create a secure physical and social environment which will deter acts of sexual harassment"
-    ],
-    "Sexual_Harassment_Definition": "Sexual harassment includes such unwelcome sexually determined behaviour (whether directly or by implication) as:",
-    "Types_of_Sexual_Harassment": [
-        "Physical contact and advances.",
-        "Demand or request for sexual favours.",
-        "Sexually coloured remarks.",
-        "Any other unwelcome physical, verbal or non-verbal conduct of sexual nature.",
-        "Publishing, circulating or displaying pornographic, racist, sexually suggestive or otherwise offensive pictures or other materials."
-    ],
-    "Members of Anti-sexual Harassment & Internal Compliance Cell": [
-        {
-            "Name": "Murali Mohanan",
-            "Position": "Member(CS)",
-            "Contact": "murali@mec.ac.in",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/murali.jpg"
-        },
-        {
-            "Name": "Ms. Sindu S",
-            "Position": "Member(AS)",
-            "Contact": "sindhus@mec.ac.in",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/img019_-_Sindhu_S.jpg"
-        },
-        {
-            "Name": "Mr. Arun C R",
-            "Position": "Member (EC)",
-            "Contact": "arun_cr@mec.ac.in",
-            "Image URL": "http://www.mec.ac.in/model_media/administration/arun_c_r.jpg"
-        },
-        {
-            "Name": "Mr. Sreehari N",
-            "Position": "Student Member",
-            "Contact": "sree1001hari@gmail.com",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-        },
-        {
-            "Name": "Kum. Husna Fathima UM",
-            "Position": "Student member",
-            "Contact": "husna3100@gmail.com",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-        },
-        {
-            "Name": "Kum. Anagha S Menon",
-            "Position": "Student Member",
-            "Contact": "anaghamenon.mec@gmail.com",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-        },
-        {
-            "Name": "Matron, YMCA",
-            "Position": "External Member",
-            "Contact": "miniajayan119@gmail.com",
-            "Image URL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-        }
-    ]
+    "Description of safety manual": "MEC is dedicated to providing a safe holistic learning environment for staffs and students alike. The safety manual has been composed to provide necessary information and procedures to follow to deal with accidents if they occur and also details precautions to be followed in labs and other places in the college.",
+    "Safety Manual Download Link": "http://www.mec.ac.in/model_media/documents/safety_manual.pdf",
+    "About Computer Science department Description": "The Computer Science and Engineering Department at Government Model Engineering College established in 1989 stands as the foremost center of innovation and technology in the state, meeting the high demands of the industry.\n          Our BTech program in Computer Science and Engineering(180 seats), accredited by the NBA, offers a dynamic curriculum meticulously crafted to equip students with the in-demand skills required to build professionals and innovations in the field\n          In addition, we provide a BTech course in Computer Science and Business Systems(60 seats), featuring a rigorous curriculum tailored to meet the evolving demands of the tech industry, in collaboration with the renowned tech giant TCS.\n          The BTech course for working professionals(30 seats) enables them to pursue their BTech aspirations by offering classes outside their working hours, particularly in the evening slot\n          Our specialized MTech program in Computer Science and Engineering(18 seats), focusing on Data Science, delves deep into the realm of big data analytics, machine learning, and artificial intelligence.\n          Boasting a stellar track record, our department has achieved a remarkable 100% placement rate in top-tier companies, a testament to the caliber of our students and the quality of education imparted by our esteemed faculty.\n          Our state-of-the-art labs and research facilities provide a conducive environment for experiential learning and groundbreaking research, where innovation meets excellence, and together, we shape the future of technology. With a strong emphasis on practical application and industry-relevant projects, our students graduate with not just theoretical knowledge but also real-world problem-solving skills. Guided by a dedicated team of faculty members who are experts in their fields, our students receive personalized attention and mentorship, nurturing their talents and fostering their professional growth.\n          Through industry collaborations and internships, we ensure that our students are well-prepared to tackle the challenges of the tech landscape and excel in their careers.",
+    "Course_1_Program": "B. Tech Computer Science and Engineering",
+    "Course_2_Program": "B. Tech Computer Science and Business Systems",
+    "Course_3_Program": "M. Tech Computer Science and Engineering",
+    "Course_3_Specialization of Computer science": "Data Science and Engineering",
+    "HOD_Name of Computer science": "Dr. Binu V P",
+    "HOD_Position of Computer science": "HOD &  Associate Professor",
+    "HOD_Email of Computer science": "binuvp@mec.ac.in",
+    "Faculty_1_Name of Computer science": "Dr. Binu V P",
+    "Faculty_1_Position of Computer science": "HOD &  Associate Professor",
+    "Faculty_2_Name of Computer science": "Dr. Priya S",
+    "Faculty_2_Position of Computer science": "Professor",
+    "Faculty_3_Name of Computer science": "Dr Murali Mohanan",
+    "Faculty_3_Position of Computer science": "Associate Professor",
+    "Faculty_4_Name of Computer science": "Dr. Sindhu L",
+    "Faculty_4_Position of Computer science": "Assistant Professor",
+    "Faculty_5_Name of Computer science": "Manilal D L",
+    "Faculty_5_Position of Computer science": "Associate professor",
+    "Faculty_6_Name of Computer science": "Jayasree K",
+    "Faculty_6_Position of Computer science": "Assistant Professor",
+    "Faculty_7_Name of Computer science": "Dr Manju K",
+    "Faculty_7_Position of Computer science": "Assistant Professor",
+    "Faculty_8_Name of Computer science": "Dr. Jiby J Puthiyidam",
+    "Faculty_8_Position of Computer science": "Assistant Professor",
+    "Faculty_9_Name of Computer science": "Vineetha K V",
+    "Faculty_9_Position of Computer science": "Assistant Professor (Sr Scale)",
+    "Faculty_10_Name of Computer science": "Preena K P",
+    "Faculty_10_Position of Computer science": "Assistant Professor (Sr Scale)",
+    "Faculty_11_Name of Computer science": "Aysha Fymin Majeed",
+    "Faculty_11_Position of Computer science": "Assistant Professor",
+    "Faculty_12_Name of Computer science": "Dr Sony P",
+    "Faculty_12_Position of Computer science": "Assistant Professor",
+    "Faculty_13_Name of Computer science": "Sreekumar K",
+    "Faculty_13_Position of Computer science": "Assistant Professor",
+    "Faculty_14_Name of Computer science": "Athira S Nair",
+    "Faculty_14_Position of Computer science": "Assistant Professor",
+    "Faculty_15_Name of Computer science": "Titty Jacob",
+    "Faculty_15_Position of Computer science": "Jr. System Analyst",
+    "Faculty_16_Name of Computer science": "Suresh T K",
+    "Faculty_16_Position of Computer science": "Foreman",
+    "Faculty_17_Name of Computer science": "Rekha R",
+    "Faculty_17_Position of Computer science": "Assistant Professor",
+    "Faculty_18_Name of Computer science": "Kiran Mary Mathew",
+    "Faculty_18_Position of Computer science": "Assistant Professor",
+    "Faculty_19_Name of Computer science": "Gency Anoop",
+    "Faculty_19_Position of Computer science": "Assistant Professor",
+    "Faculty_20_Name of Computer science": "Lekshmi Subha M S",
+    "Faculty_20_Position of Computer science": "Assistant Professor",
+    "Faculty_21_Name of Computer science": "Veena Briji Philip",
+    "Faculty_21_Position of Computer science": "Assistant Professor",
+    "Faculty_22_Name of Computer science": "Arya Mary K J",
+    "Faculty_22_Position of Computer science": "Assistant Professor",
+    "Faculty_23_Name of Computer science": "Reshmi C S",
+    "Faculty_23_Position of Computer science": "Computer Programmer",
+    "Faculty_24_Name of Computer science": "Smitha O. V",
+    "Faculty_24_Position of Computer science": "Tradesman",
+    "Facility_1_Name of Computer science": "Microprocessor lab",
+    "Facility_2_Name of Computer science": "Self-hosted web server",
+    "Facility_3_Name of Computer science": "Wi-Fi Connectivity",
+    "Facility_4_Name of Computer science": "Unlimited subdomain hosting",
+    "Facility_5_Name of Computer science": "OS Mirror",
+    "Facility_6_Name of Computer science": "Debian GNU/Linux for Labs",
+    "Facility_7_Name of Computer science": "Support for containerized application deployments",
+    "Facility_8_Name of Computer science": "Moodle e-LMS",
+    "Description_About electronics and communication department": "The Electronics & Communication Engineering Department of Model Engineering College offers premier professional training with an eye on the modern developments in electronics and information technology. \n    It offers a four year undergraduate course in electronics and communication engineering. \n    The curriculum is designed to give adequate emphasis on application of Electronics in Communication Systems and Signal Processing and includes courses on Semiconductor Electronics, \n    Electronic Circuits, Communication Engineering, Instrumentation, Signal Processing, Process Control, ASIC design and Industrial Management. A variety of elective courses are also offered. The Electronics Department is home to Digital Circuits, Communication, Industrial Instrumentation, Signal Processing and Microprocessor Labs. The undergraduate programme offered by the Department is one of the most sought after in the state. A syllabus encompassing the latest technologies, excellent laboratory facilities and exemplary faculty are the main reasons for the prized status accorded to this course.\n    The department has been recognized as a research Centre of the Cochin University of Science and Technology. Several research scholars are carrying out high end research in various areas under\n    the supervision of the faculty. Faculty members of the department have also been recognized as research guides under the Kerala Technological University. Faculty have expertise in multimedia signal processing, electronic device modelling, VLSI and embedded systems, microwave engineering and optoelectronics to supervise cutting edge research.",
+    "Course_1_Program of electronics and communication department": "B. Tech Electronics and Communication Engineering",
+    "Course_2_Program of electronics and communication department": "B. Tech Electronics (VLSI design and Technology)",
+    "Course_3_Program of electronics and communication department": "B. Tech Electronics and Communication Engineering for working Professionals",
+    "Course_4_Program of electronics and communication department": "M. Tech Electronics and Communication Engineering with specialization in VLSI design and Embedded",
+    "HOD_Name of electronics and communication department": "Pradeep M",
+    "HOD_Position of electronics and communication department": "Associate Professor & HOD",
+    "HOD_Email of electronics and communication department": null,
+    "Faculty_1_Name of electronics and communication department": "Pradeep M",
+    "Faculty_1_Position of electronics and communication department": "Associate Professor & HOD",
+    "Faculty_2_Name of electronics and communication department": "Dr.Mini M G",
+    "Faculty_2_Position of electronics and communication department": "Principal",
+    "Faculty_3_Name of electronics and communication department": "Dr. Laila D",
+    "Faculty_3_Position of electronics and communication department": "Professor",
+    "Faculty_4_Name of electronics and communication department": "Dr. Rajesh Mohan",
+    "Faculty_4_Position of electronics and communication department": "Associate Professor",
+    "Faculty_5_Name of electronics and communication department": "Dr. Jobymol Jacob",
+    "Faculty_5_Position of electronics and communication department": "Professor",
+    "Faculty_6_Name of electronics and communication department": "Dr. Ashok V",
+    "Faculty_6_Position of electronics and communication department": "Associate professor",
+    "Faculty_7_Name of electronics and communication department": "Dr.Sumitha Mathew",
+    "Faculty_7_Position of electronics and communication department": "Associate Professor",
+    "Faculty_8_Name of electronics and communication department": "Jayadas C K",
+    "Faculty_8_Position of electronics and communication department": "Associate Professor",
+    "Faculty_9_Name of electronics and communication department": "Jibi John",
+    "Faculty_9_Position of electronics and communication department": "Associate Professor",
+    "Faculty_10_Name of electronics and communication department": "Vinitha George",
+    "Faculty_10_Position of electronics and communication department": "Associate Professor",
+    "Faculty_11_Name of electronics and communication department": "Sunith C K",
+    "Faculty_11_Position of electronics and communication department": "Associate professor",
+    "Faculty_12_Name of electronics and communication department": "Dr Jagadeesh kumar P",
+    "Faculty_12_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_13_Name of electronics and communication department": "Joseph George",
+    "Faculty_13_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_14_Name of electronics and communication department": "Rashid M E",
+    "Faculty_14_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_15_Name of electronics and communication department": "Anjana Devi S",
+    "Faculty_15_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_16_Name of electronics and communication department": "Aparnadevi P S",
+    "Faculty_16_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_17_Name of electronics and communication department": "Swapna P.P",
+    "Faculty_17_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_18_Name of electronics and communication department": "Thushara H P",
+    "Faculty_18_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_19_Name of electronics and communication department": "Sheeba P S",
+    "Faculty_19_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_20_Name of electronics and communication department": "Arun C.R",
+    "Faculty_20_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_21_Name of electronics and communication department": "Manojkumar P",
+    "Faculty_21_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_22_Name of electronics and communication department": "Mitty George",
+    "Faculty_22_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_23_Name of electronics and communication department": "Rashida K",
+    "Faculty_23_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_24_Name of electronics and communication department": "Jaisy M A",
+    "Faculty_24_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_25_Name of electronics and communication department": "Remya S",
+    "Faculty_25_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_26_Name of electronics and communication department": "Jamshi K U",
+    "Faculty_26_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_27_Name of electronics and communication department": "Irshad Ali T K",
+    "Faculty_27_Position of electronics and communication department": "Assistant Professor",
+    "Faculty_28_Name of electronics and communication department": "Biju Mathew",
+    "Faculty_28_Position of electronics and communication department": "Foreman",
+    "Faculty_29_Name of electronics and communication department": "Geetha K Nair",
+    "Faculty_29_Position of electronics and communication department": "Demonstrator",
+    "Faculty_30_Name of electronics and communication department": "Lekshmi V R",
+    "Faculty_30_Position of electronics and communication department": "Demonstrator",
+    "Faculty_31_Name of electronics and communication department": "Shyamkumar G",
+    "Faculty_31_Position of electronics and communication department": "Trade Instructor Grade II",
+    "Faculty_32_Name of electronics and communication department": "Manjula R",
+    "Faculty_32_Position of electronics and communication department": "Tradesman",
+    "Description of electrical and electronics department": "Electrical and electronics is the engineering discipline concerned with the study, design and application of equipment, devices and systems which use electricity, \n          electronics and electromagnetism. The department firmly believes in imparting a strong hands-on flavour on the courses that a student takes, and therefore places \n          emphasis on the laboratory component, internships and projects.",
+    "Course: B. Tech Electrical and Electronics Engineering of electrical and electronics department": "B. Tech",
+    "Course: B. Tech Electrical and Electronics Engineering for working Professionals of electrical and electronics department": "B. Tech",
+    "HOD Name  of electrical and electronics department": "Dr. Bindu C. J",
+    "HOD Position  of electrical and electronics department": "Associate Professor & HOD",
+    "HOD Email of electrical and electronics department": null,
+    "Faculty 1 Name of electrical and electronics department": "Dr. Bindu C. J",
+    "Faculty 1 Position of electrical and electronics department": "Associate Professor & HOD",
+    "Faculty 2 Name of electrical and electronics department": "Dr. Arunprasad K M",
+    "Faculty 2 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 3 Name of electrical and electronics department": "Dr. Bindu V",
+    "Faculty 3 Position of electrical and electronics department": "Professor",
+    "Faculty 4 Name of electrical and electronics department": "Vidhya K",
+    "Faculty 4 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 5 Name of electrical and electronics department": "Dr Shaija P J",
+    "Faculty 5 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 6 Name of electrical and electronics department": "Freena Francis",
+    "Faculty 6 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 7 Name of electrical and electronics department": "Roshan Jabeen",
+    "Faculty 7 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 8 Name of electrical and electronics department": "Asha Deepthi Vijay",
+    "Faculty 8 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 9 Name of electrical and electronics department": "Thakku Peter",
+    "Faculty 9 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 10 Name of electrical and electronics department": "Libi A",
+    "Faculty 10 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 11 Name of electrical and electronics department": "Dinu Paul",
+    "Faculty 11 Position of electrical and electronics department": "Assistant Professor",
+    "Faculty 12 Name of electrical and electronics department": "Ganesh A R",
+    "Faculty 12 Position of electrical and electronics department": "Demonstrator",
+    "Faculty 13 Name of electrical and electronics department": "Binu C P",
+    "Faculty 13 Position of electrical and electronics department": "Tradesman",
+    "Description of electronics and biomedical department": "Electronics & Biomedical Engineering is the application of engineering principles and design concepts to bridge the gap between Engineering and Medicine. \n          It aims at utilizing Engineering skills to devise solutions in the healthcare arena.\n          The Department of Electronics & Biomedical Engineering is one of the pioneer departments started when Govt. Model Engineering College was established in \n          the year 1989 and the first in Kerala to offer an engineering course in Electronics and Electronics & Biomedical Engineering. The department offers undergraduate programmes\n          in Electronics and Electronics & Biomedical Engineering with an intake of 60 students. Initial student intake was 40, later increased to 60 in the year 2008. The Department was accredited twice by NBA in the year 2003 and 2008, each for a period of three years (2003-2006 and 2008-2011)\n          In a span of four years, the programme imparts knowledge in fundamental as well as diverse areas that include Electronic Circuits, Medical Physics,\n          Biomedical Instrumentation, Modelling of Physiological Systems, Biomaterials, Biomechanics, Biomedical Signal and Image Processing, Neural networks, VLSI Design and Digital system Design. \n          The department is well equipped with standard test and measuring instruments, computing facilities and medical instruments. With a perfect blend of theoretical and practical knowledge students will evolve with a capability of solving challenges in health care.",
+    "Course 1 of electronics and biomedical department": "B. Tech Electronics and Biomedical Engineering",
+    "HOD Name of electronics and biomedical department": "Dr. Minimol. B",
+    "HOD Position of electronics and biomedical department": "Associate Professor & HOD",
+    "HOD Email of electronics and biomedical department": "hodbe@mec.ac.in",
+    "Faculty 1 Name of electronics and biomedical department": "Dr. Minimol. B",
+    "Faculty 1 Position of electronics and biomedical department": "Associate Professor & HOD",
+    "Faculty 2 Name of electronics and biomedical department": "Dr. Jessy John",
+    "Faculty 2 Position of electronics and biomedical department": "Professor",
+    "Faculty 3 Name of electronics and biomedical department": "Vijaya Lakshmi K",
+    "Faculty 3 Position of electronics and biomedical department": "Assistant Professor",
+    "Faculty 4 Name of electronics and biomedical department": "Sincy P S",
+    "Faculty 4 Position of electronics and biomedical department": "Assistant Professor",
+    "Faculty 5 Name of electronics and biomedical department": "Sajitha S",
+    "Faculty 5 Position of electronics and biomedical department": "Assistant Professor",
+    "Faculty 6 Name of electronics and biomedical department": "Suja Markose",
+    "Faculty 6 Position of electronics and biomedical department": "Assistant Professor",
+    "Faculty 7 Name of electronics and biomedical department": "Sruthi S",
+    "Faculty 7 Position of electronics and biomedical department": "Assistant Professor",
+    "Faculty 8 Name of electronics and biomedical department": "Minu Ann Joseph",
+    "Faculty 8 Position of electronics and biomedical department": "Assistant Professor",
+    "Facilities Main Description of electronics and biomedical department": "",
+    "Facility 1 Name of electronics and biomedical department": "Labs",
+    "Facility 2 Name of electronics and biomedical department": "Equipment",
+    "Description of mechanical engineering department": "The Department of Mechanical Engineering currently offers two year an interdisciplinary MTech course in Energy Management and a four year BTech course in Mechanical Engineering from \n          the academic year 2020-21 onwards. The objective of the course is to equip engineers to assess, preserve and manage energy resources in industries and other organizations. The course focuses on \n          efficient utilization of thermal and non conventional energy by effective management and also to develop and propagate a culture of energy preservation among the students, engineers and industry.\n          The mechanical engineering department is also engaged in the teaching of basic engineering subjects and provides courses Engineering Graphics, Engineering Mechanics, Basic Mechanical Engineering, Fluid dynamics, \n          Strength of Materials, and Industrial Organization and Management. The focus of these basic courses is to create a set of engineers well versed in the basic engineering disciplines so as to solve real world problems accurately and efficiently.\n          Subjects of industrial importance are Solar Energy Engineering, Process Reliability Engineering, Energy Conversion Systems.\n          Solar Engineering lab and Computational lab are the labs set up under this department.",
+    "Course 1 of mechanical engineering department": "B. Tech Mechanical Engineering",
+    "Course 2 of mechanical engineering department": "M. Tech Mechanical Engineering with specialization in Energy Management",
+    "HOD Name of mechanical engineering department": "Dr. Rajesh V. G",
+    "HOD Position of mechanical engineering department": "Associate Professor & HOD",
+    "HOD Email of mechanical engineering department": "hodme@mec.ac.in",
+    "Faculty 1 Name of mechanical engineering department": "Dr. Rajesh V. G",
+    "Faculty 1 Position of mechanical engineering department": "Associate Professor & HOD",
+    "Faculty 2 Name of mechanical engineering department": "Dr Shouri P V",
+    "Faculty 2 Position of mechanical engineering department": "Associate Professor",
+    "Faculty 3 Name of mechanical engineering department": "Dr. Sreenivas.P",
+    "Faculty 3 Position of mechanical engineering department": "Associate Professor",
+    "Faculty 4 Name of mechanical engineering department": "Varghese M P",
+    "Faculty 4 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 5 Name of mechanical engineering department": "Kannadas P K",
+    "Faculty 5 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 6 Name of mechanical engineering department": "Jayan M. C",
+    "Faculty 6 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 7 Name of mechanical engineering department": "Sandhya P Gopal",
+    "Faculty 7 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 8 Name of mechanical engineering department": "Jimmy John",
+    "Faculty 8 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 9 Name of mechanical engineering department": "Sanchu S",
+    "Faculty 9 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 10 Name of mechanical engineering department": "Ms. Lakshmipriya A R",
+    "Faculty 10 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 11 Name of mechanical engineering department": "Aswith R Shenoy",
+    "Faculty 11 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 12 Name of mechanical engineering department": "Raneej Raveendran",
+    "Faculty 12 Position of mechanical engineering department": "Assistant Professor",
+    "Faculty 13 Name of mechanical engineering department": "Noushad P S",
+    "Faculty 13 Position of mechanical engineering department": "Foreman",
+    "Faculty 14 Name of mechanical engineering department": "Sinojy T G",
+    "Faculty 14 Position of mechanical engineering department": "Tradesman",
+    "Faculty 15 Name of mechanical engineering department": "Muhhammed Fahir",
+    "Faculty 15 Position of mechanical engineering department": "Tradesman",
+    "Faculty 16 Name of mechanical engineering department": "Adarsh M S",
+    "Faculty 16 Position of mechanical engineering department": "Tradesman",
+    "Facilities Main Description of mechanical engineering department": "",
+    "Facility 1 Name of mechanical engineering department": "",
+    "Facility 2 Name of mechanical engineering department": "",
+    "Facility 3 Name of mechanical engineering department": "",
+    "description_of_applied_science": "The department of Applied Sciences aims to provide a strong foundation in the fundamental sciences.\n         Students of engineering are provided with the basic tools of analysis as well as the knowledge of the \n         principles on which engineering is based. The department also strives to instill the scientific temper \n         and the spirit of enquiry in students. To encourage students to understand and therefore apply the physical laws to the development of their fields of study. \n         The department offers courses in Engineering mathematics , engineering physics and engineering chemistry within the engineering curricula.",
+    "hod_name_of_applied_science": "Dr. Shiny Philip",
+    "hod_position_of_applied_science": "Associate professor in Mathematics & HOD",
+    "hod_email_of_applied_science": "shinyjudson@gmail.com",
+    "faculty_1_name_of_applied_science": "Dr. Shiny Philip",
+    "faculty_1_position_of_applied_science": "Associate professor in Mathematics & HOD",
+    "faculty_2_name_of_applied_science": "Sindhu S",
+    "faculty_2_position_of_applied_science": "Associate Professor - Mathematics",
+    "faculty_3_name_of_applied_science": "Minu K K",
+    "faculty_3_position_of_applied_science": "Assistant Professor - Mathematics",
+    "faculty_4_name_of_applied_science": "Sofia Anitha James P",
+    "faculty_4_position_of_applied_science": "Associate Professor in Physics",
+    "faculty_5_name_of_applied_science": "Jayaram D.S.",
+    "faculty_5_position_of_applied_science": "Assistant Professor in Mathematics",
+    "faculty_6_name_of_applied_science": "Radha Balakrishnan",
+    "faculty_6_position_of_applied_science": "Assistant Professor in Mathematics",
+    "faculty_7_name_of_applied_science": "Dr. Lakshmy M",
+    "faculty_7_position_of_applied_science": "Assistant  Professor - Chemistry",
+    "activity_1_of_placements_section": "We have been conducting session after session of grueling tests, mock interviews and group discussions.",
+    "activity_2_of_placements_section": "Online Technical tests are regularly conducted.",
+    "activity_3_of_placements_section": "Soft skill development programs required for the corporates are also part of our curriculum.",
+    "activity_4_of_placements_section": "We have been holding talks by eminent personalities from different walks of life, on career guidance, importance of communication skills and on other related stuff.",
+    "activity_5_of_placements_section": "Faculty from Management Training Institutes hold regular classes on personality development.",
+    "activity_6_of_placements_section": "XMECians hold regular talks on the current industry trends and job opportunities in India and abroad.",
+    "activity_7_of_placements_section": "Also purely technical talks are conducted with a view of the expansion of technical knowledge, which is much sought after in the industry.",
+    "statistics_description_of_placements_section": "Govt. Model Engineering College has always been the benchmark for excellence when it comes to recruitments. We are proud to have played host to the biggest names in the industry as part of internships and recruitment drives. The year witnessed an outstanding placement season ensuring 75% placements and tech tycoons such as D.E. Shaw & Co., FactSet, Microsoft, Broadcom, Oracle and GE Healthcare stood out among the prominent recruiters.",
+    "total_placements_cse_of_placements_section": "106",
+    "total_placements_ebe_of_placements_section": "38",
+    "total_placements_ece_of_placements_section": "97",
+    "total_placements_eee_of_placements_section": "32",
+    "total_placements_all_departments_of_placements_section": "273",
+    "verification_description_of_placements_section": "Authorized verifying agencies / Organizations who would like to get the academic records of students graduated from Govt. Model Engineering College verified for Employment purposes are expected to submit a formal request in the official stationary of the authorized verifying agency addressed to the Principal, Govt. Model Engineering Collge, Thrikkakara P.O., Ernakulam, Kochi, Kerala-682021 with the following:",
+    "verification_requirement_1_of_placements_section": "Details of the student which are to be verified at institution level.",
+    "verification_requirement_2_of_placements_section": "Attach a DD for Rs: 500/ in favour of Principal, Govt. Model Engineering College payable at Ernakulam.",
+    "verification_requirement_3_of_placements_section": "Give the preferred communication address for conveying the required information, viz. Fax number, E-mail address or Postal address with pin",
+    "verification_form_url_of_placements_section": "http://www.mec.ac.in/model_media/documents/certificate-verification_vK53Sob.pdf",
+    "contact_address_of_placements_section": "The Principal, Model Engineering College, Thrikkakara, Kochi,, Kerala, PIN: 682021",
+    "contact_phone_1_of_placements_section": "+91 484 2575592",
+    "contact_email_2_of_placements_section": "principal@mec.ac.in",
+    "committee_position_1_of_placements_section": "Chairman",
+    "committee_position_1_name_1_of_placements_section": "Prof.(Dr.) Mini M GPrincipal, Govt. Model Engg. College",
+    "committee_position_2_of_placements_section": "Placement Officer",
+    "committee_position_2_email_1_of_placements_section": "Ms. Aparnadevi P STraining and Placement Officer  pc@mec.ac.in  +91 94472 49042",
+    "committee_position_3_of_placements_section": "Student Coordinators",
+    "committee_position_3_email_1_of_placements_section": "Adithya V  adithyav@mec.ac.in  +91 7306555378",
+    "committee_position_3_email_2_of_placements_section": "Ananya Nair  ananyadnair@mec.ac.in  +91 8734052003",
+    "training_cell_description_of_placements_section": "The training cell is a professional body of the college run by the skilled students of the college, under the expert guidance of the staff. This body facilitates the process of placement of students passing out from the Institute besides collaborating with leading organizations and institutes in the setting up of training programs for the students of this esteemed college. The Training Cell's aim is to create an environment of technical and soft skill learning, to develop them in accordance with the current Industry standards."
 }
