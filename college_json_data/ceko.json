@@ -1,15 +1,37 @@
 [
     {
-        "Data about the principal of College of Engineering Kottarakkara": {
-            "principal_name": "Dr.MANOJ RAY D",
-            "Principal of college name": "College of Engineering, Kottarakkara",
-            "Contact Number of principal": "Ph: 8547005039, 04742453300",
-            "Email of principal": "cekottarakkara.ihrd@gmail.com"
+        "Information about the CS (Computer science) department of College of Engineering Kottarakkara": {
+            "About the CS department": {
+                "Computer Science Department of CEK at a Glance description": "Computer Engineering is a discipline that integrates several fields of electrical engineering and computer science required to develop computer hardware and software. Computer engineering blends together computer science and electrical engineering to further advancement in digital technology, computer networking and computer systems. In turn, computer engineers use their extensive knowledge of hardware and software design and computer programming to make computing platforms and applications more efficient and effective. Seamlessly integrating the latest innovations, computer engineers develop new computer hardware, design and implement software applications, and enhance the capabilities of networks and communications systems.",
+                "data on the scope of Computer Engineering by CEK": "Computer engineers work with hardware and software, ensuring that the two are seamlessly integrated and functioning properly. Computer engineers focus on innovation  making computing systems safer, faster and more powerful. At the career level, there are two main avenues: hardware and software engineering. Hardware engineers focus their skills on computer systems and components, designing microprocessors, circuit boards, routers and other embedded devices. On the software side, these engineers create, test and debug programs and applications that run on computers, mobile devices and more.",
+                "Data on the Admission to computer science by CEK": "The students are admitted based on rank list published by controller of entrance examination, Kerala state."
+            },
+            "Data on the HOD of CS department": {
+                "Name of the CS department HOD": "INDU P K",
+                "Designation of the CS department HOD": "ASSISTANT PROFESSOR",
+                "Phone number of the CS department HOD": "Ph: 9995680910"
+            },
+            "Information of the faculty of CS department": [
+                "faculty name is Ajeesh S and their designation is Assistant Professor",
+                "faculty name is Kala Karun and their designation is Assistant Professor (on leave )",
+                "faculty name is Sukanya M V and their designation is Assistant Professor",
+                "faculty name is Nivedya A R and their designation is Assistant Professor",
+                "faculty name is Jinu L and their designation is Assistant Professor",
+                "faculty name is Marina G and their designation is Assistant Professor",
+                "faculty name is Geethu Raju G and their designation is Assistant Professor",
+                "faculty name is Reshma Raj K S and their designation is Assistant Professor",
+                "faculty name is Sibimol J and their designation is Assistant Professor",
+                "faculty name is Grace Maickel and their designation is Assistant Professor",
+                "faculty name is Sumi M and their designation is Assistant Professor",
+                "faculty name is Neethu Thomas and their designation is Assistant Professor",
+                "faculty name is Amila A L and their designation is Assistant Professor",
+                "faculty name is Merlin K Thomas and their designation is Assistant Professor",
+                "faculty name is Aswathy S and their designation is Assistant Professor",
+                "faculty name is Revathy P and their designation is Computer Programmer",
+                "faculty name is Jisha R Chandran and their designation is Computer Programmer",
+                "faculty name is Aswathy Chandran and their designation is Computer Programmer",
+                "faculty name is Swathy R S and their designation is Demonstrator"
+            ]
         }
-    },
-    {},
-    {},
-    {
-        "General Data about College of Engineering Kottarakkara": "College of Engineering Kottarakkara has been the leading technical institution in Kerala since its venture in 2004. The college is commonly known as CEK located near Navodaya school and ETC at Thrikkannamangal, Kottarakkara. The institution is approved by All India Council for Technical Education(AICTE) , New Delhi and affiliated to APJ Abdul Kalam Technological University (KTU) . It is under the management of IHRD(Institute of Human Resources Development)  Established by Govt. of Kerala. offers B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine learning), B.Tech in Computer Science & Engineering, Electronics & Communication Engineering, reflecting the modern technological advancements through its updated syllabi."
     }
 ]

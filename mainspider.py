@@ -196,7 +196,8 @@ def main():
 
     # COLLEGE OF ENGINEERING KOTTARAKKARA
     # process.crawl(CEKO_principal)
-    process.crawl(CEKO_about_the_college)
+    # process.crawl(CEKO_about_the_college)
+    process.crawl(CEKO_cs_dep)
     process.start()
 
 if __name__ == "__main__":
