@@ -311,7 +311,7 @@ def process_query(process_input) -> Dict[str, Any]:
         if fallback_pattern.search(rag_output):
             try:
                 # Forward to Gemini general capabilities if answer not found in context
-                fallback_model = genai.GenerativeModel("gemini-pro")
+                fallback_model = genai.GenerativeModel("gemini-2.0-flash")
                 fallback_response = fallback_model.generate_content(process_input["user_question"])
                 # Depending on the API, access the response text appropriately
                 fallback_text = getattr(fallback_response, "text", None) or fallback_response.get("text", "")
