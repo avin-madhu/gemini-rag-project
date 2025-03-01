@@ -1,5 +1,20 @@
 [
     {
+        "Information about the Applied Science department of College of Engineering Kottarakkara": {
+            "Data on the HOD of Applied Science department": {
+                "Name of the Applied Science department HOD": "Dr. AJITHA P S",
+                "Designation of the Applied Science department HOD": "Assoc. Prof. in Mathematics",
+                "Phone number of the Applied Science department HOD": "Mob: 9809852453"
+            },
+            "Information of the faculty of Applied Science department": [
+                "faculty name is Jayalekshmi A and their designation is Assoc. Prof in Mathematics",
+                "faculty name is Manu Rajendran and their designation is Assoc. Prof in Physical Education",
+                "faculty name is Arya and their designation is Asst: Professor in Physics",
+                "faculty name is Sahima S and their designation is Asst: Professor in English"
+            ]
+        }
+    },
+    {
         "Information about the CS (Computer science) department of College of Engineering Kottarakkara": {
             "About the CS department": {
                 "Computer Science Department of CEK at a Glance description": "Computer Engineering is a discipline that integrates several fields of electrical engineering and computer science required to develop computer hardware and software. Computer engineering blends together computer science and electrical engineering to further advancement in digital technology, computer networking and computer systems. In turn, computer engineers use their extensive knowledge of hardware and software design and computer programming to make computing platforms and applications more efficient and effective. Seamlessly integrating the latest innovations, computer engineers develop new computer hardware, design and implement software applications, and enhance the capabilities of networks and communications systems.",
@@ -31,7 +46,69 @@
                 "faculty name is Jisha R Chandran and their designation is Computer Programmer",
                 "faculty name is Aswathy Chandran and their designation is Computer Programmer",
                 "faculty name is Swathy R S and their designation is Demonstrator"
+            ],
+            "Information about the UG (undergraduate) course offered by College Engineering Kottarakkara": {
+                "The Department offers these courses": [
+                    "B.Tech in Computer Science and Engineering (CSE)",
+                    "B.Tech in Computer Science and Engineering-Artificial Intelligence & Machine learning(CL)",
+                    "B.Tech in Electronics and Communication Engineering (ECE)"
+                ],
+                "seat information for UG Course": "NO. OF SEATS(INTAKE) : 120 PER YEAR FOR CSE NO. OF SEATS(INTAKE) : 60 PER YEAR FOR Artificial Intelligence & Machine learning(CSE) MERIT QUOTA : 60 SEATS(100%)"
+            }
+        }
+    },
+    {
+        "Information about the EC (Electronics and Communication) department of College of Engineering Kottarakkara": {
+            "About the EC department": {
+                "Electronics and Communication Department of CEK at a Glance description": "ECE, is one of the largest and faster growing sectors of the present industry. It is a combination of two major branches of engineering, Electronics and Telecommunication, Electronics Engineering distinguishes itself from other technical trades by the constant redefinition of its sphere of influence. The branch of engineering help us to see, hear and communicate over vast distances, supervise production and manufacturing process and oversee installation and maintenance of computers, peripherals and components. We work with equipments that use extremely small amount of power. The role of the electronics engineer is pivotal in realms ranging from the toy industry to consumer electronics, from household articles to space satellite communication. Our course includes theory, design, fabrication, production, testing and manufacture of complex products and systems. We realize the requirement of equipments and components for major industries, including the medical, automotive, robotics, computer and networking sectors. Further, the design of data processing systems for communication, including the defense requirements false under our purview.",
+                "data on the admission to Electronics and Communication Engineering by CEK": "The students are admitted based on rank list published by controller of entrance examination, Kerala state."
+            },
+            "Data on the HOD of EC department": {
+                "Name of the EC department HOD": "SHAN N",
+                "Designation of the EC department HOD": "ASSISTANT PROFESSOR",
+                "Phone number of the EC department HOD": "Ph :9744981997"
+            },
+            "Information of the faculty of EC department": [
+                "faculty name is Jafferkhan P and their designation is Assistant Professor",
+                "faculty name is Shahina S and their designation is Assistant Professor",
+                "faculty name is Sibu M. S. and their designation is Tradesman",
+                "faculty name is Athira Thampi and their designation is Demonstrator"
             ]
         }
+    },
+    {
+        "General Data about College of Engineering Kottarakkara": "College of Engineering Kottarakkara has been the leading technical institution in Kerala since its venture in 2004. The college is commonly known as CEK located near Navodaya school and ETC at Thrikkannamangal, Kottarakkara. The institution is approved by All India Council for Technical Education(AICTE) , New Delhi and affiliated to APJ Abdul Kalam Technological University (KTU) . It is under the management of IHRD(Institute of Human Resources Development)  Established by Govt. of Kerala. offers B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine learning), B.Tech in Computer Science & Engineering, Electronics & Communication Engineering, reflecting the modern technological advancements through its updated syllabi."
+    },
+    {
+        "Data about the principal of College of Engineering Kottarakkara": {
+            "principal_name": "Dr.MANOJ RAY D",
+            "Principal of college name": "College of Engineering, Kottarakkara",
+            "Contact Number of principal": "Ph: 8547005039, 04742453300",
+            "Email of principal": "cekottarakkara.ihrd@gmail.com"
+        }
+    },
+    {
+        "Placement officer of College of Engineering Kottarakkara": "INDU P K"
+    },
+    {
+        "Information about the General Engineering department of College of Engineering Kottarakkara": {
+            "Data on the HOD of General Engineering department": {
+                "Name of the General Engineering department HOD": "LIBI A",
+                "Designation of the General Engineering department HOD": "Asst. Prof. in Electrical Engineering",
+                "Phone number of the General Engineering department HOD": "Mob: 9746169654"
+            },
+            "Information of the faculty of General Engineering department": [
+                "faculty name is Dr. ASIFSHA A and their designation is Asst. Prof. in Mechanical Engineering"
+            ]
+        }
+    },
+    {
+        "Link for the documents required for BTECH admission at CEK": " https://cekottarakkara.ihrd.ac.in/wp-content/uploads/2024/08/List-of-Documents-2024-admission.pdf",
+        "Details for the FEES to be paid for BTECH admission in CEK": "https://cekottarakkara.ihrd.ac.in/wp-content/uploads/2024/08/Admission-fee-2024.pdf",
+        "Link for the registration of NON-KEAM 2024 admission for BTECH at CEK": "https://forms.gle/bBUwKZPLSPm58XgT7",
+        "Link for admission of NRI Students at CEK": "https://nri.ihrd.ac.in/",
+        "Link for the request of TC ( Termiination Certficate )": "https://cekottarakkara.ihrd.ac.in/wp-content/uploads/2021/11/Vrequest-TC-R-converted.pdf",
+        "Fee details for LET (Lateral Entry Students) at college of Engineering Kottarakkara": "https://cekottarakkara.ihrd.ac.in/wp-content/uploads/2024/07/LET-admission-2024-allotment-fee-to-be-paid.pdf",
+        "List of documents to be submitted for LET (Lateral Entry Students) Admission at CEK": "https://cekottarakkara.ihrd.ac.in/wp-content/uploads/2023/08/List-of-Documents.pdf"
     }
 ]

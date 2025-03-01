@@ -195,9 +195,14 @@ def main():
     # process.crawl(CECH_DepartmentSpider)
 
     # COLLEGE OF ENGINEERING KOTTARAKKARA
-    # process.crawl(CEKO_principal)
-    # process.crawl(CEKO_about_the_college)
+    process.crawl(CEKO_principal)
+    process.crawl(CEKO_about_the_college)
     process.crawl(CEKO_cs_dep)
+    process.crawl(CEKO_ec_dep)
+    process.crawl(CEKO_as_dep)
+    process.crawl(CEKO_ge_dep)
+    process.crawl(CEKO_admission)
+    process.crawl(CEKO_placement)
     process.start()
 
 if __name__ == "__main__":
